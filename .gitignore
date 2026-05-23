@@ -1,0 +1,12 @@
+# 本地素材（体积大，勿提交 GitHub）
+assets/*
+!assets/README.md
+
+.work/
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store

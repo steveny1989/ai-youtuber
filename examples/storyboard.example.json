@@ -1,0 +1,68 @@
+{
+  "title": "示例：AI 如何改变内容创作",
+  "language": "zh-CN",
+  "chapters": [
+    { "id": "1", "label": "第一章" },
+    { "id": "2", "label": "第二章" },
+    { "id": "3", "label": "第三章" }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "final.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 34,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 100
+  },
+  "watermark": {
+    "mode": "image",
+    "image": "assets/Logo.png"
+  },
+  "tts": {
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+0%"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 4,
+    "narration": ""
+  },
+  "scenes": [
+    {
+      "id": "intro",
+      "scene_type": "intro",
+      "narration": "大家好，今天我们来聊聊人工智能如何改变内容创作。"
+    },
+    {
+      "id": "chapter-1-open",
+      "scene_type": "chapter",
+      "chapter": "1",
+      "narration": "第一，脚本可以自动生成，但成片仍然需要稳定的时间轴和模板。",
+      "duration_sec": 3.5
+    },
+    {
+      "id": "chapter-1-body",
+      "narration": "把脚本转成 JSON 分镜后，就可以交给本流水线批量渲染。",
+      "image": "assets/placeholder.jpg"
+    },
+    {
+      "id": "chapter-2-open",
+      "scene_type": "chapter",
+      "chapter": "2",
+      "narration": "第二，音色与字幕可以统一成频道风格。",
+      "duration_sec": 3.5
+    },
+    {
+      "id": "closing",
+      "narration": "如果你喜欢这类工具，记得订阅，我们下期见。",
+      "image": "assets/placeholder.jpg"
+    }
+  ]
+}

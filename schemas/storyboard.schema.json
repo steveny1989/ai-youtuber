@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-youtuber.local/schemas/storyboard.schema.json",
+  "title": "Storyboard",
+  "type": "object",
+  "required": ["title", "scenes"],
+  "properties": {
+    "title": { "type": "string" },
+    "language": { "type": "string", "default": "zh-CN" },
+    "output": {
+      "type": "object",
+      "properties": {
+        "width": { "type": "integer", "default": 1920 },
+        "height": { "type": "integer", "default": 1080 },
+        "fps": { "type": "integer", "default": 30 },
+        "filename": { "type": "string", "default": "final.mp4" }
+      }
+    },
+    "style": {
+      "type": "object",
+      "properties": {
+        "background_color": {
+          "type": "string",
+          "default": "#0a1210",
+          "description": "全片画布底色；与 placeholder-home 暗区一致（brand.py PALETTE_BG）"
+        },
+        "subtitle_font_size": { "type": "integer", "default": 34 },
+        "subtitle_color": { "type": "string", "default": "#f2f0e8" },
+        "subtitle_margin_bottom": { "type": "integer", "default": 100 },
+        "subtitle_max_width_ratio": { "type": "number", "default": 0.78 },
+        "subtitle_style": {
+          "type": "string",
+          "enum": ["shadow", "box"],
+          "default": "shadow",
+          "description": "shadow=无黑底条（推荐）；box=传统黑底字幕"
+        },
+        "subtitle_align": {
+          "type": "string",
+          "enum": ["center", "left"],
+          "default": "center"
+        },
+        "font_path": { "type": "string" },
+        "font_index": { "type": "integer", "default": 0 }
+      }
+    },
+    "tts": {
+      "type": "object",
+      "properties": {
+        "voice": { "type": "string", "default": "zh-CN-YunxiNeural" },
+        "rate": { "type": "string", "default": "+0%" }
+      }
+    },
+    "watermark": {
+      "type": "object",
+      "description": "左上角品牌水印，默认 assets/Logo.png",
+      "properties": {
+        "enabled": { "type": "boolean", "default": true },
+        "mode": {
+          "type": "string",
+          "enum": ["image", "text", "both"],
+          "default": "image"
+        },
+        "image": { "type": "string", "default": "assets/Logo.png" },
+        "width_ratio": { "type": "number", "default": 0.11 },
+        "opacity": { "type": "number", "default": 1.0 },
+        "text": { "type": "string", "default": "" },
+        "font_size": { "type": "integer", "default": 24 },
+        "color": { "type": "string", "default": "#e8e6df" },
+        "margin_x": { "type": "integer", "default": 40 },
+        "margin_y": { "type": "integer", "default": 40 },
+        "style": {
+          "type": "string",
+          "enum": ["minimal", "box"],
+          "default": "minimal"
+        },
+        "font_index": { "type": "integer", "default": 2 }
+      }
+    },
+    "chapters": {
+      "type": "array",
+      "description": "章节表；渲染前自动生成 assets/chapters/chapter-{id}.jpg",
+      "items": {
+        "type": "object",
+        "required": ["id", "label"],
+        "properties": {
+          "id": { "type": "string" },
+          "label": { "type": "string", "description": "如「第一章」" },
+          "file": {
+            "type": "string",
+            "description": "可选输出路径，默认 assets/chapters/chapter-{id}.jpg"
+          }
+        }
+      }
+    },
+    "ending": {
+      "type": "object",
+      "description": "片尾配置；默认自动追加 assets/avatar.webp",
+      "properties": {
+        "enabled": { "type": "boolean", "default": true },
+        "image": { "type": "string", "default": "assets/avatar.webp" },
+        "duration_sec": { "type": "number", "default": 4 },
+        "narration": {
+          "type": "string",
+          "default": "",
+          "description": "可选片尾旁白；留空则仅展示画面"
+        },
+        "pause_after_sec": { "type": "number", "default": 0 }
+      }
+    },
+    "scenes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "narration"],
+        "properties": {
+          "id": { "type": "string" },
+          "narration": { "type": "string", "description": "旁白文案，用于 TTS 与字幕" },
+          "image": {
+            "type": "string",
+            "description": "画面素材路径或 URL（本地路径优先）"
+          },
+          "duration_sec": {
+            "type": "number",
+            "description": "可选：固定镜头时长；省略则由配音时长决定"
+          },
+          "pause_after_sec": {
+            "type": "number",
+            "default": 0.3,
+            "description": "镜头结束后的静音间隔"
+          },
+          "scene_type": {
+            "type": "string",
+            "enum": ["intro", "chapter", "body"],
+            "description": "intro=首页；chapter=章节片头（需 chapter 或 chapter_title）"
+          },
+          "chapter": {
+            "type": "string",
+            "description": "引用 chapters[].id，自动生成章节图"
+          },
+          "chapter_title": {
+            "type": "string",
+            "description": "直接指定章节名（不经过 chapters 表时使用）"
+          }
+        }
+      }
+    }
+  }
+}
