@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第二十四章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：戒躁"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "用力过猛"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch24-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-8%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "企者不立",
+      "哲学",
+      "第24章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十四章精解——余食赘行，有道者不处。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "赘行"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "企者不立",
+      "哲学",
+      "第24章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十四章精解——余食赘行，有道者不处。",
+    "dynamic": "踮脚站不稳，跨步走不远——自见者不明。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十三章讲希言自然与同于道。第二十四章，老子列负面清单：「企者不立，跨者不行。」踮脚站不稳，跨步走不远——用力过猛，姿势就错。接着又是四自：自见、自是、自伐、自矜——与第二十二章呼应。最后：「其在道也，曰余食赘行，物或恶之，故有道者不处。」在道上，这叫剩饭赘行，万物可能厌恶，有道的人不处。这一章，是「姿态纠错」——你哪里用力错了。它和第二十二、二十三章连成一套：曲则全、希言久、戒企跨。 宜与二十二、二十三章连读：该曲时曲，该希言时希言，该不企跨时不企跨。",
+      "image": "assets/DaoDeJing/踮脚 - Ch24.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐条破译，对照自己身上的「企」与「跨」，以及四自。",
+      "image": "assets/DaoDeJing/同源 - Ch49.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「企者不立，跨者不行。」踮起脚尖，站不久；迈开大步，走不远。身体隐喻：任何超出自然姿态的用力，都不可持续。站姿错了，再努力也晃。",
+      "image": "assets/DaoDeJing/和大怨 - Ch79.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「自见者不明，自是者不彰，自伐者无功，自矜者不长。」想被看见，反而不明；自以为是，反而不彰；自夸功劳，反而无功；自傲，反而不能长。与第二十二章四不自，正反两面同一结构。见、是、伐、矜，是心里的踮脚与跨步。",
+      "image": "assets/DaoDeJing/哀兵必胜 - Ch69.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「其在道也，曰余食赘行。」在道的语言里，这叫「多余的饭、多余的行」——赘余、做作、过犹不及。不是恶，是浪费与失真。吃撑了，走不动；做赘了，系统恶。 赘行像吃撑：系统消化不了，还会反胃。",
+      "image": "assets/DaoDeJing/喂马的草料 - 通用.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「物或恶之，故有道者不处。」万物可能会厌恶这种姿态，所以有道的人不处——不占据那种位置、不采用那种做法。不处，是主动退出错误结构。",
+      "image": "assets/DaoDeJing/善建者不拔 - Ch54.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：有道者不处赘行。不是回避行动，是回避「表演式行动」——企、跨、四自，都是赘行的一种。真行动，往往朴素、可久、少赘——别用表演代替行动。",
+      "image": "assets/DaoDeJing/善用人者为之下 - Ch68.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "亚里士多德中道：德性在过度与不足之间。儒家「过犹不及」。禅宗减到「吃饭睡觉」。老子用身体比喻：企与跨，一眼可自检。四自，是心理层面的企跨。余食赘行，是系统层面的浪费。三层次对照，比背原文管用。",
+      "image": "assets/DaoDeJing/圆形的月亮门 - Ch01.png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。朋友圈人设、路演 PPT 创业、职场抢话——都是「企」：踮给全世界看。步子跨太大，融资、扩张、上市一把梭——「跨者不行」。自检：我这次是在做事，还是在踮给人看？ 融资一把梭、人设天天刷，都是企与跨的现代版。",
+      "image": "assets/DaoDeJing/土灶 - 通用.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "产品功能赘余，也是余食赘行：用户吃不下，你还堆。会议冗长，是语言的赘行。有道者不处——不是躺平，是拒绝处在这类结构里。删掉一个赘功能，往往比加一个功能更得道。",
+      "image": "assets/DaoDeJing/坚强者死之徒 - Ch01.png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，戒企跨：姿态自然，步子匹配。第二，戒四自：见、是、伐、矜，逐项自检。第三，识赘行：多问这是不是余食。第四，有道不处：不占表演位。发布前问：这是行动，还是赘行？下一章，「有物混成」——道与四大、道法自然。",
+      "image": "assets/DaoDeJing/塞其兑 - Ch52.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

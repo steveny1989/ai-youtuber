@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第三十八章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：德衰"
+    },
+    {
+      "id": "2",
+      "label": "层级破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "形式主义"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch38-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "上德不德",
+      "哲学",
+      "第38章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十八章精解——失道而后德，失德而后仁。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "德仁义礼"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "处厚实"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "上德不德",
+      "哲学",
+      "第38章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十八章精解——失道而后德，失德而后仁。",
+    "dynamic": "礼是外壳，道是内核；处厚不处薄，处实不处华。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803,
+    "cover_image": "assets/DaoDeJing/上德不德 - Ch38.jpg"
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十七章讲无为自化。第三十八章，老子画了一张「德」的衰减图：「上德不德，是以有德；下德不失德，是以无德。」最高的德，不标榜德，所以真有德；最低的德，死死抓住「我在有德」，所以无德。然后一路往下：上仁、上义、上礼——礼最末，忠信之薄而乱之首。大丈夫处其厚，不居其薄；处其实，不居其华。故去彼取此。这一章，是反形式主义、反表演道德。",
+      "image": "assets/DaoDeJing/礼者 - Ch38.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译这张「德」的层级表。",
+      "image": "assets/DaoDeJing/上德不德 - Ch38.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「上德不德，是以有德。」上德，不把德当勋章挂胸前。做了，像没做——所以德在。捐完款发通稿、帮完人到处说——德已开始漏。真正稳的关系，常是事情成了，名字都没必要出现。",
+      "image": "assets/DaoDeJing/溪边饮水 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「下德为之而有以为。」下德，硬做，而且「有以为」——有目的、有算计、要回报。账本写在脸上，对方读得到；算计感一现，信任就漏。「我对你这么好，你怎么可以」——不是德，是下德在讨债。帮一次忙就到处说，帮十次就写进简历——德已开始表演。",
+      "image": "assets/DaoDeJing/漆黑深水中 - Ch36 (1).jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「失道而后德，失德而后仁，失仁而后义，失义而后礼。」每掉一层，就多一层人为、少一层自然。礼，是外壳；道，是内核。公司只剩流程没有判断，家庭只剩规矩没有温度——都在礼层打转。流程越完美、温度越低，往往说明已经在礼层待太久。",
+      "image": "assets/DaoDeJing/漆黑的地下溶洞深处 - Ch41.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「夫礼者，忠信之薄而乱之首。」礼，是忠信变薄之后的补丁；弄不好，还是乱之源——形式压过真实，必生怨。复盘会开了三小时，问题没人担责——礼很满，忠信很薄。",
+      "image": "assets/DaoDeJing/漆黑雷雨云背景下 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「是以大丈夫处其厚，不居其薄；处其实，不居其华。」选厚的、实的；不选薄的、华的。去彼取此，是价值排序，不是道德优越感。用户记得住交付，记不住文化墙上的形容词。",
+      "image": "assets/DaoDeJing/漏窗虚实 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "康德——德国哲学家——谈义务：出于义务，仍可能冷，但至少不表演。儒家讲礼乐相济——礼若压过乐，就虚。尼采——十九世纪哲学家——讲价值重估：层级坍塌后，人还在旧道德里表演。老子：别在礼层打转，回厚、回实。三脉都在问：你修的是德，还是修给看的德？表演式善良，常比冷漠更耗信任——因为对方读得到「有以为」。",
+      "image": "assets/DaoDeJing/漏雨的大殿内 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。文化墙、感恩海报、形式主义复盘——可能是「礼」。真厚：发工资准时、承诺兑现、错误担责、对用户说「这版我们没做好」。处厚不处华，同事和用户都感受得到；华可吸睛，厚才留人。品牌声量很大、退货率很高——就是居华不居厚。公关稿写满价值观、客服电话永远打不通——礼很满，忠信很薄。",
+      "image": "assets/DaoDeJing/漫天狂暴的白雪中 - Ch45.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：朋友圈善良、人设完美，是华；守时、还钱、困难时在场，是厚。上德不德，是别用表演换自我感动——感动的是自己，不是关系。长期信的是石头般的可靠，不是玉的炫目。别人危难时你在，比平时发一百条正能量，更接近上德。",
+      "image": "assets/DaoDeJing/漫漫黄泉路 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，上德不德：做了别挂勋章——德在事里，不在话术里。第二，识层级：礼不是最高，道在更底。第三，处厚实：选真，不选秀——交付比姿态重要。第四，去彼取此：去薄华，取厚实。下一章，「昔之得一者」——贵以贱为本，高以下为基。",
+      "image": "assets/DaoDeJing/贵以贱为本 - Ch39.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第七章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：长生"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "抢位焦虑"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch07-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天长地久",
+      "哲学",
+      "第7章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七章精解——后其身而身先。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "抢 C 位"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天长地久",
+      "哲学",
+      "第7章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七章精解——后其身而身先。",
+    "dynamic": "越把自己放最后，系统越让你站得久。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六章讲「谷神」——生之源在空处。第七章追问：为什么天地能长久？答案反直觉：「以其不自生，故能长生。」不是为自己活，反而活得久。这对今天所有「抢 C 位」的人，是一记闷棍。",
+      "image": "assets/DaoDeJing/Hemp Screen - Ch02.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/Identity Mask - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「天长地久。天地所以能长且久者，以其不自生，故能长生。」天地不为自己生存而运转，所以能长久。把「自我保存」从第一位挪开，系统反而稳定。",
+      "image": "assets/DaoDeJing/Ink Ripple - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「是以圣人后其身而身先。」圣人把自己放后面，反而被推到前面。不是装谦虚，是不抢位置，让位置自然形成。",
+      "image": "assets/DaoDeJing/Knowing When To Stop - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「外其身而身存。」不把肉身和身份焊死在利益中心，反而能存住。你越把「我」顶在最前，越容易被攻击、被消耗、被替换。",
+      "image": "assets/DaoDeJing/车轮中心的空毂 - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「非以其无私邪？故能成其私。」正因为不自私，反而成就了自己。这里的「私」，不是损人利己，是可持续的自我实现。",
+      "image": "assets/DaoDeJing/Knowledge Pile - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：长久，来自退后；领导力，来自不抢。天地给你的模型，是「无私故长生」，不是「抢故赢」。",
+      "image": "assets/DaoDeJing/Lamp And Bowl - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "范仲淹「先天下之忧而忧，后天下之乐而乐」，是儒家的退后逻辑。康德讲自律：当你不被感性冲动牵着走，反而获得真正的自由。老子更早：后其身、外其身，是系统级的退后。",
+      "image": "assets/DaoDeJing/Less Is More - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。职场抢功、会议抢话、内容抢热点——短期你靠前，长期你透支信任。真正走得远的团队，往往是那个愿意做后勤、做底座、做基础设施的人。",
+      "image": "assets/DaoDeJing/Linen Back - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "领导者若凡事抢镜，组织就学会表演；领导者若退后一步，组织才学会担当。后其身而身先，是结构，不是人设。",
+      "image": "assets/DaoDeJing/Meditating Sage - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，学天地：不自生，故能长生。第二，后其身：别抢第一排。第三，外其身：别把身份焊死在功劳上。第四，以无私成：退后，反而站久。下一章，「上善若水」——不争之德。",
+      "image": "assets/DaoDeJing/Monastery On Cliff - Ch02.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

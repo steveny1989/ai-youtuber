@@ -1,16 +1,16 @@
-"""按句 TTS + 时间轴字幕（与配音对齐）。"""
+"""每镜一条配音 + 对齐时间轴字幕。"""
 
 from __future__ import annotations
 
 import json
 import re
-import shutil
-import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 
-from .ffmpeg_util import probe_duration_sec, require_ffmpeg
+from .ffmpeg_util import probe_duration_sec
 from .models import StyleConfig
+
+CUES_VERSION = "align_v1"
 
 
 @dataclass
@@ -20,7 +20,7 @@ class SubtitleCue:
     end: float
 
 
-def split_sentences(text: str, *, max_chars: int = 42) -> list[str]:
+def split_sentences(text: str, *, max_chars: int = 26) -> list[str]:
     text = text.strip()
     if not text:
         return []
@@ -58,86 +58,76 @@ def load_cues(path: Path) -> list[SubtitleCue]:
     if not path.exists():
         return []
     data = json.loads(path.read_text(encoding="utf-8"))
-    return [SubtitleCue(**item) for item in data]
+    if isinstance(data, list):
+        return [SubtitleCue(**item) for item in data]
+    if data.get("version") != CUES_VERSION:
+        return []
+    return [SubtitleCue(**item) for item in data.get("cues", [])]
 
 
 def save_cues(path: Path, cues: list[SubtitleCue]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    payload = [
-        {"text": c.text, "start": round(c.start, 3), "end": round(c.end, 3)}
-        for c in cues
-    ]
+    payload = {
+        "version": CUES_VERSION,
+        "cues": [
+            {"text": c.text, "start": round(c.start, 3), "end": round(c.end, 3)}
+            for c in cues
+        ],
+    }
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def generate_timed_audio(
-    narration: str,
-    audio_path: Path,
-    tts_config,
-) -> list[SubtitleCue]:
-    """逐句配音并拼接，返回与音频对齐的字幕时间轴。"""
+def cues_are_valid(path: Path) -> bool:
+    if not path.exists():
+        return False
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return False
+    if isinstance(data, list):
+        return False
+    return data.get("version") == CUES_VERSION and bool(data.get("cues"))
+
+
+def align_cues_to_duration(narration: str, duration: float) -> list[SubtitleCue]:
+    """按句切分 + 字数比例分配时长（每镜一条 mp3 对齐）。"""
     sentences = split_sentences(narration)
     if not sentences:
-        sentences = [narration.strip()]
+        text = narration.strip()
+        if not text or duration <= 0:
+            return []
+        return [SubtitleCue(text=text, start=0.0, end=duration)]
 
-    parts_dir = audio_path.parent / f"{audio_path.stem}_parts"
-    parts_dir.mkdir(parents=True, exist_ok=True)
-
-    seg_paths: list[Path] = []
+    weights = [max(1, len(s)) for s in sentences]
+    total = sum(weights)
     cues: list[SubtitleCue] = []
     cursor = 0.0
+    for sentence, weight in zip(sentences, weights):
+        seg = duration * weight / total
+        cues.append(SubtitleCue(text=sentence, start=cursor, end=cursor + seg))
+        cursor += seg
+    if cues:
+        cues[-1] = SubtitleCue(cues[-1].text, cues[-1].start, duration)
+    return cues
 
-    from .tts import generate_scene_audio
 
-    for idx, sentence in enumerate(sentences):
-        seg_path = parts_dir / f"{idx:03d}.mp3"
-        generate_scene_audio(sentence, seg_path, tts_config)
-        dur = probe_duration_sec(seg_path)
-        cues.append(SubtitleCue(text=sentence, start=cursor, end=cursor + dur))
-        cursor += dur
-        seg_paths.append(seg_path)
-
-    _concat_audio(seg_paths, audio_path)
-
+def build_cues_for_audio(narration: str, audio_path: Path) -> list[SubtitleCue]:
+    duration = probe_duration_sec(audio_path)
+    cues = align_cues_to_duration(narration, duration)
     save_cues(cues_path_for(audio_path), cues)
     return cues
 
 
-def _concat_audio(seg_paths: list[Path], out_path: Path) -> None:
-    ffmpeg = require_ffmpeg()
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    if not seg_paths:
-        raise ValueError("没有音频片段可拼接")
+def generate_scene_audio_and_cues(
+    narration: str,
+    audio_path: Path,
+    tts_config,
+) -> list[SubtitleCue]:
+    """每镜一次 TTS，再从整段 mp3 时长对齐句级 cues。"""
+    from .tts import generate_scene_audio
 
-    if len(seg_paths) == 1:
-        shutil.copy2(seg_paths[0], out_path)
-        return
-
-    list_file = out_path.parent / f"{out_path.stem}_concat.txt"
-    with list_file.open("w", encoding="utf-8") as f:
-        for path in seg_paths:
-            f.write(f"file '{path.resolve()}'\n")
-
-    subprocess.run(
-        [
-            ffmpeg,
-            "-y",
-            "-f",
-            "concat",
-            "-safe",
-            "0",
-            "-i",
-            str(list_file),
-            "-c:a",
-            "libmp3lame",
-            "-q:a",
-            "2",
-            str(out_path),
-        ],
-        check=True,
-        capture_output=True,
-        text=True,
-    )
+    generate_scene_audio(narration, audio_path, tts_config)
+    return build_cues_for_audio(narration, audio_path)
 
 
 def build_drawtext_chain(
@@ -147,7 +137,7 @@ def build_drawtext_chain(
     work_dir: Path,
     scene_id: str,
 ) -> tuple[str, str] | None:
-    """返回 (filter_complex, 最终视频流标签)。"""
+    """drawtext 链（部分 ffmpeg 构建无此滤镜时不用）。"""
     if not cues or not font_path:
         return None
 

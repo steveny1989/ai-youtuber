@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第十六章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：观复"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "周期复盘"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch16-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "致虚极",
+      "哲学",
+      "第16章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十六章精解——致虚极，守静笃，知常曰明。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "观复"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "致虚极",
+      "哲学",
+      "第16章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十六章精解——致虚极，守静笃，知常曰明。",
+    "dynamic": "静下来，才能看见万物往哪里回去。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "刚刚听完第十六章原文，核心只有八个字：「致虚极，守静笃。」第十五章讲善士如何「徐清徐生」，第十六章把方法推到系统层：把心空到极处，把静守到笃实，然后站在一旁，看万物自己生灭、自己回去。很多人把这一章读成打坐口诀，甚至当成逃离现实的借口。其实，它是一套「观察周期」的操作系统——你不再跟万物抢方向盘，而是学会看见它们往哪里复归。这一章在八十一讲里，是从「个人修养」跨到「宇宙节律」的枢纽：会观复，才谈得上知常、没身不殆。",
+      "image": "assets/DaoDeJing/归根 - Ch16.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，把这套「观复」系统装回现实。",
+      "image": "assets/DaoDeJing/观复 - Ch16.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「致虚极，守静笃。」虚，不是什么都不想，是把占满心的噪音、成见、标签卸到极处；静，不是躺着不动，是把心固定在一个不被情绪拖着跑的锚点上。致极、守笃——两个字都在说：别半吊子，要彻底。半静半躁，你什么也观不到。",
+      "image": "assets/DaoDeJing/极其黑的焦土和灰烬中 - Ch16.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「万物并作，吾以观复。」万物一起涌现、一起忙碌，我不跟着忙，我只看它们如何「复」——回到自己的根。作，是显化；复，是回归。老子在这里教你切换模式：从参与者，变成观察者。",
+      "image": "assets/DaoDeJing/落叶 - Ch16.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「夫物芸芸，各复归其根。归根曰静，是谓复命。」繁盛纷杂的万物，最后都要回到自己的根。归根，就是回到静的状态；静，就是生命完成一次循环后的复命。你看到的起落，不是乱，是各归其根。",
+      "image": "assets/DaoDeJing/落叶归根 - Ch16.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「复命曰常，知常曰明。不知常，妄作凶。」能认出这种「回去」的规律，就叫知常；知常，才是真明白。不知道常，乱动、硬干、凭冲动决策，往往凶。今天很多「勤奋」，其实是不知道常的妄作。",
+      "image": "assets/DaoDeJing/静笃 - Ch16.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "第五段，全章落点：「知常容，容乃公，公乃王，王乃天，天乃道，道乃久，没身不殆。」知常的人能包容，包容才能公，公才能合于天，合于道，才能长久，终身不危。这是一条从静观到格局的升级链——不是鸡汤，是结构。你没静观，就容不下异己；没容，就谈不上公；没公，王、天、道都是空话。",
+      "image": "assets/DaoDeJing/黑暗中 - Ch16.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "帕斯卡说人最怕静不下来，一静就听见内心的空洞。海德格尔讲「栖居」需要留白，人不是住在房子里，是住在意义与节奏的留白里。东方《易经》复卦，一阳来复，也是看见万物在最低点转身。老子更早：不必等危机才复，日常就要观复——在万物并作时，看见它们各自归根的那条线。三脉同归：静，不是逃，是为了看见「复」。",
+      "image": "assets/DaoDeJing/一束光切过暗室 - Ch56.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。信息时代最难的是「守静笃」：通知、热搜、群聊把虚填得满满。你跟着万物一起并作，却从不观复——所以焦虑、 burnout、决策变形。致虚极，是先给大脑清盘；守静笃，是固定每日一段不被打扰的观察时间。哪怕每天二十分钟，只看呼吸、看情绪、看项目处在「作」还是「归」，都比再开一场头脑风暴更有用。",
+      "image": "assets/DaoDeJing/一束极度刺眼的狭长白光 - Ch28.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "商业里也一样：只看增长曲线，不看周期回归，就会在顶峰加杠杆、在谷底恐慌砍杀。观复，是问：这件事的根是什么？它现在是在「作」，还是在「归」？知常，才分得清该进该退。投资人看复盘，创业者看留存，都是在找「复命」——别被单点爆款骗成妄作。",
+      "image": "assets/DaoDeJing/一根极细、看似柔弱的丝线 - Ch63.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，致虚：定期清空占满心的标签与噪音，给新知留缝。第二，守静：固定锚点，别半静半躁，静是笃实不是躺平。第三，观复：在忙碌中看见「各归其根」的线，分清「作」与「归」。第四，知常：认出周期再行动，避免妄作凶，以没身不殆为终局。下一章，「太上，下知有之」——最好的领导，为什么几乎被看不见。",
+      "image": "assets/DaoDeJing/太上 - Ch17.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

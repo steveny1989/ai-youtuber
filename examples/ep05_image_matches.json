@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "episode": 5,
+    "catalog": "assets/DaoDeJing/image_catalog.json",
+    "beat_count": 22,
+    "assigned": 22,
+    "algorithm": "manual_review",
+    "note": "收官 · 10张 ep05 全用"
+  },
+  "matches": [
+    {
+      "beat_id": "intro-1",
+      "file": "assets/DaoDeJing/ep05_01_five_keys.jpg",
+      "image_id": "ep05_01_five_keys",
+      "reason": "五把钥匙·抱一收官"
+    },
+    {
+      "beat_id": "intro-2",
+      "file": "assets/DaoDeJing/ep05_08_open_rustic_gate.jpg",
+      "image_id": "ep05_08_open_rustic_gate",
+      "reason": "押一处·柴门洞开"
+    },
+    {
+      "beat_id": "open-1",
+      "file": "assets/DaoDeJing/ep05_07_massive_roots.jpg",
+      "image_id": "ep05_07_massive_roots",
+      "reason": "减法链之根"
+    },
+    {
+      "beat_id": "s1-1",
+      "file": "assets/DaoDeJing/ep01_test_ancient_paper.png",
+      "image_id": "ep01_test_ancient_paper",
+      "reason": "EP01·地图"
+    },
+    {
+      "beat_id": "s1-2",
+      "file": "assets/DaoDeJing/ep02_01_crumbling_stone.jpg",
+      "image_id": "ep02_01_crumbling_stone",
+      "reason": "EP02·敢删"
+    },
+    {
+      "beat_id": "s1-3",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_01_brimming_bowl.jpg",
+      "image_id": "ep03_01_brimming_bowl",
+      "reason": "EP03·知止"
+    },
+    {
+      "beat_id": "s1-4",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_08_fragile_sprout.jpg",
+      "image_id": "ep04_08_fragile_sprout",
+      "reason": "EP04·简单"
+    },
+    {
+      "beat_id": "s1-5",
+      "file": "assets/DaoDeJing/ep01_v11_timelapse_clouds.png",
+      "image_id": "ep01_v11_timelapse_clouds",
+      "reason": "启动课·站得住"
+    },
+    {
+      "beat_id": "open-2",
+      "file": "assets/DaoDeJing/ep05_06_the_single_stroke.jpg",
+      "image_id": "ep05_06_the_single_stroke",
+      "reason": "执一·一笔"
+    },
+    {
+      "beat_id": "s2-1",
+      "file": "assets/DaoDeJing/ep01_v11_endless_corridor.png",
+      "image_id": "ep01_v11_endless_corridor",
+      "reason": "十条线·分散"
+    },
+    {
+      "beat_id": "s2-2",
+      "file": "assets/DaoDeJing/ep05_10_ridge_walker.jpg",
+      "image_id": "ep05_10_ridge_walker",
+      "reason": "维护十年·山脊"
+    },
+    {
+      "beat_id": "s2-3",
+      "file": "assets/DaoDeJing/ep05_02_deep_well_reflection.jpg",
+      "image_id": "ep05_02_deep_well_reflection",
+      "reason": "执一深井"
+    },
+    {
+      "beat_id": "s2-4",
+      "file": "assets/DaoDeJing/ep02_03_bronze_mask.jpg",
+      "image_id": "ep02_03_bronze_mask",
+      "reason": "副标签面具"
+    },
+    {
+      "beat_id": "open-3",
+      "file": "assets/DaoDeJing/ep05_03_the_lone_giant_tree.jpg",
+      "image_id": "ep05_03_the_lone_giant_tree",
+      "reason": "足够深·复利树"
+    },
+    {
+      "beat_id": "s3-1",
+      "file": "assets/DaoDeJing/ep05_09_vessel_of_light.jpg",
+      "image_id": "ep05_09_vessel_of_light",
+      "reason": "时间站你这边"
+    },
+    {
+      "beat_id": "s3-2",
+      "file": "assets/DaoDeJing/ep02_35_monastery_on_cliff.jpg",
+      "image_id": "ep02_35_monastery_on_cliff",
+      "reason": "一口井值得挖"
+    },
+    {
+      "beat_id": "s3-3",
+      "file": "assets/DaoDeJing/ep05_04_polishing_hand.jpg",
+      "image_id": "ep05_04_polishing_hand",
+      "reason": "重复是深度语法"
+    },
+    {
+      "beat_id": "open-4",
+      "file": "assets/DaoDeJing/ep01_v14_template_rice_paper.png",
+      "image_id": "ep01_v14_template_rice_paper",
+      "reason": "执一合链"
+    },
+    {
+      "beat_id": "protocol-1",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_06_stone_pavilion_rain.jpg",
+      "image_id": "ep03_06_stone_pavilion_rain",
+      "reason": "四期合成一句"
+    },
+    {
+      "beat_id": "protocol-2",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_18_loose_reins.jpg",
+      "image_id": "ep03_18_loose_reins",
+      "reason": "九十天执一对象"
+    },
+    {
+      "beat_id": "protocol-3",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_16_sundial_dusk.jpg",
+      "image_id": "ep03_16_sundial_dusk",
+      "reason": "深度标志·时间"
+    },
+    {
+      "beat_id": "closing-1",
+      "file": "assets/DaoDeJing/ep05_05_seamless_horizon.jpg",
+      "image_id": "ep05_05_seamless_horizon",
+      "reason": "五讲收束·后会有期"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第64章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：为无为"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "慎终如始"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch64-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "千里之行始于足下",
+      "哲学",
+      "第64章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十四章精解——未兆易谋与慎终如始。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "千里之行"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "始于足下"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "千里之行始于足下",
+      "哲学",
+      "第64章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十四章精解——未兆易谋与慎终如始。",
+    "dynamic": "其安易持，其未兆易谋——千里之行始于足下，慎终如始。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十三章讲「为无为」——图难于易，终不为大故能成其大。第六十四章，老子谈「时机」与「持守」：「其安易持，其未兆易谋，其脆易泮，其微易散。」为之于未有，治之于未乱；合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。为者败之，执者失之——慎终如始，则无败事。这一章，是预防与耐心黑盒：在安、在未兆、在毫末处下手。与第六十三章「作于细」合看：细是方法，早是时机。",
+      "image": "assets/DaoDeJing/千里之行 - ch64 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：易持易谋、千里足下，与慎终如始。",
+      "image": "assets/DaoDeJing/挑夫 - ch64 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「其安易持，其未兆易谋，其脆易泮，其微易散。」安时易持——稳定时要守纪律，别等乱了才抓；未兆易谋——征兆未起时易谋划，成本低；脆易泮、微易散——脆弱与微小，一碰就散。四句是「早」：体检在没病时，风控在没爆时。当代反例：火烧眉毛才开会——那是谋于已兆，贵且险。",
+      "image": "assets/DaoDeJing/松子 - ch64 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「为之于未有，治之于未乱。」未有——问题尚未成形，先布局；未乱——系统未崩，先治。与中医治未病、与第六十章烹小鲜同脉：少等鱼烂才翻锅。组织：文化裂缝在「未乱」时修补，成本是开会；等离职潮再修补，成本是换血。",
+      "image": "assets/DaoDeJing/Plc 05 Cooking Fish - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。」三喻同一结构：大来自小，远来自近。毫末、累土、足下——都是可触摸的第一步。不是贬低梦想，是反对跳过第一步的幻想。你羡慕合抱木，却不愿每天浇毫末——这就是「为者败之」的伏笔。",
+      "image": "assets/DaoDeJing/薄冰上刚落下一片枯叶 - ch64 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「为之者败之，执者失之。是以圣人无为，故无败；无执，故无失。」为者败之——硬扭、硬推、硬控，把自然节奏拧断；执者失之——攥太紧，东西反而溜走。无为、无执——不是撒手，是不乱为、不死抓。项目管理：微管理是执，失团队；完全不管是为败，失结果——要在中间：谋于未兆，持于安稳。",
+      "image": "assets/DaoDeJing/Plc 18 Astronomical - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「民之从事，常于几成而败之。慎终如始，则无败事。」几成而败——快成了却松劲、贪功、改方向——最常见的人性漏洞。慎终如始——收尾像开头一样认真，则无败事。欲不欲、不贵难得之货、学不学、复众人之所过——收束：少欲、少奇货、以众人之过为镜，辅万物自然而不敢为。全章落在「早 + 持 + 慎终」。",
+      "image": "assets/DaoDeJing/Wat 09 Still Mirror - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "西方「破窗理论」——微损不补则大乱，与「其微易散」同向。日本「持续改善」——累土成台。王阳明「知行合一」——足下第一步要落地。老子与韩非「防微杜渐」——政治与修身共用。",
+      "image": "assets/DaoDeJing/Plc 15 Empty Throne - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。产品：技术债在未兆时还，别等崩溃。学习：千里之行不是买课，是每天二十分钟。几成而败：项目百分之九十时砍需求、换老板——慎终如始：验收清单与启动清单同长。无执：对子代、对下属、对数据——抓方向，不抓每一粒灰尘。",
+      "image": "assets/DaoDeJing/Plc 01 Towering Wall - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：选一件「脆」关系或「微」习惯——本周在未兆时修：一句道歉、一次早睡。足下：大目标拆成今天十分钟的行动。慎终：手头任务列「收尾三条」，做完再开新坑。无执：放下一个你控制不了的结果，只守输入。",
+      "image": "assets/DaoDeJing/Plc 04 Midnight Cour - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，安而未兆：早谋早持。第二，毫末累土足下：大来自第一步。第三，无为无执：不乱扭、不死抓。第四，慎终如始：九成处仍当初心。千里之行——路在脚下，不在口号里。下一章，「古之善为道者，非以明民，将以愚之」——智多难治，玄德大顺。持守之后，老子谈治国与民智。",
+      "image": "assets/DaoDeJing/Plc 08 Meticulous Go - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

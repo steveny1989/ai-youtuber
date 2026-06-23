@@ -39,6 +39,12 @@
           "enum": ["center", "left"],
           "default": "center"
         },
+        "motion": {
+          "type": "string",
+          "enum": ["auto", "static", "kenburns_in", "kenburns_out", "pan_up", "pan_down", "pan_left", "pan_right"],
+          "default": "auto",
+          "description": "讲解静图微动：auto=按 scene_id 自动分配 Ken Burns / pan"
+        },
         "font_path": { "type": "string" },
         "font_index": { "type": "integer", "default": 0 }
       }
@@ -46,8 +52,33 @@
     "tts": {
       "type": "object",
       "properties": {
+        "provider": {
+          "type": "string",
+          "enum": ["edge", "volcengine", "gemini", "google_cloud"],
+          "default": "edge",
+          "description": "edge=微软 Edge；volcengine=火山豆包；gemini=Google；google_cloud=GCP"
+        },
         "voice": { "type": "string", "default": "zh-CN-YunxiNeural" },
-        "rate": { "type": "string", "default": "+0%" }
+        "rate": { "type": "string", "default": "+0%" },
+        "model": {
+          "type": "string",
+          "default": "gemini-2.5-flash-preview-tts",
+          "description": "Gemini TTS 模型名"
+        },
+        "language_code": {
+          "type": "string",
+          "default": "zh-CN",
+          "description": "Cloud TTS 语言代码"
+        },
+        "resource_id": {
+          "type": "string",
+          "default": "seed-tts-2.0",
+          "description": "火山 resource id：seed-tts-2.0 或 seed-tts-1.0"
+        },
+        "emotion": {
+          "type": "string",
+          "description": "火山情感：narrator、storytelling、happy 等"
+        }
       }
     },
     "watermark": {
@@ -74,6 +105,21 @@
           "default": "minimal"
         },
         "font_index": { "type": "integer", "default": 2 }
+      }
+    },
+    "ambient": {
+      "type": "object",
+      "description": "全片氛围层：浮尘 / 水墨缘晕 / 水面粼光",
+      "properties": {
+        "enabled": { "type": "boolean", "default": true },
+        "dust_opacity": { "type": "number", "default": 0.15 },
+        "ink_opacity": { "type": "number", "default": 0.07 },
+        "water_opacity": { "type": "number", "default": 0.09 },
+        "water_chapters": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "description": "可选；覆盖内置水柔章列表"
+        }
       }
     },
     "chapters": {
@@ -141,6 +187,11 @@
           "chapter_title": {
             "type": "string",
             "description": "直接指定章节名（不经过 chapters 表时使用）"
+          },
+          "motion": {
+            "type": "string",
+            "enum": ["static", "kenburns_in", "kenburns_out", "pan_up", "pan_down", "pan_left", "pan_right"],
+            "description": "单镜微动，覆盖 style.motion"
           }
         }
       }

@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "episode": 4,
+    "catalog": "assets/DaoDeJing/image_catalog.json",
+    "beats": "examples/ep04_beats.json",
+    "beat_count": 22,
+    "assigned": 22,
+    "algorithm": "manual_review",
+    "note": "EP04 优先 ep04_realistic + 未用 ep03 图"
+  },
+  "matches": [
+    {
+      "beat_id": "intro-1",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_11_closing_gates.jpg",
+      "image_id": "ep03_11_closing_gates",
+      "reason": "知止之后、关门收束"
+    },
+    {
+      "beat_id": "intro-2",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_05_stones_in_clear_water.jpg",
+      "image_id": "ep04_05_stones_in_clear_water",
+      "reason": "简单=清澈无修饰"
+    },
+    {
+      "beat_id": "open-1",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_01_uncarved_wood.jpg",
+      "image_id": "ep04_01_uncarved_wood",
+      "reason": "见素抱朴·朴木"
+    },
+    {
+      "beat_id": "s1-1",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_07_empty_bamboo_core.jpg",
+      "image_id": "ep04_07_empty_bamboo_core",
+      "reason": "减后结构干净"
+    },
+    {
+      "beat_id": "s1-2",
+      "file": "assets/DaoDeJing/ep02_27_palace_eaves.jpg",
+      "image_id": "ep02_27_palace_eaves",
+      "reason": "系统奖励的丰富装饰"
+    },
+    {
+      "beat_id": "s1-3",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_06_subtle_glow_stone.jpg",
+      "image_id": "ep04_06_subtle_glow_stone",
+      "reason": "素=不涂粉的内敛"
+    },
+    {
+      "beat_id": "s1-4",
+      "file": "assets/DaoDeJing/ep02_29_palace_walls.jpg",
+      "image_id": "ep02_29_palace_walls",
+      "reason": "复杂=专业感表演"
+    },
+    {
+      "beat_id": "s1-5",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_02_kintsugi_bowl.jpg",
+      "image_id": "ep04_02_kintsugi_bowl",
+      "reason": "减装饰后暴露真实"
+    },
+    {
+      "beat_id": "open-2",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_08_empty_wooden_bowl.jpg",
+      "image_id": "ep03_08_empty_wooden_bowl",
+      "reason": "少则得·空碗"
+    },
+    {
+      "beat_id": "s2-1",
+      "file": "assets/DaoDeJing/ep02_32_pavilion_and_crashing_waves.jpg",
+      "image_id": "ep02_32_pavilion_and_crashing_waves",
+      "reason": "多线并行、浪潮选项"
+    },
+    {
+      "beat_id": "s2-2",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_03_water_clock_stop.jpg",
+      "image_id": "ep03_03_water_clock_stop",
+      "reason": "AI时代仍要知何时停"
+    },
+    {
+      "beat_id": "s2-3",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_10_stalactite_drop.jpg",
+      "image_id": "ep04_10_stalactite_drop",
+      "reason": "深度=时间积累"
+    },
+    {
+      "beat_id": "s2-4",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_12_leaf_on_still_water.jpg",
+      "image_id": "ep03_12_leaf_on_still_water",
+      "reason": "一件产出、静水"
+    },
+    {
+      "beat_id": "open-3",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_09_open_door_to_courtyard.jpg",
+      "image_id": "ep04_09_open_door_to_courtyard",
+      "reason": "简单=留白开阔"
+    },
+    {
+      "beat_id": "s3-1",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_04_stopped_footprints.jpg",
+      "image_id": "ep03_04_stopped_footprints",
+      "reason": "留比删难、停步"
+    },
+    {
+      "beat_id": "s3-2",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_03_stringless_guqin.jpg",
+      "image_id": "ep04_03_stringless_guqin",
+      "reason": "收束到信得过的版本"
+    },
+    {
+      "beat_id": "s3-3",
+      "file": "assets/DaoDeJing/ep04_realistic/ep04_04_twisted_vine.jpg",
+      "image_id": "ep04_04_twisted_vine",
+      "reason": "简单可传承、久"
+    },
+    {
+      "beat_id": "open-4",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_17_tea_stain_void.jpg",
+      "image_id": "ep03_17_tea_stain_void",
+      "reason": "简单清单·落笔留白"
+    },
+    {
+      "beat_id": "protocol-1",
+      "file": "assets/DaoDeJing/ep01_v15_flat_rice_paper.png",
+      "image_id": "ep01_v15_flat_rice_paper",
+      "reason": "一句讲明白、白纸"
+    },
+    {
+      "beat_id": "protocol-2",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_05_abandoned_wealth.jpg",
+      "image_id": "ep03_05_abandoned_wealth",
+      "reason": "三样装饰层可弃"
+    },
+    {
+      "beat_id": "protocol-3",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_20_silent_bell.jpg",
+      "image_id": "ep03_20_silent_bell",
+      "reason": "可持续·复利耐心"
+    },
+    {
+      "beat_id": "closing-1",
+      "file": "assets/DaoDeJing/ep03_realistic/ep03_15_bridge_into_mist.jpg",
+      "image_id": "ep03_15_bridge_into_mist",
+      "reason": "收官预告·走向深处"
+    }
+  ]
+}

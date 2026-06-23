@@ -42,6 +42,44 @@ def create_silent_audio(duration_sec: float, out_path: Path) -> Path:
     return out_path
 
 
+def audio_mean_volume_db(media_path: Path) -> float | None:
+    """返回 mean_volume (dB)；解析失败时 None。"""
+    if not media_path.is_file():
+        return None
+    result = subprocess.run(
+        [
+            require_ffmpeg(),
+            "-hide_banner",
+            "-i",
+            str(media_path),
+            "-af",
+            "volumedetect",
+            "-f",
+            "null",
+            "-",
+        ],
+        capture_output=True,
+        text=True,
+    )
+    for line in result.stderr.splitlines():
+        if "mean_volume:" in line:
+            try:
+                return float(line.split("mean_volume:")[1].split("dB")[0].strip())
+            except ValueError:
+                return None
+    return None
+
+
+def is_silent_audio(media_path: Path, *, threshold_db: float = -60.0) -> bool:
+    """检测是否为静音占位轨（旧片尾 4s anullsrc 等）。"""
+    if not media_path.is_file() or media_path.stat().st_size < 500:
+        return True
+    vol = audio_mean_volume_db(media_path)
+    if vol is None:
+        return False
+    return vol <= threshold_db
+
+
 def probe_duration_sec(media_path: Path) -> float:
     require_ffmpeg()
     result = subprocess.run(

@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第二十六章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：轻重"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "辎重"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch26-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-8%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "重为轻根",
+      "哲学",
+      "第26章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十六章精解——重为轻根，静为躁君。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "节奏"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "重为轻根",
+      "哲学",
+      "第26章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十六章精解——重为轻根，静为躁君。",
+    "dynamic": "越忙越要守住「辎重」——轻与躁都会失其本。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十五章讲混成、四大、道法自然。第二十六章，老子回到身体与政治的节奏：「重为轻根，静为躁君。」重，是轻的根；静，是躁的君。圣人终日行不离辎重，虽有荣观，燕处超然。奈何万乘之主，而以身轻天下？轻则失本，躁则失君。这一章，是「稳定器」——你越快，越要重；你越躁，越要静。 宜对照作息：越快，越要守住辎重。",
+      "image": "assets/DaoDeJing/大道甚夷 - Ch53.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，把「辎重」装回你的日程与决策——别只追速度，追可持续。",
+      "image": "assets/DaoDeJing/大道的凝聚 - 通用.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「重为轻根，静为躁君。」重，是轻的根基——没有根，飘就失控；静，是躁的君主——躁，要听静的。很多人只追求轻与快，忘了轻之所以美，是因为有重在下面。日历上的空白、团队的备份、身体的睡眠，都是辎重。 跑得快，根要更深；躁起来，先找静。",
+      "image": "assets/DaoDeJing/大雨中 - Ch31.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「是以圣人终日行不离辎重。」圣人整天行动，不离开辎重——辎重，是行李、是后勤、是压舱石。不是背着包袱走不动，是知道：没有辎重，走得再快也会散。",
+      "image": "assets/DaoDeJing/大雪 - Ch41.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「虽有荣观，燕处超然。」虽然有荣耀的景观，却像燕子筑巢一样超然安住——荣观不绑架你，你仍能处简。不是不能享受，是不被享受抬离地面。",
+      "image": "assets/DaoDeJing/大雾弥漫的湖面 - Ch41.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「奈何万乘之主，而以身轻天下？」为什么大国之君，却用轻率之身对待天下？身轻，是轻浮决策、浮躁姿态、轻诺寡信——不是灵活，是失重。轻则失本，躁则失君——失去根本，失去主导权。",
+      "image": "assets/DaoDeJing/天下万物生于有 - Ch40.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：轻则失本，躁则失君。个人亦然：身体轻了（熬夜、乱吃），精神就躁；决策轻了（拍脑袋），事业就失本。",
+      "image": "assets/DaoDeJing/天下之至柔 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "亚里士多德中道：过度与不足之间。斯多葛强调内在定静。儒家「慎独」是无人时的辎重。老子用身体政治隐喻：重静是根，辎重是后勤，燕处是超然。三脉都在说：快，要有压舱石——不是拖慢，是别失根。",
+      "image": "assets/DaoDeJing/天下莫柔弱于水 - Ch78.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。高管「身轻天下」：今天追风口，明天换战略，团队失本。个人 burnout：睡眠轻、饮食轻、关系轻，然后躁怒、焦虑。辎重，是睡眠、是运动、是每周复盘——别删后勤。每周留一块辎重时间，不可删。",
+      "image": "assets/DaoDeJing/天威不可测 - Ch77.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "创业团队把「轻」当文化，却把辎重当累赘：无财务缓冲、无文档、无传承，一风就散。终日行不离辎重，是现金流、是知识库、是核心人——轻在前，重在下。文档与现金流走了，补不回来。",
+      "image": "assets/DaoDeJing/天然的蚕茧 - Ch40.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，守重：给生活压舱。第二，守静：躁时先静。第三，不离辎重：后勤不是累赘。第四，戒身轻：重大决策，别轻浮。下一章，「善行无辙迹」——高手为何不留痕。 重大决策前三问：我是否身轻？是否躁？",
+      "image": "assets/DaoDeJing/夫物芸芸 - Ch01.png",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

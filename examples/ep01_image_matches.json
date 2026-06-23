@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "catalog": "assets/DaoDeJing/ep01_image_catalog.json",
+    "beats": "examples/ep01_beats.json",
+    "beat_count": 22,
+    "image_count": 75,
+    "assigned": 22,
+    "min_score": 0.0,
+    "algorithm": "greedy_max_score_no_reuse"
+  },
+  "matches": [
+    {
+      "beat_id": "intro-1",
+      "section": "intro",
+      "summary": "人生计划 vs 真正想要的生活",
+      "image_id": "ep01_v2_intro_bamboo_slips",
+      "file": "assets/DaoDeJing/ep01_v2_intro_bamboo_slips.png",
+      "score": 8.0,
+      "matched_keywords": [
+        "道",
+        "操作系统"
+      ]
+    },
+    {
+      "beat_id": "intro-2",
+      "section": "intro",
+      "summary": "带走问题而非口号",
+      "image_id": "ep01_v4_teaching_authentic",
+      "file": "assets/DaoDeJing/ep01_v4_teaching_authentic.png",
+      "score": 16.0,
+      "matched_keywords": [
+        "钥匙",
+        "带走问题而非口号",
+        "口号",
+        "问题",
+        "五讲",
+        "带走问题而非"
+      ]
+    },
+    {
+      "beat_id": "open-1",
+      "section": "open-1",
+      "summary": "道可道非常道",
+      "image_id": "ep01_v2_intro_scroll",
+      "file": "assets/DaoDeJing/ep01_v2_intro_scroll.png",
+      "score": 14.0,
+      "matched_keywords": [
+        "模板",
+        "笔记",
+        "说死",
+        "非常道",
+        "道可道"
+      ]
+    },
+    {
+      "beat_id": "s1-1",
+      "section": "section-1",
+      "summary": "三年计划有没有改变命运",
+      "image_id": "ep01_v2_extra_empty_chair",
+      "file": "assets/DaoDeJing/ep01_v2_extra_empty_chair.png",
+      "score": 14.0,
+      "matched_keywords": [
+        "计划",
+        "命运",
+        "不舒服",
+        "问题",
+        "清醒"
+      ]
+    },
+    {
+      "beat_id": "s1-2",
+      "section": "section-1",
+      "summary": "抓新地图、打卡、假安全",
+      "image_id": "ep01_v2_extra_silk_threads",
+      "file": "assets/DaoDeJing/ep01_v2_extra_silk_threads.png",
+      "score": 12.0,
+      "matched_keywords": [
+        "模板",
+        "地图",
+        "课程",
+        "算法"
+      ]
+    },
+    {
+      "beat_id": "s1-3",
+      "section": "section-1",
+      "summary": "地图是别人画的",
+      "image_id": "ep01_v2_intro_compass",
+      "file": "assets/DaoDeJing/ep01_v2_intro_compass.png",
+      "score": 12.0,
+      "matched_keywords": [
+        "到家",
+        "导航",
+        "别人",
+        "语音"
+      ]
+    },
+    {
+      "beat_id": "s1-4",
+      "section": "section-1",
+      "summary": "拐杖长进肉里、偏离即失败",
+      "image_id": "ep01_v2_extra_roots",
+      "file": "assets/DaoDeJing/ep01_v2_extra_roots.png",
+      "score": 14.0,
+      "matched_keywords": [
+        "牺牲",
+        "拐杖长进肉里",
+        "拐杖",
+        "偏离",
+        "维护"
+      ]
+    },
+    {
+      "beat_id": "s1-5",
+      "section": "section-1",
+      "summary": "地图有保质期、抬头看路",
+      "image_id": "ep01_v2_extra_misty_mountains",
+      "file": "assets/DaoDeJing/ep01_v2_extra_misty_mountains.png",
+      "score": 16.0,
+      "matched_keywords": [
+        "抬头看路",
+        "抬头",
+        "扔掉",
+        "看路",
+        "保质期",
+        "不确定"
+      ]
+    },
+    {
+      "beat_id": "open-2",
+      "section": "open-2",
+      "summary": "上善若水论点提出",
+      "image_id": "ep01_v3_wide_waterfall",
+      "file": "assets/DaoDeJing/ep01_v3_wide_waterfall.png",
+      "score": 10.0,
+      "matched_keywords": [
+        "策略",
+        "第二节",
+        "上善若水",
+        "水",
+        "适应"
+      ]
+    },
+    {
+      "beat_id": "s2-1",
+      "section": "section-2",
+      "summary": "拆误会：不是佛系人设",
+      "image_id": "ep01_v2_extra_stone_statue",
+      "file": "assets/DaoDeJing/ep01_v2_extra_stone_statue.png",
+      "score": 8.0,
+      "matched_keywords": [
+        "佛系",
+        "人设"
+      ]
+    },
+    {
+      "beat_id": "s2-2",
+      "section": "section-2",
+      "summary": "不执着形状、身份焊死",
+      "image_id": "ep01_v6_ch76_bamboo",
+      "file": "assets/DaoDeJing/ep01_v6_ch76_bamboo.png",
+      "score": 6.0,
+      "matched_keywords": [
+        "碎"
+      ]
+    },
+    {
+      "beat_id": "s2-3",
+      "section": "section-2",
+      "summary": "处下、穿石、不争高度",
+      "image_id": "ep01_sec2_03_flow_low",
+      "file": "assets/DaoDeJing/ep01_sec2_03_flow_low.png",
+      "score": 12.0,
+      "matched_keywords": [
+        "处下",
+        "不争高度",
+        "穿石",
+        "低处"
+      ]
+    },
+    {
+      "beat_id": "s2-4",
+      "section": "section-2",
+      "summary": "不争面子、精力管理",
+      "image_id": "ep01_sec2_07_adaptation",
+      "file": "assets/DaoDeJing/ep01_sec2_07_adaptation.png",
+      "score": 8.0,
+      "matched_keywords": [
+        "赌气",
+        "适应"
+      ]
+    },
+    {
+      "beat_id": "open-3",
+      "section": "open-3",
+      "summary": "人工智能生产一切反而更空",
+      "image_id": "ep01_v3_wide_courtyard",
+      "file": "assets/DaoDeJing/ep01_v3_wide_courtyard.png",
+      "score": 8.0,
+      "matched_keywords": [
+        "一切反而更空",
+        "生产",
+        "伏笔",
+        "空"
+      ]
+    },
+    {
+      "beat_id": "s3-1",
+      "section": "section-3",
+      "summary": "生产者赛道、堆叠输出",
+      "image_id": "ep01_v2_extra_ink_on_silk",
+      "file": "assets/DaoDeJing/ep01_v2_extra_ink_on_silk.png",
+      "score": 6.0,
+      "matched_keywords": [
+        "输出"
+      ]
+    },
+    {
+      "beat_id": "s3-2",
+      "section": "section-3",
+      "summary": "牢笼、堆叠变便宜",
+      "image_id": "ep01_v2_extra_incense_smoke",
+      "file": "assets/DaoDeJing/ep01_v2_extra_incense_smoke.png",
+      "score": 4.0,
+      "matched_keywords": []
+    },
+    {
+      "beat_id": "s3-3",
+      "section": "section-3",
+      "summary": "转向判断者、十分钟提问",
+      "image_id": "ep01_v2_extra_mirror",
+      "file": "assets/DaoDeJing/ep01_v2_extra_mirror.png",
+      "score": 12.0,
+      "matched_keywords": [
+        "判断",
+        "黑盒",
+        "直面",
+        "十分钟"
+      ]
+    },
+    {
+      "beat_id": "open-4",
+      "section": "open-4",
+      "summary": "地图脱钩练习",
+      "image_id": "ep01_v2_extra_cracked_earth",
+      "file": "assets/DaoDeJing/ep01_v2_extra_cracked_earth.png",
+      "score": 2.0,
+      "matched_keywords": [
+        "地图"
+      ]
+    },
+    {
+      "beat_id": "protocol-1",
+      "section": "protocol",
+      "summary": "五讲减法链",
+      "image_id": "ep01_v2_extra_uncarved_block",
+      "file": "assets/DaoDeJing/ep01_v2_extra_uncarved_block.png",
+      "score": 12.0,
+      "matched_keywords": [
+        "知足",
+        "减法",
+        "知止",
+        "简单"
+      ]
+    },
+    {
+      "beat_id": "protocol-2",
+      "section": "protocol",
+      "summary": "三步协议写纸条",
+      "image_id": "ep01_v2_extra_tea_steam",
+      "file": "assets/DaoDeJing/ep01_v2_extra_tea_steam.png",
+      "score": 14.0,
+      "matched_keywords": [
+        "恐惧",
+        "方向感",
+        "校准",
+        "纸条",
+        "私下"
+      ]
+    },
+    {
+      "beat_id": "protocol-3",
+      "section": "protocol",
+      "summary": "扔掉过期地图的瞬间",
+      "image_id": "ep01_v3_wide_desert_gate",
+      "file": "assets/DaoDeJing/ep01_v3_wide_desert_gate.png",
+      "score": 8.0,
+      "matched_keywords": [
+        "扔掉",
+        "过期"
+      ]
+    },
+    {
+      "beat_id": "closing-1",
+      "section": "closing",
+      "summary": "三件事收束 + 第二期预告",
+      "image_id": "ep01_v2_closing_diffusion",
+      "file": "assets/DaoDeJing/ep01_v2_closing_diffusion.png",
+      "score": 8.0,
+      "matched_keywords": [
+        "收藏",
+        "第二期"
+      ]
+    }
+  ]
+}

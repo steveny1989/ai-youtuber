@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第八章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：不争"
+    },
+    {
+      "id": "2",
+      "label": "九善"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "处下智慧"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch08-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "上善若水",
+      "哲学",
+      "第8章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第八章精解——水善利万物而不争。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "九善破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "处下"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "上善若水",
+      "哲学",
+      "第8章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第八章精解——水善利万物而不争。",
+    "dynamic": "水从不证明自己是水，它只是在低处把路让出来。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第七章讲退后能久。第八章，老子给出最熟悉的意象：「上善若水。」最高的善，像水一样。水不占高位，却润下万物；不与谁争名，却没有谁离得开它。这一章，是「不争」的操作手册。",
+      "image": "assets/DaoDeJing/Palace Eaves - Ch02.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/Palace Under Snow Mo - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「上善若水。水善利万物而不争。」水滋养一切，却不争功。它不需要被看见，只需要持续流动。",
+      "image": "assets/DaoDeJing/Palace Walls - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「处众人之所恶，故几于道。」水往低处走，往人们嫌弃的缝隙里走，所以最接近道。处下，不是自贬，是接近真实运行层。",
+      "image": "assets/DaoDeJing/Pavilion And Crashin - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「居善地，心善渊，与善仁，言善信，正善治，事善能，动善时。」居处选善地，心像深渊般静，交往有仁，说话有信，治事有正，做事能成，行动合时——这是水的九种善。",
+      "image": "assets/DaoDeJing/Peeling Identity - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「动善时。」尤其这一句：行动要合时。不是永远冲，是在该流时流，该停时停。",
+      "image": "assets/DaoDeJing/Peeling Paper - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「夫唯不争，故无尤。」因为不争，所以没有怨尤。水从不证明自己是水，它只是在低处把路让出来。",
+      "image": "assets/DaoDeJing/Physical Scrolls - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "泰勒斯说「万物源于水」，是西方哲学源头之一。庄子讲「至柔驰骋至坚」，与水克刚同一脉。老子在这里把水写成道德模板：利万物、处下、合时、不争。",
+      "image": "assets/DaoDeJing/Real Pine Cliff - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。最高明的协作，往往像水：补位、润下、不抢镜。团队里那个「什么都接、从不争功」的人，往往是真正的基础设施。",
+      "image": "assets/DaoDeJing/Real Thorns - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人品牌时代，人人想「站在高处」。但流量高处也干燥。处众人之所恶——去真正有问题、有摩擦、有需要的缝隙里，反而离道更近。",
+      "image": "assets/DaoDeJing/Resting Brush - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，学水：利而不争。第二，处下：去真实问题所在。第三，动善时：节奏比蛮力重要。第四，无尤：不争，才无后患。下一章，「持而盈之」——满则溢，锐则败。",
+      "image": "assets/DaoDeJing/Scattered Stalks - Ch02.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

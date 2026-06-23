@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "episode": 2,
+    "storyboard": "examples/storyboard-daodejing-ep02.json",
+    "note": "叙事节拍：匹配 ep02_image_catalog.json"
+  },
+  "beats": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "summary": "听完第一期想「加什么」、为道日损",
+      "keywords": ["加", "追加", "为道日损", "损", "第二期", "旧东西", "不肯卸"]
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "summary": "减法升级成认知操作",
+      "keywords": ["减法", "删", "辨认", "恐惧", "敢删", "断舍离", "整理术"]
+    },
+    {
+      "id": "open-1",
+      "section": "open-1",
+      "summary": "为学日益为道日损、课程 App",
+      "keywords": ["为学日益", "为道日损", "课程", "App", "论点"]
+    },
+    {
+      "id": "s1-1",
+      "section": "section-1",
+      "summary": "无差别追加、生命越来越满",
+      "keywords": ["追加", "冥想", "副业", "模板", "堆", "满", "僵"]
+    },
+    {
+      "id": "s1-2",
+      "section": "section-1",
+      "summary": "手机应用待读清单、方法互相打架",
+      "keywords": ["手机", "应用", "收藏夹", "方法", "选择", "早起", "休息"]
+    },
+    {
+      "id": "s1-3",
+      "section": "section-1",
+      "summary": "删过期目标、承认走偏",
+      "keywords": ["删", "过期", "走偏", "堆叠", "习惯", "面子", "项目"]
+    },
+    {
+      "id": "s1-4",
+      "section": "section-1",
+      "summary": "背包石头、水往低处走",
+      "keywords": ["背包", "石头", "低处", "后退", "前进", "拿出"]
+    },
+    {
+      "id": "s1-5",
+      "section": "section-1",
+      "summary": "更忙却没有更清晰、删除候选",
+      "keywords": ["忙", "清晰", "删除", "候选", "辨认", "减"]
+    },
+    {
+      "id": "open-2",
+      "section": "open-2",
+      "summary": "身份是一种加法、贴标签",
+      "keywords": ["身份", "加法", "标签", "做自己", "论点"]
+    },
+    {
+      "id": "s2-1",
+      "section": "section-2",
+      "summary": "身份一层层加上去、社交媒体展示",
+      "keywords": ["学生", "专业", "职位", "社交媒体", "自律", "创业者", "创作者"]
+    },
+    {
+      "id": "s2-2",
+      "section": "section-2",
+      "summary": "每多一个标签多一面旗、早起打卡",
+      "keywords": ["标签", "旗", "打卡", "叙事", "扛事", "荣誉"]
+    },
+    {
+      "id": "s2-3",
+      "section": "section-2",
+      "summary": "简介越来越长、证书头衔",
+      "keywords": ["简介", "证书", "头衔", "关键词", "空", "失败", "谁"]
+    },
+    {
+      "id": "s2-4",
+      "section": "section-2",
+      "summary": "工具与刑具、身份减法",
+      "keywords": ["工具", "刑具", "社交平台", "减法", "标签", "维护"]
+    },
+    {
+      "id": "open-3",
+      "section": "open-3",
+      "summary": "欲望只增不减、少则得多则惑",
+      "keywords": ["欲望", "只增不减", "少则得", "多则惑", "论点"]
+    },
+    {
+      "id": "s3-1",
+      "section": "section-3",
+      "summary": "算法消费主义、无限菜单",
+      "keywords": ["算法", "消费", "菜单", "同辈", "被动收入", "影响力"]
+    },
+    {
+      "id": "s3-2",
+      "section": "section-3",
+      "summary": "选项爆炸、五条线分命",
+      "keywords": ["选项", "聚焦", "人工智能", "五条线", "社群", "产品"]
+    },
+    {
+      "id": "s3-3",
+      "section": "section-3",
+      "summary": "真需求假需求、收敛野心",
+      "keywords": ["需求", "平静", "野心", "收敛", "深了", "禁欲"]
+    },
+    {
+      "id": "open-4",
+      "section": "open-4",
+      "summary": "日损清单协议",
+      "keywords": ["日损", "清单", "协议", "带走"]
+    },
+    {
+      "id": "protocol-1",
+      "section": "protocol",
+      "summary": "减法链、从背包拿出去",
+      "keywords": ["减法", "背包", "地图", "过期", "辨认"]
+    },
+    {
+      "id": "protocol-2",
+      "section": "protocol",
+      "summary": "三步写纸条、最坏结果",
+      "keywords": ["三步", "纸条", "写下", "恐惧", "ego", "订阅", "习惯"]
+    },
+    {
+      "id": "protocol-3",
+      "section": "protocol",
+      "summary": "私下日损、空是位置",
+      "keywords": ["私下", "空", "位置", "变准", "五期"]
+    },
+    {
+      "id": "closing-1",
+      "section": "closing",
+      "summary": "收束 + 第三期知足与知止预告",
+      "keywords": ["知足", "知止", "第三期", "够了", "收藏"]
+    }
+  ]
+}

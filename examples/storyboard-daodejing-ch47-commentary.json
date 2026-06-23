@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第47章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：天下"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "弥远"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch47-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不出户知天下",
+      "哲学",
+      "第47章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十七章精解——不行而知与弥远弥少。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "户牖之知"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "其出弥远其知弥少"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不出户知天下",
+      "哲学",
+      "第47章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十七章精解——不行而知与弥远弥少。",
+    "dynamic": "不出户知天下，不窥牖见天道——其出弥远，其知弥少。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十六章讲天下有道无道，马力在耕还是在战。第四十七章，老子把认知方式收紧到一间屋子：「不出户，知天下；不窥牖，见天道。其出弥远，其知弥少。」是以圣人不行而知，不见而明，不为而成。这一章，是反「信息焦虑式求知」：跑越远，未必越懂；关上门，未必更盲。",
+      "image": "assets/DaoDeJing/窥牖见天道 - ch47 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：户牖之知，与不行而知。",
+      "image": "assets/DaoDeJing/不出户 - ch47 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「不出户，知天下；不窥牖，见天道。」不出户，不是宅，是不靠乱跑换「我在努力了解世界」。不窥牖，不是不观察，是不把「多看一眼窗外」当成见天道。天下与天道，在结构里、在规律里——你读十国新闻，若不懂一条因果，仍不知天下。",
+      "image": "assets/DaoDeJing/不出户知天下 - ch47 (1) - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「其出弥远，其知弥少。」走得越远，知道得越少——反直觉，但是真。远，是离本根远：追热点、追风口、追每一趟航班，带回来的是碎片，不是地图。知，是分辨率，不是步数；弥远，常是弥散。你记了满本笔记却串不成一条因果，就是弥远弥少。",
+      "image": "assets/DaoDeJing/不出户知天下 - ch47 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「是以圣人不行而知。」不行而知，不是不行动，是不靠「物理位移」冒充认知升级。圣人可以动，但知，不绑定在打卡式远行上。你换十个城市若仍是同一套偏见，行，没有增知。知，靠模型、靠反馈、靠静观，不靠里程表。",
+      "image": "assets/DaoDeJing/窥天道 - ch47 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「不见而明，不为而成。」不见而明：不是眼不见，是不被表象牵着跑，仍能看清要害。不为而成：不是躺赢，是不硬拧，成仍会发生。产品里过度用户调研，有时不如看清一个底层约束；关系里过度试探，有时不如守一条诚。不见，是少被表象带跑；不为，是少硬拧控制杆——成，常在后面。",
+      "image": "assets/DaoDeJing/不行的智慧 - ch47 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "全章合读：户、牖、行、见、为——五个常被误用的动作。老子不是禁足禁眼，是禁「用动作换知」的幻觉。其出弥远，其知弥少——是提醒：扩散，常稀释。不行而知、不见而明、不为而成，是收敛后的高分辨率。",
+      "image": "assets/DaoDeJing/冰瀑 - 通用 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "康德——德国哲学家——区分现象与物自体：你跑遍世界，见的仍是现象接口，不是本体。笛卡尔——法国哲学家——从「我思」出发，知，可以始于内省，不必始于远征。东方「窗含西岭千秋雪」——窗是小，景是大；关键在框住视角，不在框子多大。",
+      "image": "assets/DaoDeJing/Palace under snow mo - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。旅行博主、游学营、「必须现场感受一下」——很多是合法的不出成果：弥远，却弥少。信息订阅堆满，通知全开，也是「出户」——身体在沙发，注意力弥远弥散。不行而知：Weekly review 比 Weekly flight 更增知；不见而明：读十页经典，胜过刷百条短视频。CEO 飞遍全球若仍是同一套管理盲区，行，没有增知。",
+      "image": "assets/DaoDeJing/Daily loss - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你若用「再学一门课、再加一个群、再赴一场会」缓解焦虑，可能是其出弥远——动作在，分辨率没升。试一次：关窗，写清一个你真正要解的问题，只留三条信息源，看知是否反而变多。不为而成：少拧一个控制点，结果有时自己到位。",
+      "image": "assets/DaoDeJing/刍狗 - ch05 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，户牖足矣：知天下不绑里程。第二，戒弥远：扩散常稀释分辨率。第三，不行而知：模型与反馈，贵于打卡。第四，不见而明、不为而成：收敛后，才见要害。出弥远，知弥少——少跑，看清。下一章，「为学日益，为道日损」——损之又损，以至于无为。",
+      "image": "assets/DaoDeJing/刚柔转换 - 通用 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第二十八章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：守雌"
+    },
+    {
+      "id": "2",
+      "label": "三组知守"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "归朴"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch28-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "知其雄守其雌",
+      "哲学",
+      "第28章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十八章精解——为天下溪，复归于朴。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "三组知守"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "大制不割"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "知其雄守其雌",
+      "哲学",
+      "第28章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十八章精解——为天下溪，复归于朴。",
+    "dynamic": "知道锋利，却守住柔软——复归于婴儿、于朴。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十七章讲五善与无弃。第二十八章，老子给出三组「知…守…」：知其雄，守其雌，为天下溪；知其白，守其黑，为天下式；知其荣，守其辱，为天下谷。常德不离，复归于婴儿、于无极、于朴。朴散则为器，圣人用之则为官长，故大制不割。这一章，是「在优势里守弱势」的高级战略——你会，但你不全用。 三组知守，宜做成个人战略的三张底牌。",
+      "image": "assets/DaoDeJing/宣纸 - Ch28.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐组破译，看见「守」如何让你复归——会，但不全用。",
+      "image": "assets/DaoDeJing/知白守黑 - Ch28.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一组：「知其雄，守其雌，为天下溪。」知道雄强，却守住雌柔，成为天下的溪谷——溪，是低处、是汇流处。雄，是能力；雌，是容纳。处下才能汇流；只争上，溪谷干涸。",
+      "image": "assets/DaoDeJing/老鹰 - Ch28.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二组：「知其白，守其黑，为天下式。」知道明亮，却守住暗处，成为天下的法式。白，是显；黑，是潜。式，是榜样。守黑，是留暗线——全亮处，影子无处藏身。",
+      "image": "assets/DaoDeJing/一尊巨大的古老石像 - Ch28.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三组：「知其荣，守其辱，为天下谷。」知道荣耀，却守住屈辱之位，成为天下的山谷。荣来时不飘，辱来时不碎——谷因此能纳百川。",
+      "image": "assets/DaoDeJing/一束极度刺眼的狭长白光 - Ch28.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「常德不离，复归于婴儿……复归于无极……复归于朴。」常道不离开，回到婴儿、无极、朴——婴儿，是柔软与感知；朴，是未雕之木。复归，不是倒退，是去掉多余雕饰。",
+      "image": "assets/DaoDeJing/宏伟幽暗的大殿中 - Ch02.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「朴散则为器，圣人用之则为官长，故大制不割。」朴散开成器物，圣人用之成官长，所以大制不割——大制度，不割裂整体。",
+      "image": "assets/DaoDeJing/宣纸 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "尼采谈权力，老子谈守雌。阴阳：阳动阴静，知阳守阴。荣格「阴影」：不敢守黑，光就假。三组知守，是同一结构的三次重复：有能力，却选择处下、处暗、处辱——这是高级战略，不是软弱。",
+      "image": "assets/DaoDeJing/宫墙 - Ch02.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。职场「知其雄守其雌」：能争功，却让功；能赢辩论，却留白。组织「复归于朴」：别过度流程化，留未雕之木的创造力。大制不割：并购、重组，别割断文化经脉。守雌，是把汇流处的低位站住。",
+      "image": "assets/DaoDeJing/宫檐 - Ch02.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人品牌时代，人人只秀「雄」。守雌，是承认脆弱、承认不知道——反而可信。复归于婴儿，是恢复感知，不是装嫩。能处下、处暗、处辱，才接得住长期信任。",
+      "image": "assets/DaoDeJing/宫门 - 通用.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，知守：会，但不全用。第二，为溪谷：处下汇流。第三，复朴：留未雕之木。第四，大制不割：整，胜于狠。下一章，「天下神器」——为何不能强取天下。",
+      "image": "assets/DaoDeJing/封禅祭坛 - 通用.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

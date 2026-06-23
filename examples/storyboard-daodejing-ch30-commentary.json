@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第三十章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：兵道"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "果而勿强"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch30-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不以兵强天下",
+      "哲学",
+      "第30章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十章精解——物壮则老，不道早已。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "峰值"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不以兵强天下",
+      "哲学",
+      "第30章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十章精解——物壮则老，不道早已。",
+    "dynamic": "果而勿强——赢了，也别把刀磨到最亮。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十九章讲天下神器与去甚奢泰。第三十章，老子论兵：「以道佐人主者，不以兵强天下。」用道辅佐君主的人，不用兵力逞强于天下。其事好还，师之所处荆棘生，大军之后必有凶年。善有果而已，不敢以取强：果而勿矜、勿伐、勿骄、不得已、勿强。物壮则老，是谓不道，不道早已。这一章，是「胜利的克制」——赢了，也别把系统推到壮极。 五勿，可贴在庆功会墙上——胜后立即自检。",
+      "image": "assets/DaoDeJing/远景 - Ch30.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，把「果而勿强」接到商业与舆论战。",
+      "image": "assets/DaoDeJing/幽暗大殿中静止的编钟 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「以道佐人主者，不以兵强天下。」以道辅佐的人，不靠武力强天下。兵，是强制手段；道佐，是减少强制的必要性。",
+      "image": "assets/DaoDeJing/幽暗的古老藏书阁中 - 通用.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「其事好还，师之所处，荆棘生焉；大军之后，必有凶年。」战事好回旋报复，军队过处荆棘生，大军之后有凶年——暴力有延迟代价。商战恶性补贴、舆论战挂热搜，也是荆棘生。",
+      "image": "assets/DaoDeJing/幽暗背景中一滴金色水珠 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「善有果而已，不敢以取强。」善，是有结果就好，不敢用结果去逞强。果，是目的；强，是姿态。赢了还加码，往往是不道。",
+      "image": "assets/DaoDeJing/延时感 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「果而勿矜，果而勿伐，果而勿骄，果而不得已，果而勿强。」成了：不矜、不伐、不骄、知不得已、不强。五勿，是胜利后的五项自检。 五勿缺一，胜利就会反噬系统。",
+      "image": "assets/DaoDeJing/弱者道之用 - Ch40.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「物壮则老，是谓不道，不道早已。」物壮则老，是不道，不道早早结束。峰值，是下坡的开始。",
+      "image": "assets/DaoDeJing/微距下 - Ch40.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "孙子：慎战，不得已而用之。甘地：非暴力亦有「果」。现代伦理：正义战争仍要克制。老子：道佐者，默认不以兵强；即使果，亦五勿——胜了，也别乐杀。",
+      "image": "assets/DaoDeJing/微距特写 - Ch55 (1).jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。商战「以兵强天下」：恶性补贴、舆论战争、法务轰炸——好还，荆棘生。个人「伐」：赢一场辩论，失一段关系。果而勿强：融资成了，别立刻奢泰；产品爆了，别立刻加杠杆。",
+      "image": "assets/DaoDeJing/微距特写 - Ch55.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "物壮则老：公司估值峰值、个人名声峰值，都是「壮」。不道早已：在壮时加猛药，老来得更快。善有果而已：够了，就停。融资成了别立刻奢泰，产品爆了别立刻加杠杆。",
+      "image": "assets/DaoDeJing/悬崖 - Ch02.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，道佐不兵强：少强制。第二，知好还：暴力有延迟账。第三，果而五勿：成了别矜伐骄强。第四，畏壮老：峰值时收，不道早已。下一章，「夫佳兵者不祥」——兵者进一步戒。 庆功会后第一件事：五勿自检，别让自己「物壮则老」。",
+      "image": "assets/DaoDeJing/悬崖边盘腿打坐的修道者 - Ch56.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

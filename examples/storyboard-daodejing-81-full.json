@@ -1,0 +1,722 @@
+{
+  "title": "《道德经》81章完整通读｜逐章水墨动画·原文朗读｜观念黑盒",
+  "language": "zh-CN",
+  "output": {
+    "filename": "daodejing-81-chapters-full.mp4"
+  },
+  "cover": {
+    "enabled": false,
+    "hook": "五千言，八十一境——这一次不拆解，只把全书走完。"
+  },
+  "ending": {
+    "enabled": true
+  },
+  "scenes": [
+    {
+      "id": "ch01",
+      "narration": ""
+    },
+    {
+      "id": "ch02",
+      "narration": ""
+    },
+    {
+      "id": "ch03",
+      "narration": ""
+    },
+    {
+      "id": "ch04",
+      "narration": ""
+    },
+    {
+      "id": "ch05",
+      "narration": ""
+    },
+    {
+      "id": "ch06",
+      "narration": ""
+    },
+    {
+      "id": "ch07",
+      "narration": ""
+    },
+    {
+      "id": "ch08",
+      "narration": ""
+    },
+    {
+      "id": "ch09",
+      "narration": ""
+    },
+    {
+      "id": "ch10",
+      "narration": ""
+    },
+    {
+      "id": "ch11",
+      "narration": ""
+    },
+    {
+      "id": "ch12",
+      "narration": ""
+    },
+    {
+      "id": "ch13",
+      "narration": ""
+    },
+    {
+      "id": "ch14",
+      "narration": ""
+    },
+    {
+      "id": "ch15",
+      "narration": ""
+    },
+    {
+      "id": "ch16",
+      "narration": ""
+    },
+    {
+      "id": "ch17",
+      "narration": ""
+    },
+    {
+      "id": "ch18",
+      "narration": ""
+    },
+    {
+      "id": "ch19",
+      "narration": ""
+    },
+    {
+      "id": "ch20",
+      "narration": ""
+    },
+    {
+      "id": "ch21",
+      "narration": ""
+    },
+    {
+      "id": "ch22",
+      "narration": ""
+    },
+    {
+      "id": "ch23",
+      "narration": ""
+    },
+    {
+      "id": "ch24",
+      "narration": ""
+    },
+    {
+      "id": "ch25",
+      "narration": ""
+    },
+    {
+      "id": "ch26",
+      "narration": ""
+    },
+    {
+      "id": "ch27",
+      "narration": ""
+    },
+    {
+      "id": "ch28",
+      "narration": ""
+    },
+    {
+      "id": "ch29",
+      "narration": ""
+    },
+    {
+      "id": "ch30",
+      "narration": ""
+    },
+    {
+      "id": "ch31",
+      "narration": ""
+    },
+    {
+      "id": "ch32",
+      "narration": ""
+    },
+    {
+      "id": "ch33",
+      "narration": ""
+    },
+    {
+      "id": "ch34",
+      "narration": ""
+    },
+    {
+      "id": "ch35",
+      "narration": ""
+    },
+    {
+      "id": "ch36",
+      "narration": ""
+    },
+    {
+      "id": "ch37",
+      "narration": ""
+    },
+    {
+      "id": "ch38",
+      "narration": ""
+    },
+    {
+      "id": "ch39",
+      "narration": ""
+    },
+    {
+      "id": "ch40",
+      "narration": ""
+    },
+    {
+      "id": "ch41",
+      "narration": ""
+    },
+    {
+      "id": "ch42",
+      "narration": ""
+    },
+    {
+      "id": "ch43",
+      "narration": ""
+    },
+    {
+      "id": "ch44",
+      "narration": ""
+    },
+    {
+      "id": "ch45",
+      "narration": ""
+    },
+    {
+      "id": "ch46",
+      "narration": ""
+    },
+    {
+      "id": "ch47",
+      "narration": ""
+    },
+    {
+      "id": "ch48",
+      "narration": ""
+    },
+    {
+      "id": "ch49",
+      "narration": ""
+    },
+    {
+      "id": "ch50",
+      "narration": ""
+    },
+    {
+      "id": "ch51",
+      "narration": ""
+    },
+    {
+      "id": "ch52",
+      "narration": ""
+    },
+    {
+      "id": "ch53",
+      "narration": ""
+    },
+    {
+      "id": "ch54",
+      "narration": ""
+    },
+    {
+      "id": "ch55",
+      "narration": ""
+    },
+    {
+      "id": "ch56",
+      "narration": ""
+    },
+    {
+      "id": "ch57",
+      "narration": ""
+    },
+    {
+      "id": "ch58",
+      "narration": ""
+    },
+    {
+      "id": "ch59",
+      "narration": ""
+    },
+    {
+      "id": "ch60",
+      "narration": ""
+    },
+    {
+      "id": "ch61",
+      "narration": ""
+    },
+    {
+      "id": "ch62",
+      "narration": ""
+    },
+    {
+      "id": "ch63",
+      "narration": ""
+    },
+    {
+      "id": "ch64",
+      "narration": ""
+    },
+    {
+      "id": "ch65",
+      "narration": ""
+    },
+    {
+      "id": "ch66",
+      "narration": ""
+    },
+    {
+      "id": "ch67",
+      "narration": ""
+    },
+    {
+      "id": "ch68",
+      "narration": ""
+    },
+    {
+      "id": "ch69",
+      "narration": ""
+    },
+    {
+      "id": "ch70",
+      "narration": ""
+    },
+    {
+      "id": "ch71",
+      "narration": ""
+    },
+    {
+      "id": "ch72",
+      "narration": ""
+    },
+    {
+      "id": "ch73",
+      "narration": ""
+    },
+    {
+      "id": "ch74",
+      "narration": ""
+    },
+    {
+      "id": "ch75",
+      "narration": ""
+    },
+    {
+      "id": "ch76",
+      "narration": ""
+    },
+    {
+      "id": "ch77",
+      "narration": ""
+    },
+    {
+      "id": "ch78",
+      "narration": ""
+    },
+    {
+      "id": "ch79",
+      "narration": ""
+    },
+    {
+      "id": "ch80",
+      "narration": ""
+    },
+    {
+      "id": "ch81",
+      "narration": ""
+    }
+  ],
+  "youtube": {
+    "privacy_status": "unlisted",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "道德经81章",
+      "道德经全文",
+      "观念黑盒",
+      "The Blackbox",
+      "Tao Te Ching",
+      "Lao Tzu",
+      "Daodejing",
+      "经典诵读",
+      "有声书",
+      "国学",
+      "中国哲学",
+      "水墨动画",
+      "完整版",
+      "道德经五讲"
+    ],
+    "description_intro": "这是「观念黑盒」制作的《道德经》81章完整通读版：每一章配一段原创水墨动画，旁白为通行本《老子》原文（标点为朗读停顿，非学术校勘），无口水解读、无成功学附体。\n\n⏱ 全长约 27 分钟。建议收藏，用下方时间轴分章跳转。\n📺 想听「拆解版」请搜同频道《道德经五讲》——从「地图不是道」到「执一」，五期把老子当操作系统讲。\n\n本期内容：\n· 画面：81 章独立动画，按章衔接\n· 音频：原文朗读 + 轻柔背景乐\n· 第 38 章起为传统所谓「德经」部分（分章因版本略异，本视频采用通行 81 章序）\n\n下方时间轴可点击跳转任意一章。",
+    "timeline_heading": "📌 81章时间轴（点击跳转）",
+    "timeline": [
+      {
+        "scene": "ch01",
+        "label": "第1章"
+      },
+      {
+        "scene": "ch02",
+        "label": "第2章"
+      },
+      {
+        "scene": "ch03",
+        "label": "第3章"
+      },
+      {
+        "scene": "ch04",
+        "label": "第4章"
+      },
+      {
+        "scene": "ch05",
+        "label": "第5章"
+      },
+      {
+        "scene": "ch06",
+        "label": "第6章"
+      },
+      {
+        "scene": "ch07",
+        "label": "第7章"
+      },
+      {
+        "scene": "ch08",
+        "label": "第8章"
+      },
+      {
+        "scene": "ch09",
+        "label": "第9章"
+      },
+      {
+        "scene": "ch10",
+        "label": "第10章"
+      },
+      {
+        "scene": "ch11",
+        "label": "第11章"
+      },
+      {
+        "scene": "ch12",
+        "label": "第12章"
+      },
+      {
+        "scene": "ch13",
+        "label": "第13章"
+      },
+      {
+        "scene": "ch14",
+        "label": "第14章"
+      },
+      {
+        "scene": "ch15",
+        "label": "第15章"
+      },
+      {
+        "scene": "ch16",
+        "label": "第16章"
+      },
+      {
+        "scene": "ch17",
+        "label": "第17章"
+      },
+      {
+        "scene": "ch18",
+        "label": "第18章"
+      },
+      {
+        "scene": "ch19",
+        "label": "第19章"
+      },
+      {
+        "scene": "ch20",
+        "label": "第20章"
+      },
+      {
+        "scene": "ch21",
+        "label": "第21章"
+      },
+      {
+        "scene": "ch22",
+        "label": "第22章"
+      },
+      {
+        "scene": "ch23",
+        "label": "第23章"
+      },
+      {
+        "scene": "ch24",
+        "label": "第24章"
+      },
+      {
+        "scene": "ch25",
+        "label": "第25章"
+      },
+      {
+        "scene": "ch26",
+        "label": "第26章"
+      },
+      {
+        "scene": "ch27",
+        "label": "第27章"
+      },
+      {
+        "scene": "ch28",
+        "label": "第28章"
+      },
+      {
+        "scene": "ch29",
+        "label": "第29章"
+      },
+      {
+        "scene": "ch30",
+        "label": "第30章"
+      },
+      {
+        "scene": "ch31",
+        "label": "第31章"
+      },
+      {
+        "scene": "ch32",
+        "label": "第32章"
+      },
+      {
+        "scene": "ch33",
+        "label": "第33章"
+      },
+      {
+        "scene": "ch34",
+        "label": "第34章"
+      },
+      {
+        "scene": "ch35",
+        "label": "第35章"
+      },
+      {
+        "scene": "ch36",
+        "label": "第36章"
+      },
+      {
+        "scene": "ch37",
+        "label": "第37章"
+      },
+      {
+        "scene": "ch38",
+        "label": "第38章"
+      },
+      {
+        "scene": "ch39",
+        "label": "第39章"
+      },
+      {
+        "scene": "ch40",
+        "label": "第40章"
+      },
+      {
+        "scene": "ch41",
+        "label": "第41章"
+      },
+      {
+        "scene": "ch42",
+        "label": "第42章"
+      },
+      {
+        "scene": "ch43",
+        "label": "第43章"
+      },
+      {
+        "scene": "ch44",
+        "label": "第44章"
+      },
+      {
+        "scene": "ch45",
+        "label": "第45章"
+      },
+      {
+        "scene": "ch46",
+        "label": "第46章"
+      },
+      {
+        "scene": "ch47",
+        "label": "第47章"
+      },
+      {
+        "scene": "ch48",
+        "label": "第48章"
+      },
+      {
+        "scene": "ch49",
+        "label": "第49章"
+      },
+      {
+        "scene": "ch50",
+        "label": "第50章"
+      },
+      {
+        "scene": "ch51",
+        "label": "第51章"
+      },
+      {
+        "scene": "ch52",
+        "label": "第52章"
+      },
+      {
+        "scene": "ch53",
+        "label": "第53章"
+      },
+      {
+        "scene": "ch54",
+        "label": "第54章"
+      },
+      {
+        "scene": "ch55",
+        "label": "第55章"
+      },
+      {
+        "scene": "ch56",
+        "label": "第56章"
+      },
+      {
+        "scene": "ch57",
+        "label": "第57章"
+      },
+      {
+        "scene": "ch58",
+        "label": "第58章"
+      },
+      {
+        "scene": "ch59",
+        "label": "第59章"
+      },
+      {
+        "scene": "ch60",
+        "label": "第60章"
+      },
+      {
+        "scene": "ch61",
+        "label": "第61章"
+      },
+      {
+        "scene": "ch62",
+        "label": "第62章"
+      },
+      {
+        "scene": "ch63",
+        "label": "第63章"
+      },
+      {
+        "scene": "ch64",
+        "label": "第64章"
+      },
+      {
+        "scene": "ch65",
+        "label": "第65章"
+      },
+      {
+        "scene": "ch66",
+        "label": "第66章"
+      },
+      {
+        "scene": "ch67",
+        "label": "第67章"
+      },
+      {
+        "scene": "ch68",
+        "label": "第68章"
+      },
+      {
+        "scene": "ch69",
+        "label": "第69章"
+      },
+      {
+        "scene": "ch70",
+        "label": "第70章"
+      },
+      {
+        "scene": "ch71",
+        "label": "第71章"
+      },
+      {
+        "scene": "ch72",
+        "label": "第72章"
+      },
+      {
+        "scene": "ch73",
+        "label": "第73章"
+      },
+      {
+        "scene": "ch74",
+        "label": "第74章"
+      },
+      {
+        "scene": "ch75",
+        "label": "第75章"
+      },
+      {
+        "scene": "ch76",
+        "label": "第76章"
+      },
+      {
+        "scene": "ch77",
+        "label": "第77章"
+      },
+      {
+        "scene": "ch78",
+        "label": "第78章"
+      },
+      {
+        "scene": "ch79",
+        "label": "第79章"
+      },
+      {
+        "scene": "ch80",
+        "label": "第80章"
+      },
+      {
+        "scene": "ch81",
+        "label": "第81章"
+      },
+      {
+        "scene": "ending",
+        "label": "片尾"
+      }
+    ],
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "道德经81章",
+      "道德经全文",
+      "观念黑盒",
+      "国学",
+      "经典诵读",
+      "哲学",
+      "有声书",
+      "水墨",
+      "完整版",
+      "道德经五讲"
+    ],
+    "description_intro": "【全书通读】81 章水墨动画 + 原文朗读，约 27 分钟。无讲解，适合静听、睡前重刷、或抄经前热身。\n\n与《道德经五讲》的关系：五讲 = 拆解版（地图 / 日损 / 知止 / 简单 / 执一）；本期 = 全书原文过一遍，不讲术。\n\n📌 章节导航（每 5 章 + 第 38 章德经起点）：\n0:00 第1章\n1:18 第5章\n2:26 第10章\n4:05 第15章\n5:36 第20章\n7:40 第25章\n9:36 第30章\n11:24 第35章\n12:11 第38章\n13:21 第40章\n14:44 第45章\n15:56 第50章\n17:54 第55章\n19:44 第60章\n21:45 第65章\n23:29 第70章\n24:48 第75章\n26:20 第80章\n26:42 第81章\n27:01 片尾\n\n完整 81 章精细时间轴见 YouTube @观念黑盒 同发版本。",
+    "dynamic": "五千言，八十一境：全书通读版上线。水墨动画逐章呈现 + 原文朗读，约27分钟。拆解版见《道德经五讲》系列。",
+    "cover_image": "assets/covers/daodejing-ep01-cover.jpg",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": false
+  }
+}

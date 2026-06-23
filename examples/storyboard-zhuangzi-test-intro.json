@@ -1,0 +1,93 @@
+{
+  "title": "庄子《逍遥游》测试章节：开场",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "开场 · 为什么今天读庄子"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "zhuangzi-test-intro.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": true,
+    "duration_sec": 3,
+    "narration": "",
+    "image": "assets/covers/zhuangzi-xiaoyaoyou-cover.jpg",
+    "hook": "庄子《逍遥游》测试",
+    "subtitle": "观念黑盒 · 测试章节"
+  },
+  "bgm": {
+    "enabled": true,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 4,
+    "narration": ""
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "scenes": [
+    {
+      "id": "intro-01",
+      "narration": "你好。欢迎来到《观念黑盒》。在接下来的三十分钟里，我想请你完成一个动作：暂时卸下你身上所有的社会零件。在这个极其喧嚣、处处都在测量你的世界里，我们今天不谈效率，不谈如何在这场永无止境的竞争中胜出。我们要谈论的是一次彻底的“退出”。我们要谈论的书，叫《庄子》。更准确地说，是《庄子》的灵魂……《逍遥游》。在进入文本之前，我们必须先理解一个问题：为什么是庄周？为什么我们要在这个时间点去读他？",
+      "image": "assets/DaoDeJing/白衣身影步入无边白雾 - 通用.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "intro-02",
+      "narration": "如果你去读孔子，他会教你如何成为一个完美的社会零件，告诉你如何“克己复礼”，如何为了一个宏大的社会目标去修剪自己的枝丫。如果你去读《孙子兵法》，它会教你如何在博弈中获胜。哪怕是读老子的《道德经》，老聃其实也在教你一种“战略性的撤退”，他的最终目的还是为了“无为而无不为”，是为了让你在不争中获胜。老聃依然是在游戏规则之内，教你成为一个最顶级的玩家。但庄周，完全是另一个维度的存在。",
+      "image": "assets/DaoDeJing/铜镜中映出模糊人影 - ch01 - 通用.png",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "intro-03",
+      "narration": "庄周诞生在中国历史上最血腥、最动荡、也最功利主义的战国中期。那个时代的每一个思想家都在呐喊：“用我吧！我的主张能让你称霸！我的才华能让你的国家变得有用！”只有庄周，在所有人都在拼命证明自己“有用”的时候，他把自己活成了一个巨大的“问号”。他拒绝了楚王宰相的职位，宁愿在破屋里打草鞋。他在想：如果这个世界本身就是荒谬的，那么成为这个世界的“有用之材”，到底是一种荣耀，还是一种自我毁灭？",
+      "image": "assets/DaoDeJing/荒野孤灯 - 通用 - 通用.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "intro-04",
+      "narration": "所以，在听这三十分钟的解剖时，你需要带上一份“拆迁队”的心法。庄周不是要给你建构一套新的价值观，他要把你脑子里那些深信不疑的、别人强加给你的测量工具，像砸碎玻璃一样，一寸一寸地瓦解掉。只有当你的认知地图变成一片废墟，你才能看到他想让你看到的那片……名为“逍遥”的星空。现在，让我们深呼吸。忘掉你的身份，忘掉你的名字。我们回到两千三百年前，北冥的那片深海。",
+      "image": "assets/DaoDeJing/幽暗中沉睡的长者面庞 - 通用.jpg",
+      "pause_after_sec": 0.35
+    }
+  ]
+}

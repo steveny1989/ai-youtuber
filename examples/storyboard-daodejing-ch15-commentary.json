@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第十五章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：善士"
+    },
+    {
+      "id": "2",
+      "label": "七容破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "徐清徐生"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch15-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "古之善为士者",
+      "哲学",
+      "第15章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十五章精解——浊以静之徐清。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "七容破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "慢系统"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "古之善为士者",
+      "哲学",
+      "第15章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十五章精解——浊以静之徐清。",
+    "dynamic": "真正的高手，像冬天过河、像冰将释——慎而徐清。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第十四章讲「夷希微」与道纪。第十五章，老子刻画「古之善为士者」：微妙玄通，深不可识——所以只能勉强形容其容：像冬天过河般谨慎，像怕四邻般警觉，像冰将释般放松。这一章，是高手的行为画像。",
+      "image": "assets/DaoDeJing/厚重的黑色冰层剧烈爆裂 - Ch15.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/涣兮若冰之将释 - Ch15.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「豫焉若冬涉川。」豫，是谨慎预备。冬天过河，步步试探——不是胆小，是对复杂系统的敬畏。",
+      "image": "assets/DaoDeJing/wat_10_rain_hitting_reef.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「犹兮若畏四邻；俨兮其若客；涣兮若冰之将释。」警觉如畏邻，庄重如作客，涣散如冰将融——紧而不僵，松而不散。",
+      "image": "assets/DaoDeJing/wat_11_catching_drops.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「敦兮其若朴；旷兮其若谷；混兮其若浊。」敦厚像未雕之木，空旷像山谷，混混沌沌像浊水——不急着把自己抛光成完美人设。",
+      "image": "assets/DaoDeJing/wat_12_stirring_murky_water.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「孰能浊以静之徐清？孰能安以久动之徐生？」谁能浊中慢慢澄清？谁能安守很久而后缓缓生发？高手靠徐，不靠猛。",
+      "image": "assets/DaoDeJing/wat_13_river_finding_path.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「保此道者不欲盈。夫唯不盈，故能蔽不新成。」守此道的人不求满溢。正因为不满，所以能守旧功而不妄自翻新——可持续，不折腾。",
+      "image": "assets/DaoDeJing/wat_14_tidal_sand_ripples.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "《论语》「讷于言而敏于行」，重内敛。禅宗强调慢参、渐悟。老子用七个比喻叠出：善士不是锋芒毕露，是冬涉、畏邻、若客、若谷——把速度降下来。",
+      "image": "assets/DaoDeJing/wat_15_ocean_rain_pillar.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。会议要立刻结论、平台要立刻爆款——人人追「新成」，不愿「徐清」。浊以静之：团队混乱时，先别加动作，先让系统沉淀。",
+      "image": "assets/DaoDeJing/一尊巨大的古老石像 - Ch28.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "领导者若凡事表现「精明锐利」，往往不如敦朴若谷。混兮若浊，是允许阶段性的乱——给澄清留出时间。",
+      "image": "assets/DaoDeJing/一座如刀锋般的巨大山峰 - Ch42.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，冬涉：重大决策，步步试探。第二，徐清徐生：用慢变量解决浊与躁。第三，不欲盈：高光时不加满。第四，蔽不新成：守成，不瞎翻新。下一章，「致虚极」——观复与知常。",
+      "image": "assets/DaoDeJing/一张宣纸上 - Ch02.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

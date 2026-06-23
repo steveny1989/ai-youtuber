@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第十四章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：道体"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "暗层基础"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch14-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "视之不见名曰夷",
+      "哲学",
+      "第14章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十四章精解——执古之道以御今之有。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不可见"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "视之不见名曰夷",
+      "哲学",
+      "第14章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十四章精解——执古之道以御今之有。",
+    "dynamic": "最高级的底层，往往看不见、摸不着，却托住一切。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第十三章讲宠辱与「身」。第十四章，老子描述道的感官属性：「视之不见名曰夷，听之不闻名曰希，搏之不得名曰微。」看不见、听不见、摸不到——却混而为一，托住万物。这是「不可见基础设施」的哲学版。",
+      "image": "assets/DaoDeJing/手 - Ch14.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/执古之道 - Ch14.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：夷、希、微——三种不可把握。不是不存在，是超出感官分辨率。你越想用眼睛抓住道，越抓不住。",
+      "image": "assets/DaoDeJing/极其黑暗的虚空中 - Ch14.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「此三者不可致诘，故混而为一。」追问到底，只能承认：它们不是三个东西，是一个底层。分析到尽头，要回到整体。",
+      "image": "assets/DaoDeJing/漆黑的竹林深处 - Ch14.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「绳绳不可名，复归于无物，是谓无状之状，无物之象，是谓惚恍。」连绵无法命名，像回到无物——无固定形状的形状，无固定形象的形象。惚恍，不是模糊，是高于清晰的那一层。",
+      "image": "assets/DaoDeJing/石琴 - Ch14.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「迎之不见其首，随之不见其后。」迎上去没有头，跟上去没有尾。道不是线性事件，不是你可以追赶的对象。",
+      "image": "assets/DaoDeJing/震撼的日全食特写 - Ch14.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「执古之道，以御今之有。能知古始，是谓道纪。」握住亘古不变之道，来驾驭当下之有。知古始，就是知系统底层规律——道纪。",
+      "image": "assets/DaoDeJing/wat_05_melting_lake_ice.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "康德「物自体」不可被感性直观；柏拉图「理念」超越个别事物。老子不用抽象名词堆叠，直接说：道在你感官之外，却在万物运行之内。",
+      "image": "assets/DaoDeJing/wat_06_leaf_in_vortex.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。互联网协议、电网、法律框架、组织文化——都是夷希微：平时看不见，一断就全乱。执古之道，是维护底层，不是追逐表层热点。",
+      "image": "assets/DaoDeJing/wat_07_underwater_light_beam.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人成长亦然：价值观、睡眠、关系信任——惚恍的底层。你只优化可见的简历，却不修不可见的根，遇变就崩。",
+      "image": "assets/DaoDeJing/wat_08_waterfall_abyss.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，认夷希微：尊重不可见层。第二，信惚恍：别强求一切清晰可拍。第三，执古御今：用恒定规律驾驭变化。第四，知道纪：知古始，才知今之所系。下一章，「古之善为士者」——高手为何看起来钝。",
+      "image": "assets/DaoDeJing/wat_09_still_mirror_bowl.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

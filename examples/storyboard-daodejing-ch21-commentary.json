@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第二十一章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：孔德"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "内核"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch21-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-8%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "孔德之容",
+      "哲学",
+      "第21章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十一章精解——惟道是从，其中有精有信。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "惚恍"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "孔德之容",
+      "哲学",
+      "第21章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十一章精解——惟道是从，其中有精有信。",
+    "dynamic": "最高的德，长得像道本身——恍兮惚兮，却里面有真东西。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十章讲「贵食母」——回到道根。第二十一章，老子问：最高的德长什么样？「孔德之容，惟道是从。」大德的样子，就是只跟道走。接着描述「道之为物」：惟恍惟惚，里面有象、有物、有精、有信。这一章，是「道体现象学」——你抓不住，但不能说没有；你说不清，但能在万物里「阅众甫」。对今天所有追求「内核」「价值观」「品牌灵魂」的人，这是源头文本。它教你：别急着把道拍成高清照片，先学会在惚恍里辨认精与信。",
+      "image": "assets/DaoDeJing/大漠绝境中 - Ch21.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，把惚恍之里的「真」找出来，一项项对照你的生活。",
+      "image": "assets/DaoDeJing/极其浓重湿润的晨雾中 - Ch21.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「孔德之容，惟道是从。」大德的外在表现，不是道德表演，是「只跟道对齐」。你看见一个人稳、深、不争，往往不是性格好，是他在跟道同频。惟道是从，是排他性的：不是顺便信道，是一切决策的母线。开会、择偶、择业，都可先问：这一步，是从道，还是从欲？",
+      "image": "assets/DaoDeJing/黑石 - Ch21.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「道之为物，惟恍惟惚。」道作为「物」，若一定要说，是恍恍惚惚的——不给你固定形状，不给你可拍照的实体。这打破「凡存在必可对象化」的执念。你越想把人生「说清楚写明白」，越可能离道远。",
+      "image": "assets/DaoDeJing/无形的风被具象化 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「惚兮恍兮，其中有象；恍兮惚兮，其中有物。」在恍惚里，有象、有物——不是幻觉，是低于语言分辨层的真实结构。象，是轮廓；物，是承载。你看不清，但你知道「有」。直觉、预感、分寸感，常在象物层工作。",
+      "image": "assets/DaoDeJing/有物混成 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「窈兮冥兮，其中有精；其精甚真，其中有信。」幽深冥暗处，有精——最细微、最真的东西；其精甚真，里面有信——可依靠、可验证的稳定性。惚恍不是空，是「真与信」的容器。精，是纯度；信，是时间检验后的可靠。",
+      "image": "assets/DaoDeJing/剑柄 - Ch69.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「自古及今，其名不去，以阅众甫。吾何以知众甫之状哉？以此。」名不去，是道名历久而不断；阅众甫，是用此道体去看万物之根。你怎么知道万物什么样？用此——不是用更多概念，是用精信之察。",
+      "image": "assets/DaoDeJing/勇于不敢则活 - Ch73.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "柏拉图说理念世界才是真；康德说物自体不可知，但可思。佛教讲「空」中有「有」。老子不走玄虚，直接说：惚恍里就有象、物、精、信——你日常感到的「说不清但靠谱」，就是精信在起作用。三脉都在承认：最高真实，往往低于语言分辨率。学会在模糊里工作，是成熟，不是糊涂。",
+      "image": "assets/DaoDeJing/十八盘 - 通用.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。品牌讲「价值观」，公司讲「使命」，个人讲「内核」——都是在找孔德之容。若只有 slogan 没有精信，就是假德。用户说不清你为什么靠谱，但愿意复购——那是「其中有信」。反过来，解释得越花哨，越要警惕：精信在不在？",
+      "image": "assets/DaoDeJing/千里之行 - Ch01.png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "领导者若只会讲清晰战略、不会守惚恍中的精——团队会感到「全对但无魂」。孔德，是让别人感到：你跟道在一条线上，而不只是跟 KPI 在一条线上。每周留一小时，不问指标，只问：我们的精信还在吗？",
+      "image": "assets/DaoDeJing/千里之行 - Ch64.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，惟道是从：决策先问母线。第二，认惚恍：别逼一切立刻清晰。第三，重精信：护住说不清但真的东西。第四，以此阅甫：用体察，不用口号，看万物开端。下一章，「曲则全」——示弱为何是高级策略。",
+      "image": "assets/DaoDeJing/午夜石弄 - 通用.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

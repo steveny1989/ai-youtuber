@@ -7,18 +7,16 @@ from pathlib import Path
 
 from .brand import PLACEHOLDER_HOME_IMAGE
 from .models import ChapterDef, Scene, Storyboard
-from .slides import default_chapter_path, render_chapter_slide, render_home_slide
+from .slides import (
+    default_chapter_path,
+    render_chapter_slide,
+    render_cover_hook_slide,
+    render_home_slide,
+)
 
 
 def _resolve_asset_path(project_root: Path, rel: str) -> Path:
     return (project_root / rel).resolve()
-
-
-def _rel_path(project_root: Path, path: Path) -> str:
-    try:
-        return path.relative_to(project_root).as_posix()
-    except ValueError:
-        return str(path)
 
 
 def prepare_storyboard_assets(
@@ -28,9 +26,9 @@ def prepare_storyboard_assets(
     storyboard_path: Path | None = None,
 ) -> Storyboard:
     """
+    - cover.enabled → 生成 assets/covers/<本期>-cover.jpg（独立，不覆盖 placeholder-home）
     - 根据 chapters[] 生成章节 JPG
-    - scene_type=intro → 生成首页图
-    - scene.chapter / chapter_title → 绑定章节图路径
+    - scene_type=intro → 绑定 placeholder-home（仅旧式 intro 镜头）
     """
     if storyboard_path:
         project_root = storyboard_path.parent.parent.resolve()
@@ -40,6 +38,41 @@ def prepare_storyboard_assets(
     hook = _resolve_asset_path(project_root, "assets/hook_bg.webp")
     logo = _resolve_asset_path(project_root, "assets/Logo.png")
     chapter_by_id = {c.id: c for c in storyboard.chapters}
+    hook_path = hook if hook.exists() else None
+    logo_path = logo if logo.exists() else None
+
+    if storyboard.cover.enabled:
+        cover_rel = storyboard.cover_image_rel()
+        cover_out = _resolve_asset_path(project_root, cover_rel)
+        cover_out.parent.mkdir(parents=True, exist_ok=True)
+        if storyboard.cover.hook.strip():
+            render_cover_hook_slide(
+                storyboard.cover.hook.strip(),
+                storyboard.cover.subtitle,
+                cover_out,
+                hook_path=hook_path,
+                logo_path=logo_path,
+            )
+        else:
+            render_home_slide(
+                storyboard.title,
+                cover_out,
+                hook_path=hook_path,
+                logo_path=logo_path,
+            )
+
+    needs_legacy_home = any(
+        (s.scene_type or "").strip().lower() == "intro" for s in storyboard.scenes
+    )
+    if needs_legacy_home:
+        home_out = _resolve_asset_path(project_root, PLACEHOLDER_HOME_IMAGE)
+        if not storyboard.cover.enabled:
+            render_home_slide(
+                storyboard.title,
+                home_out,
+                hook_path=hook_path,
+                logo_path=logo_path,
+            )
 
     for ch in storyboard.chapters:
         rel = default_chapter_path(ch.id, ch.file)
@@ -47,8 +80,8 @@ def prepare_storyboard_assets(
         render_chapter_slide(
             ch.label,
             out,
-            hook_path=hook if hook.exists() else None,
-            logo_path=logo if logo.exists() else None,
+            hook_path=hook_path,
+            logo_path=logo_path,
         )
 
     new_scenes: list[Scene] = []
@@ -57,15 +90,7 @@ def prepare_storyboard_assets(
         scene_type = (scene.scene_type or "").strip().lower()
 
         if scene_type == "intro":
-            home_rel = PLACEHOLDER_HOME_IMAGE
-            home_out = _resolve_asset_path(project_root, home_rel)
-            render_home_slide(
-                storyboard.title,
-                home_out,
-                hook_path=hook if hook.exists() else None,
-                logo_path=logo if logo.exists() else None,
-            )
-            image = home_rel
+            image = PLACEHOLDER_HOME_IMAGE
 
         elif scene_type == "chapter" or scene.chapter or scene.chapter_title:
             label: str | None = scene.chapter_title
@@ -91,8 +116,8 @@ def prepare_storyboard_assets(
             render_chapter_slide(
                 label,
                 out,
-                hook_path=hook if hook.exists() else None,
-                logo_path=logo if logo.exists() else None,
+                hook_path=hook_path,
+                logo_path=logo_path,
             )
             image = rel
 

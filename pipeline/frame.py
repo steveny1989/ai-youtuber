@@ -7,6 +7,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 from .brand import (
     BACKGROUND_COLOR,
+    COVER_OUTPUT_DIR,
+    COVER_SCENE_ID,
     ENDING_SCENE_ID,
     HOOK_BG,
     PLACEHOLDER_CHAPTER_DIR,
@@ -42,12 +44,16 @@ def _hex_to_rgb(hex_color: str) -> tuple[int, int, int]:
 
 
 def is_prerendered_slide(image_path: Path | None) -> bool:
-    """已生成的首页 / 章节 JPEG，直接铺满画布。"""
+    """已生成的首页 / 章节 / 片头封面 JPEG，直接铺满画布。"""
     if not image_path:
         return False
     if image_path.name == Path(PLACEHOLDER_HOME_IMAGE).name:
         return True
-    return image_path.parent.name == Path(PLACEHOLDER_CHAPTER_DIR).name
+    if image_path.parent.name == Path(PLACEHOLDER_CHAPTER_DIR).name:
+        return True
+    if image_path.parent.name == Path(COVER_OUTPUT_DIR).name:
+        return True
+    return False
 
 
 def is_hook_background(image_path: Path | None) -> bool:
@@ -65,6 +71,25 @@ def _fit_image(img: Image.Image, width: int, height: int, bg_rgb: tuple[int, int
     x = (width - img.width) // 2
     y = (height - img.height) // 2
     canvas.paste(img, (x, y))
+    return canvas
+
+
+def fit_background_cover(
+    img: Image.Image,
+    width: int,
+    height: int,
+    bg_rgb: tuple[int, int, int],
+) -> Image.Image:
+    """居中 cover 裁切，填满画布（Ken Burns 用）。"""
+    canvas = Image.new("RGB", (width, height), bg_rgb)
+    src = img.convert("RGB")
+    iw, ih = src.size
+    scale = max(width / iw, height / ih)
+    nw, nh = max(1, int(iw * scale)), max(1, int(ih * scale))
+    resized = src.resize((nw, nh), Image.Resampling.LANCZOS)
+    x = (width - nw) // 2
+    y = (height - nh) // 2
+    canvas.paste(resized, (x, y))
     return canvas
 
 
@@ -165,6 +190,29 @@ def _line_x(
     if align == "left":
         return float(margin_x)
     return (width - line_width) / 2
+
+
+def _subtitle_lines_single(
+    draw: ImageDraw.ImageDraw,
+    text: str,
+    font_path: str | None,
+    font_index: int,
+    max_width: int,
+    *,
+    target_size: int,
+    min_size: int = 40,
+) -> tuple[list[str], ImageFont.FreeTypeFont | ImageFont.ImageFont]:
+    """尽量单行显示；过长则略缩小字号直至单行可容纳。"""
+    size = target_size
+    while size >= min_size:
+        font = _load_font(size, font_path, font_index)
+        lines = _wrap_text(draw, text, font, max_width)
+        if len(lines) <= 1:
+            return lines, font
+        size -= 2
+    font = _load_font(min_size, font_path, font_index)
+    lines = _wrap_text(draw, text, font, max_width)
+    return (lines[:1] if lines else [text]), font
 
 
 def prepare_logo_rgba(
@@ -279,6 +327,59 @@ def render_seal_with_label(
     base.paste(layer.convert("RGB"))
     total_w = seal.width + gap + int(text_w)
     return total_w, block_h
+
+
+def render_brand_watermark_rgba(
+    frame_width: int,
+    frame_height: int,
+    logo_path: Path,
+    watermark: WatermarkConfig,
+    style: StyleConfig,
+) -> Image.Image:
+    """全画幅透明底品牌水印，供 ffmpeg overlay。"""
+    base = Image.new("RGBA", (frame_width, frame_height), (0, 0, 0, 0))
+    x, y = watermark.margin_x, watermark.margin_y
+    seal_max = max(32, int(frame_width * watermark.width_ratio))
+
+    if watermark.text.strip() and watermark.seal_only:
+        seal = load_brand_logo(
+            logo_path,
+            seal_only=True,
+            key_light_bg=watermark.key_light_bg,
+        )
+        seal.thumbnail((seal_max, seal_max), Image.Resampling.LANCZOS)
+        if watermark.opacity < 1.0:
+            alpha = seal.split()[3]
+            alpha = alpha.point(lambda p: int(p * watermark.opacity))
+            seal.putalpha(alpha)
+
+        draw = ImageDraw.Draw(base)
+        font = _load_font(watermark.font_size, style.font_path, watermark.font_index)
+        fill = _hex_to_rgb(watermark.color)
+        label = watermark.text.strip()
+        text_w = draw.textlength(label, font=font)
+        bbox = draw.textbbox((0, 0), label, font=font)
+        text_h = bbox[3] - bbox[1]
+        block_h = max(seal.height, text_h)
+        seal_y = y + (block_h - seal.height) // 2
+        text_y = y + (block_h - text_h) // 2 - bbox[1]
+        base.paste(seal, (x, seal_y), seal)
+        text_x = x + seal.width + watermark.label_gap
+        _draw_text_shadow(draw, (text_x, text_y), label, font, fill)
+        return base
+
+    logo = load_brand_logo(
+        logo_path,
+        seal_only=watermark.seal_only,
+        key_light_bg=watermark.key_light_bg,
+    )
+    logo.thumbnail((seal_max, seal_max), Image.Resampling.LANCZOS)
+    if watermark.opacity < 1.0:
+        alpha = logo.split()[3]
+        alpha = alpha.point(lambda p: int(p * watermark.opacity))
+        logo.putalpha(alpha)
+    base.paste(logo, (x, y), logo)
+    return base
 
 
 def _apply_image_watermark(
@@ -425,6 +526,125 @@ def _subtitle_text(scene: Scene, narration: str, style: StyleConfig) -> str:
     return _first_sentence(narration, style.subtitle_max_chars)
 
 
+def render_watermark_overlay_rgba(
+    watermark: WatermarkConfig,
+    style: StyleConfig,
+    width: int,
+    height: int,
+    out_path: Path,
+    *,
+    logo_path: Path | None = None,
+) -> Path:
+    """透明底水印层，供 Ken Burns 视频上静态叠加。"""
+    img = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+    if watermark.enabled and logo_path and logo_path.exists():
+        mode = watermark.mode
+        if mode in ("image", "both"):
+            seal_max = max(32, int(width * watermark.width_ratio))
+            logo = load_brand_logo(
+                logo_path,
+                seal_only=watermark.seal_only,
+                key_light_bg=watermark.key_light_bg,
+            )
+            logo.thumbnail((seal_max, seal_max), Image.Resampling.LANCZOS)
+            if watermark.opacity < 1.0:
+                alpha = logo.split()[3]
+                alpha = alpha.point(lambda p: int(p * watermark.opacity))
+                logo.putalpha(alpha)
+            x, y = watermark.margin_x, watermark.margin_y
+            if watermark.backplate:
+                pad = watermark.backplate_pad
+                bg_rgb = _hex_to_rgb(style.background_color)
+                plate = Image.new("RGBA", img.size, (0, 0, 0, 0))
+                plate_draw = ImageDraw.Draw(plate)
+                plate_draw.rounded_rectangle(
+                    [x - pad, y - pad, x + logo.width + pad, y + logo.height + pad],
+                    radius=watermark.backplate_radius,
+                    fill=(*bg_rgb, 230),
+                )
+                img = Image.alpha_composite(img, plate)
+            img.paste(logo, (x, y), logo)
+        if mode in ("text", "both") and watermark.text.strip():
+            draw = ImageDraw.Draw(img)
+            font = _load_font(
+                watermark.font_size or max(24, int(width * 0.018)),
+                style.font_path,
+                watermark.font_index,
+            )
+            fill = _hex_to_rgb(watermark.color) + (255,)
+            tx, ty = float(watermark.margin_x), float(watermark.margin_y)
+            for dx, dy in ((2, 2), (1, 1)):
+                draw.text(
+                    (tx + dx, ty + dy),
+                    watermark.text,
+                    font=font,
+                    fill=(0, 0, 0, 140),
+                )
+            draw.text((tx, ty), watermark.text, font=font, fill=fill)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    img.save(out_path, format="PNG")
+    return out_path
+
+
+def render_subtitle_overlay_rgba(
+    text: str,
+    style: StyleConfig,
+    width: int,
+    height: int,
+    out_path: Path,
+) -> Path:
+    """透明底字幕层，供 ffmpeg overlay + enable=between(t,...) 使用。"""
+    img = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+    if not text.strip():
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        img.save(out_path, format="PNG")
+        return out_path
+    draw = ImageDraw.Draw(img)
+    margin_x = 72
+    max_width = int(width * style.subtitle_max_width_ratio)
+    align = style.subtitle_align
+    lines, font = _subtitle_lines_single(
+        draw,
+        text.strip(),
+        style.font_path,
+        style.font_index,
+        max_width,
+        target_size=style.subtitle_font_size,
+    )
+    if len(lines) > style.subtitle_max_lines:
+        lines = lines[: style.subtitle_max_lines]
+    fill = _hex_to_rgb(style.subtitle_color) + (255,)
+    line_height = font.size + 14 if hasattr(font, "size") else style.subtitle_font_size + 14
+    block_height = len(lines) * line_height
+    y_start = height - style.subtitle_margin_bottom - block_height
+
+    for i, line in enumerate(lines):
+        if not line:
+            continue
+        tw = draw.textlength(line, font=font)
+        x = _line_x(align, width, margin_x, tw)
+        y = y_start + i * line_height
+        if style.subtitle_style == "box":
+            pad = 8
+            bx0, by0 = x - pad, y - pad
+            bx1 = min(width, x + int(tw) + pad)
+            by1 = y + line_height + pad
+            draw.rounded_rectangle(
+                (bx0, by0, bx1, by1),
+                radius=6,
+                fill=(0, 0, 0, 160),
+            )
+            draw.text((x, y), line, font=font, fill=fill)
+        else:
+            for dx, dy in ((2, 2), (1, 1)):
+                draw.text((x + dx, y + dy), line, font=font, fill=(0, 0, 0, 140))
+            draw.text((x, y), line, font=font, fill=fill)
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    img.save(out_path, format="PNG")
+    return out_path
+
+
 def _draw_subtitles(
     base: Image.Image,
     text: str,
@@ -435,17 +655,23 @@ def _draw_subtitles(
     if not text.strip():
         return
     draw = ImageDraw.Draw(base)
-    font = _load_font(style.subtitle_font_size, style.font_path, style.font_index)
     fill = _hex_to_rgb(style.subtitle_color)
 
     margin_x = 72
     max_width = int(width * style.subtitle_max_width_ratio)
     align = style.subtitle_align
 
-    lines = _wrap_text(draw, text, font, max_width)
+    lines, font = _subtitle_lines_single(
+        draw,
+        text.strip(),
+        style.font_path,
+        style.font_index,
+        max_width,
+        target_size=style.subtitle_font_size,
+    )
     if len(lines) > style.subtitle_max_lines:
         lines = lines[: style.subtitle_max_lines]
-    line_height = style.subtitle_font_size + 14
+    line_height = font.size + 14 if hasattr(font, "size") else style.subtitle_font_size + 14
     block_height = len(lines) * line_height
     y_start = height - style.subtitle_margin_bottom - block_height
 
@@ -501,7 +727,12 @@ def render_frame(
         _draw_subtitles(base, sub, style, width, height)
 
     wm = watermark or WatermarkConfig()
-    if wm.enabled and scene_id != ENDING_SCENE_ID:
+    # 片尾全屏图内已有文案；首页/章节幻灯片在 slides 里已画品牌行
+    skip_wm = scene_id == ENDING_SCENE_ID or (
+        scene_id == COVER_SCENE_ID
+        or (scene_obj.scene_type or "").strip().lower() in ("intro", "chapter")
+    )
+    if wm.enabled and not skip_wm:
         _apply_watermark(base, wm, style, width, watermark_logo_path)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)

@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第42章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：生成"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "强梁"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch42-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道生一",
+      "哲学",
+      "第42章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十二章精解——生成链与阴阳冲和。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "道生万物"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "冲气与强梁"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道生一",
+      "哲学",
+      "第42章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十二章精解——生成链与阴阳冲和。",
+    "dynamic": "道生一，一生万物——冲气以为和，强梁者不得其死。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十一章讲闻与行的分层。第四十二章，老子回到生成论：「道生一，一生二，二生三，三生万物。」万物负阴而抱阳，冲气以为和。然后警告：「强梁者不得其死。」这一章，是系统如何从一到多、阴阳如何冲和、以及为何硬刚必反噬。",
+      "image": "assets/DaoDeJing/一座如刀锋般的巨大山峰 - ch42 - 通用.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：生成链、阴阳、损益与强梁。",
+      "image": "assets/DaoDeJing/清晨幽谷中 - ch42 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「道生一，一生二，二生三，三生万物。」一，是未分化的统一；二，是阴阳对举；三，是交互后的第三态；万物，是展开。不是数学迷信，是描述复杂系统：先有主轴，再有对立，再有动态平衡，再有现象世界。公司一个核心愿景，拆成产品与市场，再长出组织与生态——同构。",
+      "image": "assets/DaoDeJing/玉碎 - ch42 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「万物负阴而抱阳，冲气以为和。」万物背阴抱阳——没有纯阳纯阴，只有配比。冲气以为和：对立面之间的张力、反馈、摩擦，生成稳定。团队只有赞美没有批评，只有冲刺没有恢复——冲气不足，和是假的。",
+      "image": "assets/DaoDeJing/高台上 - ch42 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「人之所恶，唯孤寡不穀，而王公以为称。」人讨厌孤寡不谷，王公却用来自称——上一章贱本的回响。系统生成到高层，仍要接底层的名，否则阴阳断根。损之而益，益之而损——下一章的伏笔，这里先点：加减常互换。CEO 若只称「伟大领袖」，不接孤寡，团队不敢报坏消息。",
+      "image": "assets/DaoDeJing/Empty throne - ch02 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「人之所教，我亦教之：强梁者不得其死。」强梁，硬刚、强横、以力压人。不得其死，不是诅咒，是结构：把系统推到极致对抗，反噬必至。商业里垄断式硬吃、关系里情绪暴力、个人里永不服软——都是强梁。教父式的教训：强梁是反面教材，不是成功学。能赢一时，赢不了反馈环里的长期。",
+      "image": "assets/DaoDeJing/Vine Shield - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章合读：从一到万物，靠冲气和，不靠强梁。你若只要「生万物」的扩张，不要「负阴抱阳」的配比，生成很快，崩塌更快。道生一，是主轴；一生二，是承认对立；三生万物，是允许展开——缺任何一环，都是强梁式的单边生长。",
+      "image": "assets/DaoDeJing/Wat 10 Rain Hitting - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "毕达哥拉斯——古希腊数学家——也谈一与对立数的和谐。系统论——研究复杂反馈的二十世纪学问——说简单规则可涌现复杂秩序。老子用「道生一」串起：生成不是乱长，是有序展开。硬刚破坏反馈环，和就断。负阴抱阳，是承认系统里永远有阴影面——否认阴影，阴影反扑。",
+      "image": "assets/DaoDeJing/清晨幽谷中 - ch42 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。平台要增长（阳），也要合规与信任（阴）——冲气为和。只烧补贴不建交付，只要规模不要单元经济，是强梁。个人健身只练爆发不练恢复，只攻不守，短期像英雄，长期不得其久。一生二不是分裂，是为了动态平衡。组织里「只招一种人」、文化里「只许一种声音」，冲气断，和是表演。",
+      "image": "assets/DaoDeJing/编钟 - Ch12.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "「强梁者不得其死」在个人：每次都要赢对话、赢关系、赢面子——赢多了，系统没朋友、没缓冲、没第二曲线。留一点不强，是给自己留生路。闻道若只记「三生万物」，忽略「冲气以为和」，会生出一堆乱。王公称孤寡不穀，是接地的名；你接不住底层，冲气断在头衔上。",
+      "image": "assets/DaoDeJing/Plc 15 Empty Throne - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，守一：生成前先问主轴。第二，配阴阳：对立面都要有，冲气才和。第三，戒强梁：硬刚是短期赢、长期死。第四，认损益：加减常互换，别只赌一边。下一章，「天下之至柔」——驰骋至坚，无有入无间。",
+      "image": "assets/DaoDeJing/隐藏在岩洞深处的深渊黑潭 - Ch04.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

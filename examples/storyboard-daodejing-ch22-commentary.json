@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第二十二章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：曲全"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "示弱"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch22-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "曲则全",
+      "哲学",
+      "第22章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十二章精解——曲则全，枉则直，夫唯不争。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不争"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "曲则全",
+      "哲学",
+      "第22章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十二章精解——曲则全，枉则直，夫唯不争。",
+    "dynamic": "先弯下来，反而能保全；不争，天下莫能与之争。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十一章讲孔德与惚恍中的精信。第二十二章，老子给出一套「反向算法」：「曲则全，枉则直，洼则盈，敝则新，少则得，多则惑。」弯了反而全，低了反而满，旧了反而新，少了反而得，多了反而惑。然后圣人「抱一」，不自见、不自是、不自伐、不自矜，故「天下莫能与之争」。这一章，是弱者逻辑的胜利宣言——不是鸡汤，是系统论。古之所谓曲则全者，岂虚言哉？诚全而归之——全，会回来找曲者。",
+      "image": "assets/DaoDeJing/柳枝 - Ch22.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐条破译这组反向算法，再接到「不争」，你可以当成每周自检表。",
+      "image": "assets/DaoDeJing/竹子 - Ch22.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一组：「曲则全，枉则直。」能弯，才能保全；能枉，才能直。硬扛的人，断得快；先退一步的人，路还在。全，不是赢一切，是还在场上。冲突里先承认对方一部分合理，往往比赢一句嘴炮更全。",
+      "image": "assets/DaoDeJing/蒙着厚重灰尘的古铜镜 - Ch22.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二组：「洼则盈，敝则新。」处在低处，才能被填满；破了、旧了，才有新的生。洼，是容量；敝，是更新接口。不敢处下，就接不住机会；不敢破旧，就换不了新。",
+      "image": "assets/DaoDeJing/却走马以粪 - Ch46 (1).jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三组：「少则得，多则惑。」少，反而得到；多，反而迷惑。信息、欲望、选项一多，你就失去「得」的能力。手机装一百个 App，你真正「得」到的是焦虑。",
+      "image": "assets/DaoDeJing/却走马以粪 - Ch46.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以圣人抱一，为天下式。不自见故明，不自是故彰，不自伐故有功，不自矜故长。」圣人抱一——守住那个一，不分裂；四不自：不自我炫耀、不自我固执、不自我夸功、不自我骄傲。结果：明、彰、有功、能长。抱一，是别把自己撕成无数人设。",
+      "image": "assets/DaoDeJing/去伪 - Ch48.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「夫唯不争，故天下莫能与之争。」因为不争，天下没人能跟他争。争，是把自己放进对抗系统；不争，是换赛道——你不在他的游戏里。诚全而归之：全，最后会回到不争的人身上。",
+      "image": "assets/DaoDeJing/反者道之动 - Ch01 (1).png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "苏格拉底「我知道我无知」，是认知上的曲则全。柔道「以柔克刚」，是身体上的曲则全。易经谦卦，地在上天在下，象征降而能载。老子把同一逻辑写成六条算法 + 四不自 + 不争，可直接当行为检查表。每周选一条练，比背全章有用。",
+      "image": "assets/DaoDeJing/反者道之动 - Ch01 (2).png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。职场「示弱」、产品「少即是多」、投资「反脆弱」——都在暗合曲则全。你怕洼，所以不敢处下；你怕敝，所以不敢迭代；你怕少，所以堆功能到惑。把「曲则全」贴在显示器旁：我现在是在曲，还是在硬扛？",
+      "image": "assets/DaoDeJing/反者道之动 - Ch01 (3).png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "谈判里先让步的人，往往掌控终局——不是怂，是曲。团队里不争功的人，功劳反而跟着他走——不自伐故有功。把「多则惑」写进产品会：每加一个功能，问一句：是得，还是惑？能删，才是真的得。 抱一，是团队少分裂、少内耗——比口号统一更实在。",
+      "image": "assets/DaoDeJing/反者道之动 - Ch01 (4).png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，能曲能洼：退一步，保全场。第二，能少能敝：减选项，敢迭代。第三，四不自：戒见、是、伐、矜。第四，不争：换赛道，不在对抗游戏里耗。每周复盘：我本周是曲，还是硬扛？下一章，「希言自然」——话少，反而合于天道。",
+      "image": "assets/DaoDeJing/反者道之动 - Ch01 (5).png",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

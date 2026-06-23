@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第二十章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：独异"
+    },
+    {
+      "id": "2",
+      "label": "对照破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "FOMO"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch20-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "绝学无忧",
+      "哲学",
+      "第20章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十章精解——我独异于人，而贵食母。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "对照破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "众人熙熙"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "绝学无忧",
+      "哲学",
+      "第20章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十章精解——我独异于人，而贵食母。",
+    "dynamic": "众人熙熙时，敢独异的人，往往是在守自己的「母」。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第十九章讲见素抱朴。第二十章，老子写了一段极具画面感的「人群对照」：众人熙熙，我独若遗；众人昭昭，我独昏昏。这是《道德经》里最像独白的一章——一个拒绝跟大众一起狂欢的人，最后说：「我独异于人，而贵食母。」食母，不是吃饭，是回到道的根源。这一章，给所有在时代噪音里感到格格不入的人，一张通行证：你不必复制众人的「有余」，你要找的是自己的母。独异不是标新立异，是拒绝用群噪喂养自己，改由道根喂养。",
+      "image": "assets/DaoDeJing/沌沌兮 - Ch20.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们顺着对照结构，一段段破译。这一章像镜子，照见你在人群里的位置。",
+      "image": "assets/DaoDeJing/荒兮其未央 - Ch20.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "开头：「绝学无忧。」放下那种「学越多越安全」的执念，反而少忧。不是不学习，是不把学习当成焦虑止痛药、身份装饰品。当你为「还没学完」而恐慌时，你学的不是知识，是安全感——那是绝学要对症的下药。",
+      "image": "assets/DaoDeJing/黑暗乱石中 - Ch20.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "「唯之与阿，相去几何？善之与恶，相去若何？」应承与奉承，差多少？善与恶，又差多少？老子在拆二元对立的绝对性——你拼命站的队，可能没那么神圣。职场里的「收到」与「明白领导意思」，相去几何？",
+      "image": "assets/DaoDeJing/光雾 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "「人之所畏，不可不畏。」别人害怕的（舆论、失败、掉队），你也不能完全无视——但「畏」不等于「从」。畏，让你看见风险；从，让你卖掉自己。独异的人，往往畏而不从。",
+      "image": "assets/DaoDeJing/兕无所投其角 - Ch50.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "「众人熙熙，如享太牢，如春登台。我独泊兮其未兆，如婴儿之未孩。」众人热闹得像过年、像登春台；我独自淡泊，像婴儿还没长成那一步。不是鄙视众人，是不把热闹当唯一真理。太牢再香，也不是你每天的饭；春台再高，也不是你的地面。",
+      "image": "assets/DaoDeJing/冰瀑 - 通用.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「众人皆有余，而我独若遗……我独异于人，而贵食母。」别人都觉得够了、满了，我独像被落下；但我异于人，是因为我在「食母」——滋养于道，不滋养于群噪。遗，是退出错误游戏；食母，是回到正确源头。母在，你就不怕熙熙；母不在，越多越空。",
+      "image": "assets/DaoDeJing/出生入死 - Ch50.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "苏格拉底在雅典众声喧哗中坚持「我知道我无知」。克尔凯郭尔强调个体面对群体的焦虑。禅宗「吃茶去」，也是不从热闹里讨答案。老子用整章对照：昭昭与昏昏、察察与闷闷，不是要你装酷，是要你认得出「母」在哪里。母，是让你能长期活的那一口粮。找到母，昭昭昏昏都不怕。",
+      "image": "assets/DaoDeJing/刚柔转换 - 通用.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。朋友圈的熙熙、算法的太牢、职场的春台——FOMO 就是怕「我独若遗」。但遗，有时是主动退出错误游戏。绝学无忧，是停止用证书和热点喂焦虑。你刷十小时课，不如弄清一道真问题。群噪越响，越要回母。",
+      "image": "assets/DaoDeJing/利刃 - Ch02.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "创作者怕数据不好就跟风；投资者怕错过就追涨——都是「众人有余」的逻辑。食母，是回到你的核心能力、核心价值、核心受众，哪怕暂时看起来「遗」。遗一阵子，往往是为了复命——像第十六章的观复。",
+      "image": "assets/DaoDeJing/刺客 - Ch36.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，绝学无忧：学为明，不为惧，别用学习喂焦虑。第二，不畏众：畏不可无，从不可盲，保持泊兮。第三，敢独异：热闹里保留昏昏闷闷的权利。第四，贵食母：滋养于道，不滋养于群噪，若遗不可怕。下一章，「孔德之容」——道体惟恍惟惚。",
+      "image": "assets/DaoDeJing/刺绣 - Ch44.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

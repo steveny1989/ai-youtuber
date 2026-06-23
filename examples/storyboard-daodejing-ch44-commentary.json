@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第44章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：取舍"
+    },
+    {
+      "id": "2",
+      "label": "四问破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "知足"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch44-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "名与身孰亲",
+      "哲学",
+      "第44章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十四章精解——取舍与知足知止。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "四问破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "知足知止"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "名与身孰亲",
+      "哲学",
+      "第44章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十四章精解——取舍与知足知止。",
+    "dynamic": "名身货得四问——知足不辱，知止不殆，可以长久。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十三章讲至柔与不言。第四十四章，老子问四个价值排序题：「名与身孰亲？身与货孰多？得与亡孰病？」是故甚爱必大费，多藏必厚亡。知足不辱，知止不殆，可以长久。这一章，是取舍论：名、身、货、得，何者更真。",
+      "image": "assets/DaoDeJing/刺绣 - ch44 - 通用.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译这四问与知足知止。",
+      "image": "assets/DaoDeJing/白玉 - ch44 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一问：「名与身孰亲？」名声与身体（生命、真实自我），哪个更亲？为虚名熬夜、为标签内耗——名在身外，却常被当成身。真亲的是能持续运行的你，不是别人嘴里的你。LinkedIn 头衔、平台粉丝数，是名的影子；睡眠、情绪、关系，是身的本体。",
+      "image": "assets/DaoDeJing/酒杯 - ch44 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二问：「身与货孰多？」生命与财物，哪个更「多」？货可以堆，身只有一个容器；容器破了，货无主。二零二四年很多「财富自由」叙事，忘了身是乘数，货是加数。乘数归零，加数再多也是零；先护身，再谈货。",
+      "image": "assets/DaoDeJing/金玉 - ch44 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三问：「得与亡孰病？」得到与失去，哪个更伤？人怕失去，所以疯狂囤积；但「得」也会病——得错方向，失去更正。失恋、失业、失败项目，若是错配的得，亡是免疫反应。怕亡而囤，常囤到更重的病：关系窒息、资产套牢、信息过载。",
+      "image": "assets/DaoDeJing/一束极度刺眼的狭长白光 - ch28 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是故甚爱必大费，多藏必厚亡。」太爱必大耗：过度保护、过度占有，消耗巨大。多藏必厚亡：囤太多，失去时更惨——情感、资产、信息皆然。极简不是时尚，是减厚亡的风险。情感里抓太紧，关系先亡；资产里杠杆叠满，波动一来厚亡。",
+      "image": "assets/DaoDeJing/上德不德 - ch38 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「知足不辱，知止不殆，可以长久。」知足，不辱：边界内已够，不被比较羞辱。知止，不殆：知道停，就不危殆。长久，来自少贪、少囤、少错配——不是来自永远多拿。四问不是道德题，是排序题：身、名、货、得，你先保哪个？",
+      "image": "assets/DaoDeJing/星轨 - Ch07.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯多葛——古罗马哲学——讲区分可控与不可控：名与货 largely 不可控，身与德性相对可控。佛教讲「少欲知足」，不是禁欲表演，是减苦。老子用四问，把价值序排成可操作的系统检查。爱比克泰德——斯多葛哲学家——说：你拥有的，是判断与选择，不是名声与库存。",
+      "image": "assets/DaoDeJing/Plc 02 Pillar Corrid - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。社交媒体卖「名」，消费主义卖「货」，FOMO 卖「得」，很少卖「止」。副业开五条线、房间堆满囤货款、简历堆满标签——甚爱、多藏，大费、厚亡在路上。知足不是躺平，是知道够在哪里，把余力留给身。知止不是放弃，是承认边际递减：再堆一层，往往损大于益。可以长久，靠少错配，不靠永远多拿。",
+      "image": "assets/DaoDeJing/不欲琭琭如玉 - ch39 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：若你常觉「还差一点就圆满」，可能是「得与亡孰病」答错了——把得当成解药，把亡当成失败。知止：项目够用了就 ship，关系够真了就维护，而不是永远追下一个名与货。可以长久的人，往往看起来「不多」，但损得少。知足不辱：边界内已够，就不被比较羞辱；知止不殆：知道停，就不危殆。",
+      "image": "assets/DaoDeJing/Pavilion and crashin - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，身先于名：别为标签透支容器。第二，货为身用：财物是工具，不是身份。第三，戒甚爱多藏： hoarding 放大亡。第四，知足知止：够与停，是长久接口。四问是排序，不是道德表演——先保身，再谈名货得。长久，来自少贪少囤，不是永远多拿。下一章，「大成若缺」——大巧若拙，清静为天下正。",
+      "image": "assets/DaoDeJing/Bowing Official Shad - Ch02.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第81章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：小国寡民"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "不积"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch81-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "信言不美美言不信",
+      "哲学",
+      "第81章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第八十一章精解——全书终章：信美相反、不积愈有、为而不争。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "为而不争"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "利而不害"
+      },
+      {
+        "scene": "open-close",
+        "label": "八十一讲完结"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "信言不美美言不信",
+      "哲学",
+      "第81章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第八十一章精解——全书终章：信美相反、不积愈有、为而不争。",
+    "dynamic": "信言不美，美言不信——天之道利而不害，圣人之道为而不争。八十一讲完结。八十一讲完结，感谢一路听到这里。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第八十章「小国寡民」——甘食美服，相望不相往来。第八十一章，全书终章：「信言不美，美言不信。善者不辩，辩者不善。知者不博，博者不知。」圣人不积——既以为人，己愈有；既以与人，己愈多。天之道，利而不害；圣人之道，为而不争。八十一讲，在此收束：真话不包装，善人不抢话筒；给出去，反而更有——这与开篇「道可道非常道」同环：言有限，行有宗；为而不争，是观念黑盒八十一讲的最后一道补丁。",
+      "image": "assets/DaoDeJing/栈道风雪 - 通用 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：信美相反、不积愈有，与为而不争。",
+      "image": "assets/DaoDeJing/雨丝 - ch73 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「信言不美，美言不信。」信言——真、直、可能刺耳；不美——无抛光、无套路。美言——好听、好传播、好成交；不信——常空、常滑、常藏利。与第一章「道可道非常道」——能说的，已失真；终章再钉一次：好听的，更要警惕。",
+      "image": "assets/DaoDeJing/Real thorns - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「善者不辩，辩者不善。知者不博，博者不知。」善者不辩——真善行，少占辩论舞台；辩者不善——赢嘴者，常输关系与事实。知者不博——真知，不在知识炫耀；博者不知——与第七十一章不知知——全书认知闭环。",
+      "image": "assets/DaoDeJing/黑暗中 - ch63 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「圣人不积。既以为人，己愈有；既以与人，己愈多。」不积——不 hoard 功、名、资源于私囊；以为人——给出帮助、给出信用、给出舞台；己愈有、愈多——不是算计回报，是系统回馈：流动者，常满。",
+      "image": "assets/DaoDeJing/Guarding the black - - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「天之道，利而不害；圣人之道，为而不争。」天之道——滋养而不害生；圣人之道——做事而不抢功、不抢位、不抢话。为而不争——第六十六、六十八、七十三、七十八——「不争」链的终章盖章。八十一讲，落在两个字：为、不争。为，是交付；不争，是姿态——全书最后一刀，切在行动与声量之间。",
+      "image": "assets/DaoDeJing/天之道 - ch77 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：全书八十一讲，从「道可道非常道」到「为而不争」——一条减法链：少言、少智、少争、少有为、少贵生、回归柔、水、朴。观念黑盒读老子，不是背章句，是练黑盒视角：看结构、看代价、看反常识的正言。八十一讲完结——道在行，不在收藏。最后一课：把一条听懂的，做成一件做到的。",
+      "image": "assets/DaoDeJing/Water carving rock - - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "苏格拉底反诡辩——善者不辩。孔子「君子欲讷于言而敏于行」——信言不美。老子与庄子全书——知者不博。现代「开源精神」——既以与人，己愈多。",
+      "image": "assets/DaoDeJing/Stone Oil Lamp - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。内容时代：美言不信——标题党、话术课、包装过度的个人品牌。改法：信言不美——说可验证的、说代价、说边界。工作：为而不争——交付优先，不争功劳。八十一讲听完，只留一条行动，胜过八十一张笔记。这是终章，也是开始。",
+      "image": "assets/DaoDeJing/Storm over imperial - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：八十一讲收官练习——写一句「信言不美」的真话，发给该发的人。不积练习：分享一个你 hoard 的资源。为而不争：本周成一件事，不发帖。道在行——我们八十一讲，到此。",
+      "image": "assets/DaoDeJing/Plc 12 Discarded Tab - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，信言不美：真话常不抛光。第二，善者不辩：赢嘴输道。第三，不积愈有：给出者常满。第四，为而不争：八十一讲总收束。天之道，利而不害；圣人之道，为而不争。观念黑盒《道德经》八十一讲——完结。从第一章的「非常道」到第八十一章的「为而不争」——同一条路：少说，少争，多做，回到黑盒里的道。感谢一路听到这里。道在行，我们后会有期。",
+      "image": "assets/DaoDeJing/Sage meditating wide - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

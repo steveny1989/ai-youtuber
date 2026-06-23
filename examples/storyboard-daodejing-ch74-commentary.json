@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第74章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：天网恢恢"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "司杀"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch74-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "民不畏死",
+      "哲学",
+      "第74章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十四章精解——民不畏死、司杀者与代斫伤手。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "代大匠斫"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "民不畏死"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "民不畏死",
+      "哲学",
+      "第74章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十四章精解——民不畏死、司杀者与代斫伤手。",
+    "dynamic": "民不畏死，奈何以死惧之——代大匠斫者，希有不伤其手。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第七十三章讲「天网恢恢，疏而不失」——勇于敢则杀，勇于不敢则活。第七十四章，老子谈「死」与「惧」：「民不畏死，奈何以死惧之？」若使民常畏死，而为奇者，吾得执而杀之，孰敢？常有司杀者杀。夫代司杀者杀，是谓代大匠斫；夫代大匠斫者，希有不伤其手矣。这一章，是刑罚黑盒：人不怕死时，用死威胁无效；越权代杀，反伤执刀之手。从天道之网到人间之杀，老子问：谁有权挥斧？",
+      "image": "assets/DaoDeJing/代大匠斫者伤手 - ch74 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：民不畏死、司杀者杀，与代大匠斫。",
+      "image": "assets/DaoDeJing/Desire thorns - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「民不畏死，奈何以死惧之？」民不畏死——不是人人都想死，是活得太苦、太逼、太无出路时，死刑威慑失效。奈何以死惧之——你还拿死来吓人，逻辑已崩。与第七十二章大威至、第七十五章轻死——系统压迫的终点。红灯亮起时，加刑只会更亮。",
+      "image": "assets/DaoDeJing/Endless slips - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「若使民常畏死，而为奇者，吾得执而杀之，孰敢？」若使民常畏死——若百姓尚惜命、尚有希望、尚有公平感；而为奇者——妄为、越轨、破坏底线者；吾得执而杀之——依法处置，谁敢妄为？关键在「常畏死」的前提——得先让人值得活、愿意活。",
+      "image": "assets/DaoDeJing/Guarding the black - - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「常有司杀者杀。」司杀者——掌管生死刑罚的正当程序、正当权力；常有司杀者杀——杀伐有专责、有边界、不可人人代劳。黑盒读法：暴力垄断于制度，不是为了残忍，是为了止私刑、止滥用。程序正义，是司杀者的容器。谁都能杀，就无人安全——包括执刀的人自己。",
+      "image": "assets/DaoDeJing/Half open window - c - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「夫代司杀者杀，是谓代大匠斫。」代司杀者杀——越权、私刑、情绪执法；代大匠斫——大匠本有斧斤之工，你代他砍，多半砍到自己的手。管理：越级开除、私下报复、网络人肉——皆代斫。",
+      "image": "assets/DaoDeJing/漆黑肮脏的桥洞下 - Ch70.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「夫代大匠斫者，希有不伤其手矣。」希有不伤——几乎必伤；伤手——反噬自身、声誉、法律、良心。全章收束：先让人畏活之失、再谈畏死；杀权不可代。给第七十五章「民之饥」铺路：饥、难治、轻死，根在上之有為与食税。代斫之手，往往先伤的是执刀人自己。",
+      "image": "assets/DaoDeJing/Hand brush - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "孟子「民为贵」——先问为何不畏死。西方法治「程序正义」——司杀者杀。老子与孔子「不教而杀谓之虐」——代斫之戒。马基雅维利谈恐惧统治的极限——民不畏死时失效。",
+      "image": "assets/DaoDeJing/Ancient Horse - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。组织：只靠开除、羞辱、「行业封杀」吓人——人不怕时，大威至。改法：让人「常畏死」——惜职业、惜名誉、惜关系——前提是值得惜。个人：别代大匠斫——少替上天、少替法律、少替老板行私刑；举报走程序，愤怒不越权。程序慢，常比私刑快能保命。",
+      "image": "assets/DaoDeJing/宏大的黑色石阶上 - Ch13.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你是否在「代斫」——越权批评、人肉、私刑式报复？停一手，改走正当渠道。畏死练习：珍惜一件你差点挥霍的健康或关系。司杀练习：重大惩戒前，问「这是谁的权」？代斫的快感很短，伤手的代价很长——天网对此疏而不失。",
+      "image": "assets/DaoDeJing/Hand over paper - ch - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，民不畏死：死惧失效前，先问活为何苦。第二，常畏死则孰敢：公平活，才畏越轨。第三，司杀者杀：暴力须有程序与边界。第四，代斫伤手：越权执法，反噬自己。民不畏死——是系统诊断红灯。下一章，「民之饥，以其上食税之多」——无以生为，贤于贵生。七十四讲杀，七十五讲饥与有为。",
+      "image": "assets/DaoDeJing/沉重的古木门微微开启 - Ch01.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

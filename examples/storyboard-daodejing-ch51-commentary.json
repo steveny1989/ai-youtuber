@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第51章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：摄生"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "玄德"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch51-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道生之德畜之",
+      "哲学",
+      "第51章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十一章精解——生成链与玄德四不。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "生成链"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "生而不有"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道生之德畜之",
+      "哲学",
+      "第51章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十一章精解——生成链与玄德四不。",
+    "dynamic": "道生之，德畜之——生而不有，为而不恃，长而不宰，是谓玄德。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十章讲「出生入死」——善摄生者，无死地。第五十一章，老子把镜头从「怎么活」拉到「谁让你活」：「道生之，德畜之，物形之，势成之。是以万物莫不尊道而贵德。道之尊，德之贵，夫莫之命而常自然。」然后列出生、畜、长、育、亭、毒、养、覆——最后落刀：「生而不有，为而不恃，长而不宰，是谓玄德。」这一章，是生成链的总说明书：不是你造万物，是道生、德养，你只是接口。",
+      "image": "assets/DaoDeJing/尊道贵德 - Ch51.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：生成链、尊道贵德，与玄德四不。",
+      "image": "assets/DaoDeJing/遗落的头盔 - 通用.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「道生之，德畜之。」道生——不是一次性发射，是底层协议一直在生。德畜——像仓、像母、像场，把生出来的东西蓄住、养住。你有一个项目、一段关系、一种能力，若只有「生」没有「畜」，会很快散。生是启动，畜是续航——缺哪一环，都长不大。",
+      "image": "assets/DaoDeJing/金流孤舟 - 通用.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「物形之，势成之。」物形——物质、形态、结构，把可能性收成可见之物。势成——时机、位置、势能，让形不被埋没。同样一颗种子，土、季、风不同，形与势就不同。个人层面：你有想法（道生），有习惯蓄力（德畜），还要选载体（物形）、等窗口（势成）——四步缺一，难成。",
+      "image": "assets/DaoDeJing/钥匙 - Ch05.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「万物莫不尊道而贵德。道之尊，德之贵，夫莫之命而常自然。」尊道贵德，不是祭祀口号，是万物默认的优先级：离道，结构会崩；离德，蓄养会断。莫之命而常自然——没有谁发公文命令，春生秋杀、水往低处，本来就这样。你硬拧，是逆自然；你顺，是借自然。",
+      "image": "assets/DaoDeJing/铜镜中映出模糊人影 - Ch01.png",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「故道生之，德畜之，长之，育之，亭之，毒之，养之，覆之。」八个动词，一条流水线：长、育是正向生长；亭是定住、毒是收敛（古义含「成」）；养、覆是护与盖——像巢、像天。领导、父母、平台，若只做「生」不做「覆」，下面会裸奔。畜与覆，常被忽略，却是德的核心。",
+      "image": "assets/DaoDeJing/镰刀 - Ch03.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「生而不有，为而不恃，长而不宰，是谓玄德。」生而不有——生了不霸占版权；为而不恃——做了不挂功劳簿；长而不宰——扶长不遥控。玄德，是深层的德：让对象自己成，而不是成你的资产。你带团队、养孩子、做产品，测一测：你是在「畜」，还是在「宰」？",
+      "image": "assets/DaoDeJing/长廊 - Ch01.png",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯宾诺莎——荷兰哲学家——说「自然即神」，万物依必然性展开，接近「莫之命而常自然」。生态学讲「生境」：物种不拥有环境，被环境畜养。中国「天地化育」，不是人类单点造世，是道生德畜的文明版表述。西方 parenting 讲 secure base——也是畜而不有、长而不宰。",
+      "image": "assets/DaoDeJing/门 - Ch03.jpg",
+      "motion": "pan_up",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。平台「生」了创作者，却抽走「畜」——流量、数据、粉丝，都不真正属于你，是谓生而不有之反：你生，平台有。好投资、好上级，像德畜：给资源、给空间、不微操。二零二年代很多「造概念」的人，只有道生，没有德畜，一阵风就散。尊道贵德，对个人：先问谁在畜你，再问你在畜谁。",
+      "image": "assets/DaoDeJing/门槛 - Ch67.jpg",
+      "motion": "pan_down",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你现在的主业，哪一环缺了？只生不畜——项目多，无一完成；只畜不生——囤课、囤书、从不输出。物形之势成：你的载体和时机，是否匹配？玄德练习：帮一个人成，不抢名、不挂「我培养了你」。生而不有，是最高级的留人。",
+      "image": "assets/DaoDeJing/陡峭湿滑的暗色青石古道旁 - Ch03.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，认生成链：生畜形势，四步成物。第二，尊道贵德：离道崩、离德断，自然不必命。第三，畜与覆：不只启动，要蓄养与护持。第四，玄德四不：不有、不恃、不宰，才叫深德。道生德畜——你是通道，不是业主。下一章，「天下有始，以为天下母」——既得其母，复守其母。",
+      "image": "assets/DaoDeJing/雨丝 - Ch73.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

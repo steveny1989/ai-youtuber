@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第53章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：守母"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "盗夸"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch53-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大道甚夷",
+      "哲学",
+      "第53章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十三章精解——好径与盗夸。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "大道甚夷"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "田芜仓虚"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大道甚夷",
+      "哲学",
+      "第53章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十三章精解——好径与盗夸。",
+    "dynamic": "大道甚夷，而民好径——朝甚除田甚芜，是为盗夸，非道也哉。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十二章讲「天下有始」——知子还要复守其母。第五十三章，老子换一副冷峻脸：「使我介然有知，行于大道，唯施是畏。大道甚夷，而民好径。」然后揭穿：「朝甚除，田甚芜，仓甚虚；服文彩，带利剑，厌饮食，财货有余——是为盗夸，非道也哉。」这一章，是「表面光鲜、内里荒芜」的诊断书：大道很宽，人却爱走捷径；朝廷很干净，田野很荒——盗夸，不是道。",
+      "image": "assets/DaoDeJing/大道甚夷 - Ch53.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：大道甚夷、民好径，与盗夸。",
+      "image": "assets/DaoDeJing/暴雨中 - Ch53.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「使我介然有知，行于大道，唯施是畏。」介然有知——一点点真懂，就够；行于大道——走在主路上；唯施是畏——最怕的是走偏、走邪径。施，此处近「邪、斜」——不是布施。你不需要全知，只需要怕偏：怕偏，比「什么都想试」更接近道。",
+      "image": "assets/DaoDeJing/黑暗中 - Ch63.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「大道甚夷，而民好径。」大道甚夷——主路很平、很宽、不花哨。民好径——人爱抄近道、爱小路、爱邪径。复利、健身、关系，主路都慢；捷径卖课、捷径暴富、捷径人设，才是好径。老子不是骂民，是描述默认：大脑爱省力，系统爱走偏。",
+      "image": "assets/DaoDeJing/黑暗的墙面上 - Ch01.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「朝甚除，田甚芜，仓甚虚。」朝堂打扫得过分干净，田野却荒了，仓库却空了。表面 KPI 满分，底层产能枯竭——很多公司、很多人生，都是「朝甚除」：汇报漂亮，交付空洞；朋友圈精致，内心芜虚。田芜仓虚，是盗夸的前奏：还没偷，已在夸。",
+      "image": "assets/DaoDeJing/黑白棋子落在棋盘上 - Ch01.png",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「服文彩，带利剑，厌饮食，财货有余。」穿华服、佩利剑、吃太饱、货太多——外在武装到牙齿，内在早已失衡。文彩是包装，利剑是姿态，厌饮食是贪婪，财货有余是囤积。与第四十四章「名与身孰亲」对照：这里整包外在膨胀，都是「径」的果实。",
+      "image": "assets/DaoDeJing/Bronze Mask - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「是为盗夸，非道也哉。」盗夸——偷来的、抢来的、虚来的，却夸耀。非道——不是正道，是邪径的终点。流量造假、数据刷量、简历注水，都是盗夸。大道甚夷，不需要炫；好径走完了，往往只剩夸，没有仓。诊断一句：看你夸什么，就知道走哪条路。",
+      "image": "assets/DaoDeJing/Bronze Tripod - Ch02.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "托勒密——古罗马史学家——记过罗马衰期：竞技场华丽，粮道空虚，接近「朝甚除、仓甚虚」。托尔斯泰——俄国作家——倡简单生活，反对文彩利剑式的伪文明。中国「政通人和」反着看：政不通而殿宇新，就是本章的盗夸。",
+      "image": "assets/DaoDeJing/Ceramic Bowl - Ch02.jpg",
+      "motion": "pan_up",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。网红打卡、总部大楼、年会盛宴——朝甚除；一线员工 burnout、库存周转差——田芜仓虚。好径：速成课、捷径理财、人设包装，走完了往往「财货有余」在账上，德在仓里。二零二零年代「精致穷」「表演式努力」，多是服文彩、带利剑——外表赢，内里虚。大道甚夷：慢、平、少炫，反而不盗夸。",
+      "image": "assets/DaoDeJing/Courage To Delete - Ch02.jpg",
+      "motion": "pan_down",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你的「朝」是否甚除——简历、主页、汇报是否远亮于实际产出？田芜仓虚：健康、技能、关系，哪块荒了？好径自查：最近三个月，哪条捷径让你夸了但没蓄？改一条：选一件「甚夷」的事——慢走主路，少一件文彩，多一寸仓实。",
+      "image": "assets/DaoDeJing/Court Officials - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，畏施：怕走偏，比贪全知更道。第二，识好径：大脑爱省力，主路常显夷。第三，看田仓：朝除未必好，田芜仓虚是警。第四，戒盗夸：夸大于实，非道。大道甚夷——走平路，不盗夸。下一章，「善建者不拔，善抱者不脱」——修之于身，其德乃真。",
+      "image": "assets/DaoDeJing/善建者不拔 - Ch54.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

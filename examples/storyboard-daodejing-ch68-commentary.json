@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第68章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：我有三宝"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "用人"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch68-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "善用人者为之下",
+      "哲学",
+      "第68章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十八章精解——不武不怒不与与用人之力。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "不争之德"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "善用人下"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "善用人者为之下",
+      "哲学",
+      "第68章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十八章精解——不武不怒不与与用人之力。",
+    "dynamic": "善为士者不武，善战者不怒，善胜敌者不与——是谓不争之德。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十七章讲「我有三宝」——慈、俭、不敢为天下先。第六十八章，老子谈「士」与「战」：「善为士者不武，善战者不怒，善胜敌者不与，善用人者为之下。」是谓不争之德，是谓用人之力，是谓配天古之极。这一章，是冲突黑盒：真高手不秀肌肉、不发火、不硬刚、不踩人——胜在结构与姿态。与第六十六章不争、第六十七章不敢先——三章连成「柔胜刚」链。",
+      "image": "assets/DaoDeJing/善用人者为之下 - ch68 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：不武不怒不与，与善用人下。",
+      "image": "assets/DaoDeJing/一座石桥在浓雾中戛然而止 - ch03 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「善为士者不武。」士——有操守、能成事的人；不武——不靠武力、不靠恐吓、不靠「我很能打」的人设。善为士——成事靠德与谋，不靠让人害怕。职场版：善为管理者者不吼、不拍桌、不拿辞退当武器——武是低成本的控场，久了必失士。",
+      "image": "assets/DaoDeJing/一张宣纸上 - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「善战者不怒。」战——广义的博弈、竞争、谈判；不怒——不被情绪劫持，不因羞辱感而乱出手。怒战者暴露底牌、扩大战场、把可谈变成不可谈。善战者冷静——不是冷血，是节奏在自己手里。与第六十三章「报怨以德」可对照：怒是怨的燃料。",
+      "image": "assets/DaoDeJing/报怨以德 - ch63 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「善胜敌者不与。」不与——不硬碰、不对撞、不把胜负押在正面冲突上。孙子「善战者，致人而不致于人」——不争锋，而争势。商业：价格战、口水战、抢热搜——都是「与」，耗损大、可复制。善胜者改规则、改场景、改时间——让你打不着。",
+      "image": "assets/DaoDeJing/Stone water - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「善用人者为之下。」用人——调动他人之力；为之下——姿态放低、给尊严、给舞台、给功劳。与第六十六章「言下身后」同脉——你要人的力，先给人位。微管理、抢下属功劳、当众羞辱——都是「为上用人」，力必散。",
+      "image": "assets/DaoDeJing/一扇完全敞开的柴门 - ch05 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「是谓不争之德，是谓用人之力，是谓配天古之极。」不争之德——德在不争，不在赢嘴；用人之力——力在他人自愿发挥；配天古之极——与天道古老之极同频。全章收束：不武、不怒、不与、为下——给第六十九章「用兵」埋伏笔：兵犹不得已，哀为上。配天，是回到简单古老之规则，而非回到野蛮与冲动。",
+      "image": "assets/DaoDeJing/一望无际的黑色沙丘 - ch03 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "孙子「不战而屈人之兵」——善胜不与。老子与庄子「圣人不死，大盗不止」另一脉——本章重「如何用」而非「如何杀」。西方「情绪智力」——善战者不怒的现代版。稻盛和夫「敬天爱人」——为之下用人。",
+      "image": "assets/DaoDeJing/一根极其纤细的白色丝线 - ch01 - 通用.png",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。谈判：对方激你，你不怒——节奏就回来了。竞争：对手打价格战，你不跟——改服务、改细分、改交付。带团队：表扬具体人、具体事；批评对事不对人——为之下，力才聚。网络争论：不与，是最高效的胜。",
+      "image": "assets/DaoDeJing/一根粗糙的旧麻绳紧紧绷直 - ch03 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：记录一次你想「与」的瞬间——改选「不与」的路径，结果如何。不怒练习：被冒犯后，先写三行事实，再决定是否回应。为下练习：请教一个比你年轻的人，认真执行其建议一天。不争之德不是软，是把力气用在改变结构，而非改变嗓门。",
+      "image": "assets/DaoDeJing/水滴即将滴落巨石的瞬间 - ch01 - 通用.png",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，善士不武：威不来自恐吓。第二，善战不怒：情绪不是武器。第三，善胜不与：改势，不对撞。第四，善用人下：力在人心，位要先让。不争之德——是第六十六、六十七、六十八的合辙。下一章，「吾不敢为主而为客」——用兵有言，哀者胜矣。德讲完了，老子谈不得已之战。",
+      "image": "assets/DaoDeJing/一滴水将落未落 - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

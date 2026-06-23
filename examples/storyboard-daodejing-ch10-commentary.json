@@ -1,0 +1,219 @@
+{
+  "title": "观念黑盒：《道德经》第十章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：合一"
+    },
+    {
+      "id": "2",
+      "label": "七问"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "身心分裂"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch10-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "载营魄抱一",
+      "哲学",
+      "第10章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十章精解——涤除玄览，能无疵乎。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "七问破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "控制欲"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "载营魄抱一",
+      "哲学",
+      "第10章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十章精解——涤除玄览，能无疵乎。",
+    "dynamic": "玄德不是表演完美，是生而不有、为而不恃。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803,
+    "cover_image": "assets/DaoDeJing/白烟 - Ch10.jpg"
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第九章讲「知止身退」。第十章，老子转向内在操作系统：「载营魄抱一，能无离乎？」魂与魄、身与心，能否合一？这一章是一连串「能……乎」的自检——不是道德题，是状态题。",
+      "image": "assets/DaoDeJing/白烟 - Ch10.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/石门 - Ch10.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「载营魄抱一，能无离乎？」让魂与魄、意识与身体抱一，能否不分离？现代人常见分裂：脑子在加班，身体在报警；人设在线，内心离线。",
+      "image": "assets/DaoDeJing/铜镜 - Ch10.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「专气致柔，能婴儿乎？」把气专聚到柔软，能否像婴儿？不是幼稚，是恢复感知力——不被盔甲包住。",
+      "image": "assets/DaoDeJing/ch46_04_pottery_rice.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「涤除玄览，能无疵乎？」洗净心镜，能否没有瑕疵？玄览，是深层的观照之镜。信息垃圾、情绪垃圾，都会在上面留斑。",
+      "image": "assets/DaoDeJing/ch47_02_wooden_basin_stars.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「爱民治国，能无知乎？天门开阖，能无雌乎？」治理家国，能否不用机心？门户开合，能否守柔？越聪明，越要警惕聪明变成控制。",
+      "image": "assets/DaoDeJing/ch47_03_paper_window_moon.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「生之，畜之，生而不有，为而不恃，长而不宰，是谓玄德。」生养而不占有，帮助而不倚仗，助长而不主宰——这是玄德。",
+      "image": "assets/DaoDeJing/生之徒 - Ch50.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "柏拉图灵魂三分：理性、意气、欲望，需要统合。禅宗「时时勤拂拭」，与「涤除玄览」同向。老子不问你怎么表演，只问：你合一了吗？",
+      "image": "assets/DaoDeJing/ch48_03_peeling_lacquer.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。管理者用 KPI 控制一切，父母用规划控制孩子，创作者用人设控制自己——都是「魄离于一」。玄德，是生而不有：帮忙，但不抢 ownership。",
+      "image": "assets/DaoDeJing/ch48_04_straw_rope_cut.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "心理咨询里常说「与身体重新连接」。专气致柔，就是别只用脑活，把呼吸、睡眠、直觉还给自己。",
+      "image": "assets/DaoDeJing/ch49_02_communal_stone_mill.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，抱一：身心别分家。第二，致柔：恢复婴儿级感知。第三，净览：定期擦心镜。第四，玄德：生而不有，为而不恃。下一章，「三十辐共一毂」——无之以为用。",
+      "image": "assets/DaoDeJing/三十辐共一毂 - Ch11.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

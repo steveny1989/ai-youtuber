@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第九章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：知止"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "峰值膨胀"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch09-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "持而盈之",
+      "哲学",
+      "第9章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第九章精解——持而盈之，不如其已。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不知止"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "持而盈之",
+      "哲学",
+      "第9章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第九章精解——持而盈之，不如其已。",
+    "dynamic": "功成身退，不是怂，是懂天之道。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第八章讲水的「不争」。第九章，老子直接警告膨胀：「持而盈之，不如其已。」端满了还继续加，不如停下。揣锐了还继续磨，不能久保。这是整套系统里的「止损章」。",
+      "image": "assets/DaoDeJing/华丽官服被脱下搭在椅上 - Ch09.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/金锁 - Ch09.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「持而盈之，不如其已。」已经满了，还硬要再装，不如适可而止。对个人，是野心过载；对组织，是 KPI 堆到失真。",
+      "image": "assets/DaoDeJing/Stone Water - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「揣而锐之，不可长保。」把锋芒磨到最尖，无法长久。越锋利，越脆；越满，越溢。",
+      "image": "assets/DaoDeJing/Storm Over Imperial - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「金玉满堂，莫之能守；富贵而骄，自遗其咎。」堆满金玉，守不住；富贵而骄，自招祸患。资源过剩而不收，是系统失衡。",
+      "image": "assets/DaoDeJing/Uncarved Block - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「功成身退，天之道。」成了，就退。不是消极，是顺应天道：物极必反，峰值之后是下坡。",
+      "image": "assets/DaoDeJing/天之道 - Ch77.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：功成身退。今天最难的一课——在高光时主动收，在赢时主动止。",
+      "image": "assets/DaoDeJing/Value Of Void - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "《易经》「亢龙有悔」：飞到最高，就有悔。苏格拉底「我知道我一无所知」，是认知上的功成身退。老子把同一逻辑写进权力与财富：别在峰值加杠杆。",
+      "image": "assets/DaoDeJing/Water Carving Rock - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。融资峰值、流量峰值、职级峰值——人人想再冲一把。但持而盈之：你的系统真的还能装吗？团队、健康、信誉，哪一个已经满了还在硬塞？",
+      "image": "assets/DaoDeJing/Wheel And Hub - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "产品过度优化、功能无限叠加，也是「揣而锐之」。用户要的是解决问题，不是看你把刀磨得多亮。",
+      "image": "assets/DaoDeJing/Wooden Window - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，知止：满则止。第二，收锐：别把自己磨到最尖。第三，戒骄：富贵时最危险。第四，身退：成了，就退。下一章，「载营魄抱一」——身心合一的玄德。",
+      "image": "assets/DaoDeJing/ch46_03_ancient_horse.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

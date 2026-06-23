@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第54章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：好径"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "五层"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch54-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "善建者不拔",
+      "哲学",
+      "第54章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十四章精解——修德五层与由内而外。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "善建善抱"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "修德五层"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "善建者不拔",
+      "哲学",
+      "第54章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十四章精解——修德五层与由内而外。",
+    "dynamic": "善建者不拔，善抱者不脱——修之于身，其德乃真，以此观天下。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十三章讲「大道甚夷」——盗夸者，非道也哉。第五十四章，老子讲「建」与「抱」：「善建者不拔，善抱者不脱。子孙以祭祀不辍。」然后层层展开：修之于身、家、乡、国、天下，德乃真、乃余、乃长、乃丰、乃普。以身观身，以家观家……以天下观天下。这一章，是「由内而外」的筑基学：根扎在自己身上，才拔不掉、脱不了、传得久。",
+      "image": "assets/DaoDeJing/老木匠闭着眼睛 - Ch54.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：善建善抱，与修德五层。",
+      "image": "assets/DaoDeJing/Crumbling Stone - Ch02.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「善建者不拔，善抱者不脱。」善建——建得对，深，合道，所以拔不掉。善抱——抱得紧，不是死抓，是合道地持守，所以脱不了。建的是根，抱的是核。技能、价值观、关系信任，浅建易拔，假抱易脱。你换十个赛道，每个都浅建，风一来全拔。",
+      "image": "assets/DaoDeJing/Daily Loss - Ch02.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「子孙以祭祀不辍。」祭祀不辍——不是迷信，是「影响链不断」。根扎好了，下面还有下面，文化传得下去。公司价值观若只贴在墙，不传子孙——一代人走，一代人忘。善建善抱，时间尺度是代际，不是季度。",
+      "image": "assets/DaoDeJing/Dead Wood New Sprout - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「修之于身，其德乃真；修之于家，其德乃余；修之于乡，其德乃长；修之于国，其德乃丰；修之于天下，其德乃普。」五层递进：身→家→乡→国→天下。德乃真——先从自己真修，不是表演；乃余、乃长、乃丰、乃普——一圈圈扩，但顺序不能跳。跳过身直接天下，都是假丰、假普。",
+      "image": "assets/DaoDeJing/天下之至柔 - Ch01.png",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「故以身观身，以家观家，以乡观乡，以国观国，以天下观天下。」观——不是看热闹，是以此理观彼：你懂自己，才懂别人；你自家清楚，才懂别家。投影少，观察才准。很多误判，是身未修，却要以天下观天下——全是自己的影子。",
+      "image": "assets/DaoDeJing/天下莫柔弱于水 - Ch78.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「吾何以知天下然哉？以此。」老子说：我怎么知道天下是这样？就从「身→家→乡」这一套推出来的。不靠间谍、不靠大数据，靠由内而外的同构。系统论今天叫「分形」：局部见整体。你修之身，是观天下的最小实验室。",
+      "image": "assets/DaoDeJing/Deep Well - Ch02.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "曾子——中国思想家——「吾日三省吾身」，是修之于身、其德乃真的前奏。詹姆斯·克利尔——美国作家——《原子习惯》讲「身份先于结果」，与善建不拔同向：先建是谁，再建做什么。家庭系统理论：家风是身的放大，与修之于家、其德乃余一致。",
+      "image": "assets/DaoDeJing/Desire Thorns - Ch02.jpg",
+      "motion": "pan_up",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。个人品牌跳过「身修」，直接「天下普」——直播讲天下，私德空仓，是跳层。公司未修「家」——内部文化——就扩店、并购，德不余，只丰在 PPT 上。善建不拔：复利习惯、深度技能，比追十个风口更拔不掉。以身观身：少评判世界，多实验自己——实验室清楚了，天下才看得准。",
+      "image": "assets/DaoDeJing/Empty Robe - Ch02.jpg",
+      "motion": "pan_down",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：选一层，今年只修这一层。身未真，别急着家；家未余，别急着天下。善建一条：每天同一时段、同一件事，建到拔不掉。善抱一条：一个核心价值，抱到不脱。祭祀不辍：写一段给「未来的自己/孩子」的话，让影响链不断——不是财产，是德。",
+      "image": "assets/DaoDeJing/Empty Throne - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，善建善抱：根深合道，拔不脱。第二，五层递进：身真→家余→乡长→国丰→天普，顺序勿跳。第三，以此观彼：身观身，少投影，多同构。第四，祭祀不辍：影响在代际，不在季度。修之于身——天下在此起。下一章，「含德之厚，比于赤子」——知和曰常，物壮则老。",
+      "image": "assets/DaoDeJing/Endless Slips - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

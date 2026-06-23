@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第二十五章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：四大"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "层级"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch25-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "有物混成",
+      "哲学",
+      "第25章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十五章精解——域中有四大，道法自然。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "道法自然"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "有物混成",
+      "哲学",
+      "第25章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十五章精解——域中有四大，道法自然。",
+    "dynamic": "人法地，地法天，天法道，道法自然——不是口号，是层级。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十四章讲戒企跨与赘行。第二十五章，老子抬升镜头到宇宙级：「有物混成，先天地生。」有一个混成之物，在天地之前。它寂兮寥兮，独立不改，周行而不殆，可以为天下母。不知其名，字之曰道，强名曰大。大曰逝，逝曰远，远曰反。故道大、天大、地大、王亦大。域中有四大，王居其一。人法地，地法天，天法道，道法自然。这一章，是全书「系统论总图」之一——层级、母系统、自然。读罢八十一讲前半，你应有一张地图：人在哪里，法向何处。 混成、母、四大、自然——四个词，够做一辈子决策锚。",
+      "image": "assets/DaoDeJing/微距 - Ch25.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，把「四大」与「法」装成可操作的层级，画在你心里。",
+      "image": "assets/DaoDeJing/极其宽广的黑色大河 - Ch25.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「有物混成，先天地生。」混成，是未分、未名、未拆的整体；先天地，是在一切现象世界之前。不是神话，是逻辑：任何系统都有「母」。公司、家庭、个人，都有混成之前的那个「一」。",
+      "image": "assets/DaoDeJing/有物混成 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「寂兮寥兮，独立不改，周行而不殆，可以为天下母。」它安静、寥廓，独立不改变，周流运行而不停，可以做天下的母。母，不是性别，是生成源与约束源。母系统在，子系统才稳。",
+      "image": "assets/DaoDeJing/墨锭在砚台上缓缓研磨 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「吾不知其名，字之曰道，强为之名曰大。」不知道名字，勉强叫「道」，再勉强叫「大」。名是工具，不是本体。名越大，越要警惕：你是不是在强为之名？",
+      "image": "assets/DaoDeJing/夜色绝壁上的茅草屋 - Ch80.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「大曰逝，逝曰远，远曰反。」大，是展开、逝去、走远，然后反。道不是直线，是循环展开——逝远反，是系统节律。事业、关系、经济，都在逝远反里，别只抓「逝」不抓「反」。",
+      "image": "assets/DaoDeJing/大国者下流 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「人法地，地法天，天法道，道法自然。」人效法地，地效法天，天效法道，道效法自然。自然，不是花草树木，是「自己如此」——不造作，不强为。王亦大：人在四大里有一席，但要谦卑地「法」上去。",
+      "image": "assets/DaoDeJing/大国者下流 - Ch61.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "赫拉克利特「逻各斯」贯穿万物。斯宾诺莎「实体」自生。中国「天人合一」强调人不在天外。老子给出清晰层级链：人→地→天→道→自然。王亦大，是把人放回系统中，不是人定胜天。这张链，可用来检决策：你法的是哪一层？",
+      "image": "assets/DaoDeJing/大巧若拙 - Ch45.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。个人决策要「法」更高层：身体法地（作息、环境），事业法天（趋势、周期），原则法道（不变规律），方法法自然（少造作）。公司战略亦然：基层法地，管理层法天，文化法道，创新法自然。跳层效法，就会企、就会跨。",
+      "image": "assets/DaoDeJing/大殿深处 - Ch58.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "「道法自然」常被误解为保护大自然。这里是道所效法的，是自己如此——别用人为意志硬拧系统。合规、风控、伦理，都是「法」的现代化。自然，是允许系统自己长，不是撒手不管，也不是微观管理一切。",
+      "image": "assets/DaoDeJing/大直若屈 - Ch45.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，认母：任何事先找混成之源。第二，四大：人在域中，别妄自尊大。第三，法层级：人→地→天→道→自然，逐级效法。第四，远反：展开后要能反，别只会逝不会归。把「人法地、地法天、天法道、道法自然」写在决策本首页。下一章，「重为轻根」——静与重的政治。",
+      "image": "assets/DaoDeJing/大象无形 - 通用.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

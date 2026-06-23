@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第三十三章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：自知"
+    },
+    {
+      "id": "2",
+      "label": "六维破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "自胜"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch33-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "知人者智",
+      "哲学",
+      "第33章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十三章精解——自知、自胜、知足、强行、不失其所、死而不亡。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "六维破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不亡"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "知人者智",
+      "哲学",
+      "第33章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十三章精解——自知、自胜、知足、强行、不失其所、死而不亡。",
+    "dynamic": "胜人有力，自胜者强；死而不亡者寿，是影响力，不是肉身。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十二章讲守朴知止。第三十三章，老子给出一张「向内评分表」：知人者智，自知者明；胜人者有力，自胜者强；知足者富，强行者有志；不失其所者久，死而不亡者寿。每一对，都在把尺子从外部转向内部。知人、胜人，是向外；自知、自胜、知足、强行、不失其所、死而不亡，是向内。这一章，是反内卷古典版——你比较赢谁，不如比较赢自己的旧版本。",
+      "image": "assets/DaoDeJing/枯树 - Ch33.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐对破译，把六组对照变成你的自检表。",
+      "image": "assets/DaoDeJing/黑暗中 - Ch33.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一对：「知人者智，自知者明。」了解别人，是智；了解自己，是明。智，可能聪明；明，是照亮自己盲区——别只会分析人，却看不清自己。",
+      "image": "assets/DaoDeJing/暴雨狂风肆虐的黑夜 - Ch45.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二对：「胜人者有力，自胜者强。」战胜别人，是有力；战胜自己，是强。力，可能一时；强，是结构。赢昨天的旧版本，比赢同事更稳。",
+      "image": "assets/DaoDeJing/暴雪 - Ch41.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三对：「知足者富，强行者有志。」知足，是富；勉强硬干，是有志。边界清楚，账户数字小也可能内心富足；志，是持续方向，不是蛮干熬夜。",
+      "image": "assets/DaoDeJing/知足者富 - Ch46.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四对：「不失其所者久，死而不亡者寿。」不失去本位的，能久；死了而不亡的，是寿。跳槽、转型前，先问：我还认得自己的根吗？留下作品与信义，比肉身久。",
+      "image": "assets/DaoDeJing/暴雪中 - Ch41.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：六组全是向内。你外在赢再多，若不自知、不自胜、不知足，所失者久与寿。",
+      "image": "assets/DaoDeJing/月下石塔 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "苏格拉底：认识你自己。斯多葛：控制内在。儒家：修身齐家。老子用六对排比，像六边形能力模型——明、强、富、志、久、寿，都从内长。",
+      "image": "assets/DaoDeJing/月光下的竹林 - Ch01.png",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。社交媒体让你永远「胜人」：比粉丝、比收入、比孩子成绩。自知者明：我真正要什么？自胜者强：今天少刷一小时，强过赢一场争论。死而不亡者寿：你留下什么，比你能活多久更重要。",
+      "image": "assets/DaoDeJing/有生于无 - Ch40.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "职场「知人」常被用来操控；「自知」才让你不被操控。强行者有志：坚持方向，不是坚持熬夜。不失其所：跳槽前问，我还认得自己吗？",
+      "image": "assets/DaoDeJing/木强则折 - Ch76.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，求明不求智：先自知。第二，自胜：赢昨天的自己。第三，知足为富：边界即财富。第四，求寿：做不死而不亡之事。下一章，「大道泛兮」——衣养万物而不为主。",
+      "image": "assets/DaoDeJing/木车 - 通用.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第71章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：被褐怀玉"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "病病"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch71-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "知不知上不知知病",
+      "哲学",
+      "第71章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十一章精解——知不知、不知知与病病不病。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "知不知"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不知知"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "知不知上不知知病",
+      "哲学",
+      "第71章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十一章精解——知不知、不知知与病病不病。",
+    "dynamic": "知不知，上；不知知，病——夫唯病病，是以不病。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第七十章讲「被褐怀玉」——言易知易行，天下莫能知莫能行。第七十一章，老子把刀转向「知」的层级：「知不知，上；不知知，病。」夫唯病病，是以不病。圣人不病，以其病病，是以不病。这一章极短，却极硬：真高明，知道自己不知道；真病，是不知道自己不知道。与第七十章「莫能行」同脉——挡路的常不是无知，是假知。八十一讲进入最后十讲，老子开始收「知的幻觉」。全文不过数十字，却是认知科学的千年预告。",
+      "image": "assets/DaoDeJing/被褐怀玉 - ch70 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：知不知、不知知，与病病不病。",
+      "image": "assets/DaoDeJing/Bowing Official Shad - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「知不知，上。」知不知——知道自己有所不知，在边界处停笔，不装全懂。上——上等认知姿态，不是谦虚修辞，是结构安全：留未知，才留更新接口。科学精神、优秀工程师、成熟父母都在此：能说「我不知道」，系统才不易崩。",
+      "image": "assets/DaoDeJing/Plc 10 Empty Dragon - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「不知知，病。」不知知——其实不懂，却以为自己懂；病——认知病，且会传染。把猜测当事实、把情绪当洞见、把口号当理解——皆此病。与第七十章「夫唯无知，是以不我知」对照：世人自以为知，所以听不懂老子。",
+      "image": "assets/DaoDeJing/破衣 - Ch70.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「夫唯病病，是以不病。」病病——把「不知知」当病来治，主动诊断、主动复诊；是以不病——不病不是永不犯错，是病不致溃、不误众。组织里：能承认误判的领导者，比「永远正确」的领导者安全得多。复盘文化，就是病病文化——错一次可以，错成信仰不行。",
+      "image": "assets/DaoDeJing/Bronze mask - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「圣人不病，以其病病，是以不病。」圣人不病——不是圣人无错，是圣人不让错固化成身份；以其病病——持续把傲慢当病来医。被褐怀玉者，正因怀玉而不必装懂——外褐，内知所不知。",
+      "image": "assets/DaoDeJing/Meditating sage - ch - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：全章收在两层循环：知不知 → 上；不知知 → 病；病病 → 不病。给第七十二章「民不畏威」铺路：假知者爱炫威，真知者知边界。个人自检一句：你最近哪件事，其实是「不知知」？能否改叫「尚待验证」？知不知，是八十一讲收官段的钥匙。短短六句，够你用一辈子复诊。",
+      "image": "assets/DaoDeJing/Court officials - ch - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "苏格拉底「我唯一知道的是我一无所知」——知不知的西方经典。孔子「知之为知之，不知为不知」——直接对打不知知。禅宗「初心」——保持不知的空隙。科学「可证伪」——知不知的制度化。东西方在此罕见同频：真懂，从承认不懂开始。",
+      "image": "assets/DaoDeJing/工匠满是泥浆的手 - Ch64.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。会议：最怕「不知知」的专家——用术语封住追问。投资：把叙事当基本面，病在不知知。改法：重大决策列「我不知道的三条」；允许说「数据不够」。社交：装懂赢面子，输的是关系与成长。",
+      "image": "assets/DaoDeJing/Bronze tripod - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：写一张「不知清单」——本周三件你其实没搞懂的事。病病练习：发现装懂时，当场改口「我刚才说过了」。知不知练习：请教一个你怕显得蠢的问题。把「我懂」换成「我目前的理解是」。每周重读这张清单，看哪些已从「不知」变成「真知」。",
+      "image": "assets/DaoDeJing/洗血衣 - Ch63.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，知不知为上：边界处停笔。第二，不知知为病：假懂比不懂更危险。第三，病病故不病：主动诊断傲慢。第四，圣人不病在病病：错可改，不固化身份。知不知——是老子给收官段的认知疫苗。下一章，「民不畏威，则大威至」——自知不自见，自爱不自贵。七十一讲知，七十二讲威与己。",
+      "image": "assets/DaoDeJing/Sage hands tea - ch0 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

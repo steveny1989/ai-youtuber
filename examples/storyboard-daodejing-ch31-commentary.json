@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第三十一章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：兵"
+    },
+    {
+      "id": "2",
+      "label": "六段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "胜利伦理"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch31-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "夫佳兵者",
+      "哲学",
+      "第31章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十一章精解——兵者非君子之器。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "六段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "丧礼"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "夫佳兵者",
+      "哲学",
+      "第31章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十一章精解——兵者非君子之器。",
+    "dynamic": "兵者不祥，不得已而用之；战胜亦当以丧礼处之。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十章讲「不以兵强天下」与果而勿强。第三十一章，老子把「兵」说到更细：「夫佳兵者，不祥之器，物或恶之，故有道者不处。」兵器再好，也是不祥之器；万物可能厌恶它，所以有道的人不把它当日常工具。君子居则贵左，用兵则贵右——吉事尚左，凶事尚右；偏将军居左，上将军居右，言以丧礼处之。杀人之众，以哀悲泣之；战胜，以丧礼处之。这一章，是全书最清晰的「反美战争」文本：不是不能打，是不能把打当成美、当成志业、当成庆祝。孙子重慎战，甘地重非暴力——都在压缩暴力的使用频率；老子更前一步：即使不得已，也不许把杀人当成庆祝。",
+      "image": "assets/DaoDeJing/沾满鲜血的残破铠甲上 - Ch31.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，把「兵」从工具拉回伦理边界。",
+      "image": "assets/DaoDeJing/大雨中 - Ch31.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「夫佳兵者，不祥之器，物或恶之，故有道者不处。」佳兵，是精良兵器；不祥，是不吉利、带煞。物或恶之——系统里其他部分会排斥它。有道者不处：不占着兵器的位置，不把暴力当身份。佳兵不祥，不是说永远不能反抗，而是别把「能打赢」当成日常身份。",
+      "image": "assets/DaoDeJing/慈 - Ch67.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「君子居则贵左，用兵则贵右。」平时以左为尊，用兵以右为尊——左主生，右主杀。礼仪在提醒你：兵是例外状态，不是常态；一旦进入用兵态，整个系统的伦理坐标都要切换。",
+      "image": "assets/DaoDeJing/战后的死寂 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「兵者，不祥之器，非君子之器，不得已而用之，恬淡为上。」兵器不祥，不是君子之器，不得已才用，用时以恬淡为上——不亢奋、不嗜血、不表演。真到不得已，心态应像急救，而不是像狂欢。",
+      "image": "assets/DaoDeJing/手 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「胜而不美，而美之者，是乐杀人。夫乐杀人者，则不可以得志于天下矣。」赢了也不美化；若把胜利美化，是乐杀人；乐杀人者，不可能得志于天下。美胜利，就是美化杀人。",
+      "image": "assets/DaoDeJing/执大象 - Ch35.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「杀人之众，以哀悲泣之；战胜，以丧礼处之。」杀很多人，用哀悲哭泣；战胜了，用丧礼对待。不是庆祝，是哀悼——因为你破坏了生命系统。哀悲与丧礼，是对生命账本的承认。",
+      "image": "assets/DaoDeJing/护城河 - Ch02.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "孙子：兵者国之大事，不得已而用之。甘地：非暴力亦有力量。现代「正义战争」理论仍强调比例与克制。老子更绝：即使正义，也别乐杀；即使胜，也要丧礼——比例够了，仍不许乐杀。三脉都在压缩「兵」的使用频率与心理快感。",
+      "image": "assets/DaoDeJing/报怨以德 - Ch63.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。商战里的「舆论战」「法务战」「挖人战」——都是兵。把对手打垮后开香槟，是「胜而美」；乐杀人者，得志难久。平台恶性补贴、行业互相举报，系统「物或恶之」，最后所有人失本。",
+      "image": "assets/DaoDeJing/挑夫 - Ch64.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人亦如此：语言暴力、冷暴力、网暴——都是兵。不得已而用之：能谈则谈；用之则恬淡，胜而不美。团队庆功，宜想：我们有没有乐杀？有没有该以哀悲处之之处？",
+      "image": "assets/DaoDeJing/挫其锐 - Ch56.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，不处兵：暴力非常态。第二，不得已：能不用就不用。第三，恬淡胜美：戒乐杀、戒美胜利。第四，丧礼处之：赢了，也哀悼破坏。下一章，「道常无名」——朴与知止。",
+      "image": "assets/DaoDeJing/损之又损 - Ch48 (1).jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -21,12 +21,51 @@ HOOK_BG = "assets/hook_bg.webp"
 HOOK_HOME_ZONE_LEFT_RATIO = 0.12
 HOOK_HOME_ZONE_WIDTH_RATIO = 0.52
 
+# 片头封面：每期独立 JPG（不再覆盖 placeholder-home）
+COVER_OUTPUT_DIR = "assets/covers"
+COVER_SCENE_ID = "cover"
+COVER_DURATION_SEC = 3.0
+HOME_TITLE_FONT_SIZE = 68
+COVER_HOOK_FONT_SIZE = 104
+COVER_SUBTITLE_FONT_SIZE = 52
+COVER_BRAND_SEAL_RATIO = 0.065
+
+# 单章投稿缩略图（YouTube / B 站）
+THUMB_WIDTH = 1920
+THUMB_HEIGHT = 1080
+THUMB_HOOK_FONT_SIZE = 168
+THUMB_SUB_HOOK_FONT_SIZE = 78
+THUMB_CHAPTER_FONT_SIZE = 56
+THUMB_SERIES_FONT_SIZE = 40
+THUMB_CHAPTER_BADGE_PAD_X = 0.72
+THUMB_CHAPTER_BADGE_PAD_Y = 0.42
+THUMB_CHAPTER_BADGE_RADIUS = 0.42
+THUMB_MARGIN_X_RATIO = 0.06
+THUMB_ZONE_WIDTH_RATIO = 1.0
+THUMB_TEXT_MAX_WIDTH_RATIO = 0.54
+THUMB_MARGIN_TOP_RATIO = 0.08
+THUMB_MARGIN_BOTTOM_RATIO = 0.09
+THUMB_GAP_LG_RATIO = 0.038
+THUMB_GAP_SM_RATIO = 0.020
+THUMB_ACCENT_RED = "#c4382a"
+THUMB_TEXT = "#f2f0e8"
+THUMB_TEXT_MUTED = "#b8c4be"
+
 # 片尾：avatar 全屏（文案已印在图内）
 BRAND_AVATAR = "assets/avatar.webp"
 ENDING_SCENE_ID = "ending"
 ENDING_IMAGE = BRAND_AVATAR
 ENDING_NARRATION = ""
 ENDING_DURATION_SEC = 4.0
+
+# 起号阶段口播 / 简介 CTA（hybrid 片尾 + 上传简介）
+GROWTH_CTA_NARRATION = (
+    "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+)
+GROWTH_CTA_DESCRIPTION = (
+    "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。"
+    "欢迎订阅 / 关注，我们下一章见。"
+)
 
 # 字体：默认魏碑 SC（Weibei SC），与片尾 avatar.webp 内「打开观念黑盒…」一致
 # None = 自动探测（见 pipeline/ffmpeg_util.find_weibei_font）；可改为本地 .otf 路径
@@ -36,14 +75,14 @@ FONT_INDEX_REGULAR = 0
 FONT_INDEX_LIGHT = 2
 
 # 字幕：无黑底条，柔和阴影（更接近真人剪辑）
-SUBTITLE_FONT_SIZE = 34
+SUBTITLE_FONT_SIZE = 58
 SUBTITLE_COLOR = "#f2f0e8"
-SUBTITLE_MARGIN_BOTTOM = 100
-SUBTITLE_MAX_WIDTH_RATIO = 0.78
-SUBTITLE_MAX_LINES = 2
+SUBTITLE_MARGIN_BOTTOM = 80
+SUBTITLE_MAX_WIDTH_RATIO = 0.94
+SUBTITLE_MAX_LINES = 1
 # 旁白超过此字数不烧录字幕（长段仅配音，避免满屏字）
 SUBTITLE_MAX_CHARS = 100
-# 默认按句 TTS 时间轴烧录（PIL 逐句换字 + 拼接），不再把整段旁白烙在画面上
+# 每镜一条配音 + cues 时间轴；slideshow 底图 + 固定位置叠字幕（非逐句 TTS）
 SUBTITLE_TIMED = True
 SUBTITLE_STYLE = "shadow"  # shadow | box
 SUBTITLE_ALIGN = "center"  # center | left

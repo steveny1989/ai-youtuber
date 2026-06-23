@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第十一章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：无之用"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "留白设计"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch11-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "三十辐共一毂",
+      "哲学",
+      "第11章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十一章精解——无之以为用。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "空与用"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "三十辐共一毂",
+      "哲学",
+      "第11章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十一章精解——无之以为用。",
+    "dynamic": "真正有用的，往往是中间那块「空」。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第十章讲「抱一」「玄德」——生而不有。第十一章，老子用三个日常器物，把同一逻辑推到结构层：「三十辐共一毂，当其无，有车之用。」辐条再多，靠的却是毂里的空。这一章，是整套系统里的「设计论」——有，给你利；无，才给你用。",
+      "image": "assets/DaoDeJing/一个黑色的深邃空洞 - Ch11.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/ch49_03_murky_pottery_water.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「三十辐共一毂，当其无，有车之用。」三十根辐条汇到毂心，正因为毂心是空的，车才能转。结构的力量，不在塞满，在留空。",
+      "image": "assets/DaoDeJing/从井口仰望天空的圆框视野 - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「埏埴以为器，当其无，有器之用。」揉土成器，因为中间是空的，才能装水、装饭。容器哲学：价值在容纳，不在壁厚。",
+      "image": "assets/DaoDeJing/ch50_03_vine_shield.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「凿户牖以为室，当其无，有室之用。」开窗凿门，因为墙里有空，人才住得进去。建筑不是砌满，是划出可居之处。",
+      "image": "assets/DaoDeJing/ch50_04_stone_oil_lamp.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「故有之以为利，无之以为用。」「有」带来便利、材料、可见的利；「无」才产生真正的功能。很多人只优化「有」，忘了「无」才是用武之地。",
+      "image": "assets/DaoDeJing/ep02_49_bowing_official_shadow.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：无之以为用。轮子、碗、房间、团队流程、日程表——凡是能运转的，背后都有一块刻意留出的空。",
+      "image": "assets/DaoDeJing/幽暗房间中一把空椅 - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "海德格尔谈「器具」：锤子顺手时，你几乎感觉不到它；你感觉到的是「在干活」。日本侘寂强调留白——不是缺，是让意义发生的空间。老子更早：当其无，才有用。",
+      "image": "assets/DaoDeJing/plc_01_towering_walls.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。产品界面塞满按钮，日程表排满会议，组织不留冗余——短期看高效，长期看转不动。好的设计，是知道哪里该空：接口、缓冲、休息、未定义。",
+      "image": "assets/DaoDeJing/plc_02_pillar_corridor.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "领导者若把团队填到 100% 利用率，就没有应对变化的空。三十辐共一毂——辐条再密，毂心若堵死，车就废。",
+      "image": "assets/DaoDeJing/plc_03_weapon_rack.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，看见无：别只盯着可见部分。第二，设计空：功能来自容纳与流转。第三，有之为利：材料与结构要够。第四，无之为用：留白是核心能力。下一章，「五色令人目盲」——感官过载的代价。",
+      "image": "assets/DaoDeJing/plc_04_midnight_courtyard.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第75章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：代大匠斫"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "贵生"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch75-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "无以生为贤于贵生",
+      "哲学",
+      "第75章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十五章精解——饥、难治、轻死与无以生为。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "民之饥"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "无以生为"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "无以生为贤于贵生",
+      "哲学",
+      "第75章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十五章精解——饥、难治、轻死与无以生为。",
+    "dynamic": "民之饥以其上食税之多——夫唯无以生为者，是贤于贵生。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第七十四章讲「民不畏死」——代大匠斫者，希不伤其手。第七十五章，老子列三根因：「民之饥，以其上食税之多，是以饥。」民之难治，以其上之有为，是以难治。民之轻死，以其求生之厚，是以轻死。夫唯无以生为者，是贤于贵生。这一章，是治理总诊断：饥、难治、轻死——锅在「上」：税多、有为、贵生示范过头。与第七十二章不厌、第七十三章天网——收官前把因果说透。",
+      "image": "assets/DaoDeJing/民之饥 - ch75 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：饥、难治、轻死，与无以生为。",
+      "image": "assets/DaoDeJing/Hand with brush - ch - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「民之饥，以其上食税之多，是以饥。」饥——物质匮乏、精力被抽干；食税之多——上面取太多：税、抽成、加班、信息税、注意力税。民饥不只因天灾，常因结构抽取过重。平台抽成过高、公司毛利靠压供应商——都是「食税多」。",
+      "image": "assets/DaoDeJing/Heavy lock - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「民之难治，以其上之有为，是以难治。」难治——不配合、钻空子、躺平、对抗；上之有为——上面折腾太多：政策朝令夕改、微管理、形式主义、过度干预。与第五十七章「我无为而民自化」反证：有为越多，难治越甚。不是民劣，是激励错了。",
+      "image": "assets/DaoDeJing/无为而无不为 - ch37 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「民之轻死，以其求生之厚，是以轻死。」轻死——不惜命、赌命、用极端换生存；求生之厚——上面示范「生命要极奢、极卷、极攀比」——下面为「厚」而轻命。富贵险中求，若变成唯一出路，人就敢轻死。与第七十四章民不畏死——同一病的两面。",
+      "image": "assets/DaoDeJing/Identity mask - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「夫唯无以生为者，是贤于贵生。」无以生为——不把「活着、膨胀、炫耀」当唯一使命；贤于贵生——比「贵生」示范更贤明。贵生若变成贪婪、怕死、 hoarding——无以生为，是减依赖、减攀比、减恐惧。与第六十七章俭、第七十章被褐——同脉。",
+      "image": "assets/DaoDeJing/Knowing when to stop - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：全章三因一药：饥→少食税；难治→少有为；轻死→无以生为。给第七十六章「柔弱生，坚强死」铺路：系统若一味坚强、抽取、有为，走向枯槁。八十一讲最后六讲，老子从诊断回到生机——柔弱者生之徒。上改一分，民疾减三分——这是七十五的算术，也是收官前最后的清醒。",
+      "image": "assets/DaoDeJing/生之徒 - ch50 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "拉弗曲线——税过高则收减少，与民饥对话。哈耶克「自发秩序」——戒上之有为。佛教「少欲知足」——无以生为。老子与孟子「轻徭薄赋」——政治史同向。",
+      "image": "assets/DaoDeJing/知足 - ch46 (1) - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。公司：食税多——毛利靠压榨上下游；有为——周报文化、无效会议；贵生——高管奢靡示范。改法：降抽取、减流程、领导生活做减法。个人：你对自己「食税」吗——刷短视频、内耗、攀比消费？无以生为——生命不只扩张，还有呼吸。饥与难治，常从上面的贪婪开始。",
+      "image": "assets/DaoDeJing/Ink ripple - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：列你身上「食税多」的一条——本周减百分之十。少有为：砍掉一个无效仪式。无以生为：一天不晒成就，做一件无用但滋养的事。三因自检：饥、难治、轻死，哪条在你生活里亮灯？",
+      "image": "assets/DaoDeJing/Knowledge pile - ch0 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，民饥在上食税多：少抽取。第二，难治在上之有为：少折腾。第三，轻死在求生之厚：少攀比示范。第四，无以生为贤于贵生：生命不只膨胀。民之饥、难治、轻死——三盏红灯，一盏药。下一章，「人之生也柔弱，其死也坚强」——第七十六章，柔弱处上。七十五讲病，七十六讲生机。八十一讲，进入最后六讲。",
+      "image": "assets/DaoDeJing/白玉碗 - Ch03.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

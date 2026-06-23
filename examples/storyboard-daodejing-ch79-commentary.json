@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第79章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：柔弱于水"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "左契"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch79-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "执左契不责人",
+      "哲学",
+      "第79章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十九章精解——余怨、左契与司契司彻。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "和大怨"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "天道无亲"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "执左契不责人",
+      "哲学",
+      "第79章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十九章精解——余怨、左契与司契司彻。",
+    "dynamic": "和大怨，必有余怨——圣人执左契而不责于人，天道无亲常与善人。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第七十八章讲「天下莫柔弱于水」——正言若反。第七十九章，老子谈「怨」与「契」：「和大怨，必有余怨；安可以为善？」是以圣人执左契，而不责于人。有德司契，无德司彻；天道无亲，常与善人。这一章，是和解黑盒：大怨硬和，余怨必留；契在左，责在人则败。收官段里，老子教你怎么把关系从司彻改回司契。怨若不处理，后面的简俗只是空壳。",
+      "image": "assets/DaoDeJing/和大怨 - ch79 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：和大怨、左契，与无亲善人。",
+      "image": "assets/DaoDeJing/Paper Window Moon - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「和大怨，必有余怨；安可以为善？」和大怨——强行粉饰太平、表面和解；必有余怨——根未除，恨在暗处发酵。安可以为善——这算哪门子好？黑盒读法：没有真相与修复的「和好」，是延迟爆炸。家庭、团队、国家——皆同此理。",
+      "image": "assets/DaoDeJing/Plc 14 Moongate Gard - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「是以圣人执左契，而不责于人。」左契——古代契约，债权人持左，圣人持左却不逼债——有凭据，不勒索；不责于人——不把道德刀架在对方脖子上。与第六十三章报怨以德、第六十九章哀者——和解要有温度与边界。亲密关系里：可以记得 hurt，不必每日处刑。",
+      "image": "assets/DaoDeJing/Wheel and hub - ch02 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「有德司契，无德司彻。」司契——有德者守约、守过程、守可追溯；司彻——无德者挖底、查账式报复、把关系彻查到底。契是桥，彻是拆桥。组织复盘：司契找改进，司彻找替罪羊。无德司彻的团队，必有余怨再起。",
+      "image": "assets/DaoDeJing/Pavilion and crashin - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「天道无亲，常与善人。」无亲——不因你是我的人就有偏私；常与善人——善，指合道之行，不是好人标签。与第七十七章天道损补——天按结构走，不按站队走。你司彻，天未必站你。善人，是行出来的，不是贴出来的。",
+      "image": "assets/DaoDeJing/Peeling Lacquer - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：全章收束：和大怨有余怨、执左不责、有德司契、无亲善人——给第八十章「小国寡民」铺路：少怨之道，是少扰、少争、少复杂契约。怨深时，先契后言。司彻只能赢嘴，司契才可能赢未来——这是第七十九讲留给关系的底线。",
+      "image": "assets/DaoDeJing/夜色绝壁上的茅草屋 - ch80 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "法律「和解协议」——要真修复，非粉饰。儒家「恕」——不责之宽。老子与孔子「和而不同」——和大怨不同。犹太「左契」习俗——历史语境互证。和解若只剩情绪，没有结构，必复发。",
+      "image": "assets/DaoDeJing/Peeling identity - c - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。关系：「算了」式和好——余怨常在。改法：说清 hurt、说清改、写简单契——什么不再发生。公司：司彻式复盘——只追责不改进；司契式——留记录，面向未来。网络：挖旧账是司彻， rarely 善。和解要可执行，不要可表演。",
+      "image": "assets/DaoDeJing/Daily loss - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：一段余怨关系——能否执左不责：承认 hurt，不逼对方认罪表演。司契练习：冲突后写三条可执行约定。戒司彻：停止翻三年旧账。和好若不能写契，多半还会再爆。契，是未来的语法；责，是过去的复读。第七十九讲：和解不是表演，是写进结构的承诺。",
+      "image": "assets/DaoDeJing/Court officials - ch - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，和大怨有余怨：假和 worse 真吵。第二，执左不责：有凭据，不勒索。第三，有德司契：改结构，不挖人。第四，天道无亲：善在行，不在站队。和大怨——和解是技术，不是口号。下一章，「小国寡民」——甘食美服，邻国相望而不往来。七十九讲怨，八十讲简俗。余怨不除，简俗也难安。司契，是收官段的关系底座，也是必选项矣。",
+      "image": "assets/DaoDeJing/Plc 06 Stone Base Si - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

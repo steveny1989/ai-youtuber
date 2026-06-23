@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第66章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：玄德大顺"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "不争"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch66-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "江海善下百谷王",
+      "哲学",
+      "第66章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十六章精解——善下、言下身后与不争之胜。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "江海善下"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "乐推不厌"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "江海善下百谷王",
+      "哲学",
+      "第66章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十六章精解——善下、言下身后与不争之胜。",
+    "dynamic": "江海所以能为百谷王者，以其善下之——不争，故天下莫能与之争。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十五章讲「古之善为道者，将以愚之」——减机心、不以智治国，玄德乃至大顺。第六十六章，老子把「顺」落到位置与姿态：「江海所以能为百谷王者，以其善下之，故能为百谷王。」欲上民，必以言下之；欲先民，必以身后之。圣人处上而民不重，处前而民不害——天下乐推而不厌，以其不争，故天下莫能与之争。这一章，是领导力黑盒：高，不在压人；先，不在抢位。与第六十一章「大国下流」同脉，这里更狠——下，是成为百谷王的唯一算法。",
+      "image": "assets/DaoDeJing/江海所以能为百谷王者 - ch66 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：善下、言下身后，与不争之胜。",
+      "image": "assets/DaoDeJing/Wat 06 Leaf In Vorte - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「江海所以能为百谷王者，以其善下之，故能为百谷王。」百谷——百川支流；王——汇聚与承载之位。江海不在高处炫耀，在低处接纳，所以万流归之。善下——不是卑微，是主动降低对抗面：你把接口放低，资源才流向你。当代误读：领袖等于舞台中央、声音最大——老子说，王在谷，不在峰。",
+      "image": "assets/DaoDeJing/Wat 13 River Finding - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「是以欲上民，必以言下之；欲先民，必以身后之。」欲上民——想被跟随、被信服；必以言下之——话里留余地、不封死别人的判断。欲先民——想走在前面开路；必以身后之——把功劳、镜头、安全感让出去。黑盒读法：上与前是结果，下与后是手段——顺序反了，民就重、就害、就厌。",
+      "image": "assets/DaoDeJing/Plc 07 Mirror Basin - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「是以圣人处上而民不重，处前而民不害。」处上——责任在上、担子在肩；民不重——百姓不觉被压榨、被俯视、被当工具。处前——遇事先扛；民不害——跟在你后面的人不替你挡刀、不替你背锅。管理现场：老板站太高，团队窒息；老板抢所有功劳，团队内耗——不重、不害，是系统体感。",
+      "image": "assets/DaoDeJing/Wat 03 Seeping Drop - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以天下乐推而不厌。」乐推——愿意抬你、愿意跟；不厌——久处不烦、不逆反。推，来自你让出了争的空间；不厌，来自你没把关系做成零和。与第六十五章「大顺」合看：顺不是讨好，是少对抗后的自然推举。厌，往往始于：你总在证明「我比你强」。",
+      "image": "assets/DaoDeJing/Wat 05 Melting Lake - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「以其不争，故天下莫能与之争。」不争——不抢标签、不抢功劳、不抢「谁更正确」；莫能与之争——不是没人挑战你，是争的成本在你这边被消解了。全章收束：善下、言下身后、不重不害、乐推不厌、不争——给第六十七章「三宝」铺路：慈、俭、不敢为天下先，都是「下」与「不争」的人格化。",
+      "image": "assets/DaoDeJing/Wat 08 Waterfall Aby - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "西方「仆人式领导」——领导者服务团队，与善下同向。中国「海纳百川」——百谷王的地理隐喻。孙子「善战者致人而不致于人」——身后与不争，是另一种致。耶稣「谁愿为首，必作众人的仆人」——处上而不重。",
+      "image": "assets/DaoDeJing/Wat 14 Tidal Sand Ri - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。职场：抢话、抢功、抢决策权——短期上位，长期众叛。改法：会上最后总结、把「我」改成「我们」、把难题留给自己。产品：平台若只做抽取、不做承载，万流不会久留——接口要下，生态才王。家庭：父母处上而不重——有规矩，无羞辱。",
+      "image": "assets/DaoDeJing/Wat 07 Underwater Li - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：选一次本可抢的功劳——让给合作者，观察关系温度。言下练习：一句结论后加「也可能我错了」。身后练习：项目成功时，先点名谁扛了难活。不争练习：群聊争论里，少打最后一击。",
+      "image": "assets/DaoDeJing/Wat 11 Catching Drop - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，善下为王：低处接纳，万流归之。第二，言下身后：上与前是果，下与后是因。第三，不重不害：担责在上，压力不转嫁。第四，不争故莫能争：让出争的空间，才久推不厌。江海所以能为百谷王——王在谷，不在峰。下一章，「我有三宝，持而保之」——慈、俭、不敢为天下先。六十六讲位，六十七讲德。",
+      "image": "assets/DaoDeJing/Plc 11 Broken Beads - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

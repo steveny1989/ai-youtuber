@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第十二章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：感官"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "注意力"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch12-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "五色令人目盲",
+      "哲学",
+      "第12章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十二章精解——圣人为腹不为目。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "信息过载"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "五色令人目盲",
+      "哲学",
+      "第12章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十二章精解——圣人为腹不为目。",
+    "dynamic": "刺激越多，感知越钝；为腹，不为目。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第十一章讲「无之用」——空处生功能。第十二章，老子转向输入端：「五色令人目盲，五音令人耳聋，五味令人口爽。」刺激越多，感知越钝。这一章，是注意力时代的先知文本。",
+      "image": "assets/DaoDeJing/贵妇 - Ch12.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/plc_05_cooking_fish_tripod.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「五色令人目盲。」色彩过载，眼睛反而失去分辨。不是眼睛坏了，是神经系统被劫持——你看见很多，却什么也看不清。",
+      "image": "assets/DaoDeJing/plc_06_stone_base_silk.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「五音令人耳聋；五味令人口爽。」声音太杂，听不清关键；味道太重，味觉麻木。感官享受若变成无限叠加，会反向剥夺感受力。",
+      "image": "assets/DaoDeJing/plc_07_mirror_basin.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「驰骋畋猎令人心发狂；难得之货令人行妨。」追逐狩猎让人心狂；稀缺之物让人走路都不安。刺激驱动行动，行动再要更多刺激——这是成瘾回路。",
+      "image": "assets/DaoDeJing/plc_08_meticulous_governance.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以圣人为腹不为目。」圣人养内在的腹——真实需求、根本满足；不追逐外在的目——炫耀、表象、给别人看。腹，是本体；目，是表演。",
+      "image": "assets/DaoDeJing/plc_09_imperial_seal.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「故去彼取此。」去掉追逐表象的那一端，守住滋养本体的那一端。不是禁欲，是止损感官通货膨胀。",
+      "image": "assets/DaoDeJing/plc_10_empty_dragon_robe.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯宾诺莎说人常被情欲奴役，以为自由其实在被推送。佛教讲六根接触生染，与「目盲耳聋」同向。老子不跟你讲理论，直接讲后果：刺激过量，感知破产。",
+      "image": "assets/DaoDeJing/plc_11_broken_beads.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。无限信息流、15 秒钩子、红点通知——五色五音的数字化。你刷到凌晨，不是收获多，是目盲耳聋：对真实生活失去细腻触觉。",
+      "image": "assets/DaoDeJing/plc_15_empty_throne_dust.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "消费主义让你为目而活：买给别人看、晒给别人看。为腹，是问：我真正需要的是什么？去彼取此，是主动卸载一层展示型欲望。",
+      "image": "assets/DaoDeJing/plc_12_discarded_tablets.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，减刺激：别用更多输入修复空虚。第二，养腹：满足根本，不追逐表象。第三，去彼取此：卸载表演型欲望。第四，守感知：保护眼耳口的分辨力。下一章，「宠辱若惊」——ego 为何总被牵动。",
+      "image": "assets/DaoDeJing/plc_13_rain_drainage_beast.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

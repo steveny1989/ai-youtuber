@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第三十五章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：大象"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "淡味"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch35-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "执大象",
+      "哲学",
+      "第35章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十五章精解——执大象，天下往，安平太。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不足既"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "执大象",
+      "哲学",
+      "第35章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十五章精解——执大象，天下往，安平太。",
+    "dynamic": "道之出口淡乎其无味，却用之不足既——别用刺激替代道。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十四章讲大道不辞不名有。第三十五章，老子说：「执大象，天下往；往而不害，安平太。」执大象，天下人来归；来了也不受害，安宁平和。乐与饵，过客止——音乐美食，过客停一下；道之出口，淡乎其无味，视之不足见，听之不足闻，用之不足既。这一章，是「反刺激」——大道不甜，却用不完；刺激物甜，过客即止。对内容、产品、关系，都是警告：别用糖替代饭。",
+      "image": "assets/DaoDeJing/淡乎其无味 - Ch35.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，分清「大象」与「乐饵」。",
+      "image": "assets/DaoDeJing/执大象 - Ch35.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「执大象，天下往。」执，是持守、不放手；大象，不是动物，是「大形象」——大道之象。持守大道，天下人往——不是被你拉来，是被道吸引。",
+      "image": "assets/DaoDeJing/森林 - Ch36.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「往而不害，安平太。」来了也不害，安宁平和。好系统，让人来，但不伤人、不掠夺、不制造恐慌。",
+      "image": "assets/DaoDeJing/欲歙先张 - Ch36.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「乐与饵，过客止。」音乐与诱饵，过客停一停——刺激，留不住人。",
+      "image": "assets/DaoDeJing/歇马的木桩 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「道之出口，淡乎其无味，视之不足见，听之不足闻。」道说出来，淡而无味，看不够见，听不够闻——不炫，不炸，不钩子。",
+      "image": "assets/DaoDeJing/死结 - Ch56.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「用之不足既。」用，用不完——淡的，才久；甜的，才过客。",
+      "image": "assets/DaoDeJing/母马 - Ch61.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "柏拉图：理念超越感官。禅宗：平淡是真。注意力经济：刺激换停留，留不住。老子：乐饵过客止，道淡不足既——选长期淡，不选短期甜。",
+      "image": "assets/DaoDeJing/母鹿 - Ch61.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。短视频钩子，是乐饵；深度信任，是淡道。产品若只刺激不解决问题，过客止。关系若只浪漫不承担，过客止。执大象：你的核心价值，要淡到能天天用、年年用。",
+      "image": "assets/DaoDeJing/毛笔悬于纸上方 - Ch01.png",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "教育、健康、投资，皆「用之不足既」的领域——急甜，往往亏。安平太，是用户真实状态：不害、不慌、不腻。",
+      "image": "assets/DaoDeJing/民之饥 - Ch75.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，执大象：守核心价值象。第二，求安平太：不害，不慌。第三，戒乐饵：少用过客刺激。第四，信淡久：淡，方可不足既。下一章，「将欲歙之」——微明与柔弱胜刚强。",
+      "image": "assets/DaoDeJing/水滴即将滴落巨石的瞬间 - Ch01.png",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

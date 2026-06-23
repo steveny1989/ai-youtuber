@@ -1,0 +1,283 @@
+{
+  "title": "道德经五讲之二：你不是缺方法，你缺的是敢删",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "第二期"
+    },
+    {
+      "id": "2",
+      "label": "为道日损"
+    },
+    {
+      "id": "3",
+      "label": "身份的加法"
+    },
+    {
+      "id": "4",
+      "label": "欲望只增不减"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "观念黑盒——道德经五讲之二.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": true,
+    "duration_sec": 3,
+    "narration": "",
+    "image": "assets/covers/daodejing-ep02-cover.jpg",
+    "hook": "你不是缺方法，你缺的是敢删。",
+    "subtitle": "观念黑盒 · 道德经五讲"
+  },
+  "youtube": {
+    "privacy_status": "unlisted",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "The Blackbox",
+      "人生哲学",
+      "为道日损",
+      "减法",
+      "身份",
+      "欲望",
+      "道德经五讲"
+    ],
+    "description_intro": "《道德经五讲》EP02：为道日损——在「加」的时代，辨认该删什么。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "cover",
+        "label": "片头 Hook"
+      },
+      {
+        "scene": "intro-1",
+        "label": "先导 · 为道日损"
+      },
+      {
+        "scene": "intro-2",
+        "label": "先导 · 减法 = 认知操作"
+      },
+      {
+        "scene": "open-1",
+        "label": "论点一 · 为道日损"
+      },
+      {
+        "scene": "open-2",
+        "label": "论点二 · 身份的加法"
+      },
+      {
+        "scene": "open-3",
+        "label": "论点三 · 欲望只增不减"
+      },
+      {
+        "scene": "open-4",
+        "label": "收官 · 日损清单（协议三步）"
+      },
+      {
+        "scene": "closing-1",
+        "label": "收束 & EP03「知足与知止」预告"
+      }
+    ],
+    "playlist_id": "",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "为道日损",
+      "减法",
+      "道德经五讲",
+      "哲学",
+      "认知",
+      "国学"
+    ],
+    "description_intro": "《道德经五讲》EP02：为道日损——辨认该删什么，而不是再加什么。",
+    "dynamic": "加得越多，越看不清自己。打开观念黑盒，学敢删。",
+    "cover_image": "assets/covers/daodejing-ep02-cover.jpg",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": true,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.16,
+    "crossfade_sec": 4,
+    "fade_in_sec": 1.5,
+    "fade_out_sec": 4,
+    "switch_at_scene": "open-2"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 4,
+    "narration": ""
+  },
+  "scenes": [
+    {
+      "id": "intro-1",
+      "narration": "如果你听完第一期，有一个动作几乎一定会发生——你会想「那我接下来该加什么」。加一个新计划，加一门课，加一套更聪明的系统。这很正常。你的大脑被训练成：遇到问题，就追加。但老子在第四十八章里放了一句反直觉的话：为道日损。损之又损，以至于无为。翻译成今天的人话就是：在「道」这件事上，进步的标志不是越来越多，而是越来越少。这是《道德经五讲》的第二期。",
+      "image": "assets/DaoDeJing/ep02_01_daily_loss.jpg",
+      "pause_after_sec": 0.3
+    },
+    {
+      "id": "intro-2",
+      "narration": "上一期我们谈地图会过期。这一期谈更狠的一件事：你之所以卡住，往往不是缺一张新地图，而是背了太多旧东西，不肯卸。我不会请你极简主义搬家，也不会说「断舍离」三个字就打发你。我要做的，是把「减法」从整理术，升级成一套认知操作：你怎么辨认该删什么，怎么面对删掉的恐惧，以及为什么在这个时代，敢删的人反而走得更快。",
+      "image": "assets/DaoDeJing/ep02_07_courage_to_delete.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-1",
+      "narration": "第一个论点：为道日损。为什么「学」要日增，「道」却要日损——以及这和你每天打开的课程 App 有什么关系。",
+      "image": "assets/DaoDeJing/ep02_02_knowledge_pile.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-1",
+      "narration": "老子说：为学日益，为道日损。这两句话经常被对立着读，好像「学习」和「修道」是敌人。其实不是。学习本来就该加——加技能、加知识、加工具。问题出在：你把「加」的习惯，无差别地搬到了人生本身。于是你遇到任何困境，第一反应都是追加。焦虑了，追加冥想课。收入不稳，追加副业。关系有问题，追加沟通技巧。人工智能来了，再追加十个 Prompt 模板。",
+      "image": "assets/DaoDeJing/ep02_02_physical_scrolls.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-2",
+      "narration": "每一次追加，短期都让你感觉在掌控。长期却在做同一件事：让你的生命越来越满，满到没有缝隙。满，有时候是安全感。但满到溢出，就是僵。我想问你一个具体的问题：打开你的手机，数一数你「为了变好」而装的应用、收藏夹、待读清单。有多少是三个月前加的，此后再也没打开过？",
+      "image": "assets/DaoDeJing/ep02_15_endless_slips.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-3",
+      "narration": "大多数人不是缺方法。是方法太多，多到互相打架。A 方法教你早起，B 方法教你睡够八小时。C 方法教你输出，D 方法教你深度休息。你每天都在做选择题，而不是在做人生。这就是「益」过了头。为道日损，损的不是你的能力，也不是你的责任。损的是：那些不再服务你的层。过期的目标、过时的身份叙事、为了面子硬撑的项目、你其实已经不相信但仍维护的习惯。",
+      "image": "assets/DaoDeJing/ep02_04_peeling_paper.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-4",
+      "narration": "删这些，你会觉得痛。因为删，等于承认：我之前走偏了。人宁可堆叠，也不愿承认走偏。堆叠看起来像在前进，承认走偏像是在退。但老子告诉你：真正的前进，有时看起来像后退。像水往低处走。像把背包里的石头一块块拿出来。",
+      "image": "assets/DaoDeJing/ep02_36_water_carving_rock.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-5",
+      "narration": "你可能会问：那我怎么知道该删什么？一个简单标准：凡是让你「更忙，却没有更清晰」的东西，优先进入删除候选。注意，是候选，不是立刻删光。第二期要给你的，不是冲动极简，而是有辨认能力的减。",
+      "image": "assets/DaoDeJing/ep02_18_resting_brush.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-2",
+      "narration": "第二个论点：身份是一种加法。你以为是「做自己」，其实可能在不断给自己贴标签。",
+      "image": "assets/DaoDeJing/ep02_03_identity_mask.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-1",
+      "narration": "上一期我们说过：身份焊死，环境一变你就碎。这一期我们往深处挖——身份是怎么一层层加上去的。你小时候可能只有一个简单身份：谁家的孩子。后来加了学生、加了某校某专业、加了某公司的职位。再往后，社交媒体把身份变成了可展示的商品：自律的人、深度思考者、终身学习者、创业者、创作者。每多一个标签，就多一面要守的旗。",
+      "image": "assets/DaoDeJing/ep02_26_court_officials.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-2",
+      "narration": "旗越多，你越不敢撤。因为撤掉一个标签，感觉像背叛过去的自己。更隐蔽的是：很多身份不是「你是什么」，而是「你想让谁看见你是什么」。你发早起打卡，不只为早起，也为「我是自律的人」这个叙事。你硬撑一个不喜欢的项目，不只为了钱，也为「我是能扛事的人」。身份加法最骗人的地方在于：它用荣誉感，掩盖了恐惧。",
+      "image": "assets/DaoDeJing/ep02_04_peeling_identity.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-3",
+      "narration": "你怕的不是失败，是「失败之后，不知道我还是谁」。所以你会继续加：再加一个证书，再加一个头衔，再加一个能写进简介的关键词。简介越来越长，人越来越空。老子不会叫你把所有身份撕掉。他会叫你看清：哪些身份是工具，哪些身份已经变成刑具。工具用完可以放下。刑具你会主动佩戴，因为刑具让你看起来「有样子」。",
+      "image": "assets/DaoDeJing/ep02_28_empty_throne.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-4",
+      "narration": "一个自检问题：如果明天所有社交平台消失，你还愿意做的三件事是什么？如果答案和现在的简介高度重合，恭喜，你的身份大体是真的。如果答案短得让你发慌——那你需要的不是再加一个标签，而是做一次身份减法。减掉一个你维护了超过两年、但已经不再带来真实成就感的标签。不用公告。不用解释。只是不再为它支付额外的生命。",
+      "image": "assets/DaoDeJing/ep02_11_empty_robe.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-3",
+      "narration": "第三个论点：欲望为什么只增不减。以及「少则得，多则惑」在今天到底在警告什么。",
+      "image": "assets/DaoDeJing/ep02_05_desire_thorns.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-1",
+      "narration": "如果说身份是「你对外是谁」，欲望就是「你对内要什么」。而现代人的欲望，有一个结构性特点：只增不减。不是因为你不自律。是因为整个系统按「加法」设计。推荐算法喂给你更多可能。消费主义告诉你「还差一点就完整」。同辈压力把「可选的人生版本」铺成一张无限菜单。你原本只想要一个稳定的生活，看着看着，想要自由职业、想要被动收入、想要身材、想要影响力、想要被理解、想要永远不被淘汰。每一个「想要」单独看都合理。合在一起，就是一台停不下来的加法机器。",
+      "image": "assets/DaoDeJing/ep02_34_storm_over_imperial_city.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-2",
+      "narration": "老子说：少则得，多则惑。不是道德说教，是认知规律。选项少，你的判断力能聚焦。选项爆炸，你会把大量精力花在「选哪个」上，而不是「把哪个做好」。人工智能把这个困境放大了十倍。以前加一个技能要好几个月。现在加一个「可能性」只要一次对话。于是更多人在同一时期开五条线：做号、做课、做咨询、做产品、做社群。每条线都有合理理由。每条线都在分你的命。",
+      "image": "assets/DaoDeJing/ep02_16_scattered_stalks.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-3",
+      "narration": "为道日损，在这里的意思不是禁欲。不是让你不想要。而是区分两种欲望：真实需求，和被喂养出来的假需求。真实需求满足之后，人会安静。假需求满足之后，只会想要更多。怎么区分？一个粗暴但有效的测试：完成它之后，你是更平静，还是更急着下一步？如果总是后者，你可能在追一个会自动繁殖的目标。减法不是杀死野心。是把野心从「什么都想要」，收敛到「我愿意为哪一件事付代价」。能收敛的人，看起来少了，实际上深了。深了，才容易成。",
+      "image": "assets/DaoDeJing/ep02_19_deep_well.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-4",
+      "narration": "今天只带走一个协议。我们叫它：日损清单。",
+      "image": "assets/DaoDeJing/ep02_07_hand_over_paper.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-1",
+      "narration": "在收束之前，我想把第二期和第一期的减法链接上。第一期，你学会了辨认地图会过期。第二期，你要学会辨认：什么东西该从背包里拿出去。协议三步，和上一期的地图脱钩练习是配套的。别在脑子里做。写下来。第一步，写下你最近三个月「为了变好」而加的一样东西——一个订阅、一个习惯、一个身份标签、一个项目，什么都行。只写一样。",
+      "image": "assets/DaoDeJing/ep02_13_uncarved_block.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-2",
+      "narration": "第二步，用一句话回答：它当时帮你躲开了什么？是怕落后？怕不被认可？怕错过风口？还是怕面对「我其实不知道要什么」？第三步，也是最关键的一步：写下如果这周把它删掉或暂停，会发生什么最坏的结果？然后诚实评估：这个最坏结果，是真实的，还是你的 ego 在吓唬你？如果最坏结果并没有你想象的致命，你就找到了第一个日损对象。",
+      "image": "assets/DaoDeJing/ep02_real_hand_brush.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-3",
+      "narration": "做完之后，不要急着昭告天下。减法如果是表演，会变成另一种加法——「看我多清醒」。真正的日损，是私下的。是你夜里少刷十分钟，早上少开一个标签页，项目列表里多一个「不再继续」。你会在第一周感到空。空，不是失败。空，是你终于给真实的东西让出了位置。如果你愿意，把这张纸和第一期的地图脱钩练习放在一起。五期之后，你会看见：不是你变少了，而是你变准了。",
+      "image": "assets/DaoDeJing/ep02_08_value_of_void.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "closing-1",
+      "narration": "好，第二期到这里。我们说了三件事：为道日损，不是反学习，而是反无差别堆叠；身份加法，会把荣誉变成刑具；欲望只增不减的时代，更需要敢删。你不需要立刻把生活删到只剩一张桌子。你只需要承认：继续用加法应对一切，成本会越来越高。下一期，我们会进入道德经里最容易被误解、也最关键的一招——知足与知止。不是「躺平哲学」，而是：你怎么知道「够了」？你怎么在还想要更多的时候，停下来而不崩溃？如果你愿意把观念黑盒一点点打开，不妨把这两期连起来看。我们第三期见。",
+      "image": "assets/DaoDeJing/ep02_10_knowing_when_to_stop.jpg",
+      "pause_after_sec": 0.35
+    }
+  ]
+}

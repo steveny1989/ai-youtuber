@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第59章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：闷闷"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "深根"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch59-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "治人事天莫若啬",
+      "哲学",
+      "第59章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十九章精解——啬、重积德与深根。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "莫若啬"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "长生久视"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "治人事天莫若啬",
+      "哲学",
+      "第59章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十九章精解——啬、重积德与深根。",
+    "dynamic": "治人事天，莫若啬——重积德，深根固柢，长生久视。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十八章讲「其政闷闷」——光而不耀，方而不割。第五十九章，老子谈「啬」：「治人事天，莫若啬。」夫唯啬，是谓早服；早服谓之重积德；重积德则无不克……莫知其极，可以有国；有国之母，可以长久——是谓深根固柢，长生久视之道。这一章，是能量经济学：啬不是抠，是早蓄、厚德、深根。从第五十八章「钝锋」到这里，老子要你把力收回来——蓄在根里，而不是耗在锋上。",
+      "image": "assets/DaoDeJing/树根 - Ch59.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：莫若啬、重积德，与深根固柢。",
+      "image": "assets/DaoDeJing/Resting Brush - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「治人事天，莫若啬。」治人——带人、管事；事天——顺规律、敬边界、不逆天而行。莫若啬——没有比「啬」更好的策略。啬，是省、是蓄、是少耗：精力、情绪、信用、资源，都要少漏。挥霍型领导，事天先败。",
+      "image": "assets/DaoDeJing/Sage Hands Tea - Ch01.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「夫唯啬，是谓早服。」早服——早早服从道、服从节律，不等到崩了才补救。熬夜的人，不是不懂健康，是不懂早服——等身体下通牒才服。早服，是提前对齐规律，不是提前焦虑。项目、关系、学习，都怕「拖到极限才改」。",
+      "image": "assets/DaoDeJing/Sage Insight - Ch01.png",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「早服谓之重积德；重积德则无不克。」重积德——德不是口号，是累积的可信、可续、可托：少承诺多兑现，少声张多沉淀。无不克——不是战无不胜，是难的事，慢慢都能啃——因为根在，不飘。德薄的人，靠奇招赢一次；德厚的人，靠重复赢一生。",
+      "image": "assets/DaoDeJing/Sage Meditating Wide - Ch01.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「莫知其极，可以有国；有国之母，可以长久。」莫知其极——德厚到说不清上限，可以持大系统（有国）；有国之母——持国的那个「母」，是啬与积德，不是扩张与表演。长久，靠母，不靠炫。",
+      "image": "assets/DaoDeJing/Scattered Stalks - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「是谓深根固柢，长生久视之道。」深根——向下长，不急着向外长；固柢——底盘稳，风吹不倒。长生久视——不是不死，是活得久、看得远、系统可持续。与第五十四章「善建者不拔」同脉：外面新，里面根旧而深。快时代里，啬是反直觉的竞争优势。",
+      "image": "assets/DaoDeJing/Stone Water - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "本杰明·富兰克林——美国开国者——「节俭」美德，接近「啬」的蓄与少耗。日本「守破离」，守在前，是早服重积德。中国农耕「积肥于田」，不急于一季高产，与深根固柢同构。",
+      "image": "assets/DaoDeJing/Storm Over Imperial - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。把「啬」误读成抠门，就丢了本章。真正啬：少开会、少改方向、少情绪劳动——把力蓄在根上。重积德：品牌不是投流堆的，是一次次兑现堆的。无不克：慢公司，若根深，反而活过快公司。啬情绪、啬承诺、啬改版——三啬做到，德就厚了。",
+      "image": "assets/DaoDeJing/Uncarved Block - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：列出本周三处「漏」——刷手机、抱怨、过度承诺。早服：睡够、吃稳、动慢——先服规律，再谈野心。深根练习：一件事做三年，不追热点——看根有没有更深。啬情绪：少一场无谓争执，就是积德。深根不是躺平，是同一方向慢磨——三年不换赛道，才谈得上固柢。本周只蓄不耗：少一次熬夜，少一次情绪爆炸，就是在重积德。",
+      "image": "assets/DaoDeJing/Value Of Void - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，治人事天莫若啬：少耗是战略。第二，早服重德：先对齐规律，再求克。第三，德厚莫极：能持大，能长久。第四，深根固柢：向下长，才久视。莫若啬——省下的，才是你的。下一章，「治大国若烹小鲜」——以道莅天下。啬到深处，就是少翻动、少伤人。德厚的人，时间站在他那边。",
+      "image": "assets/DaoDeJing/Water Carving Rock - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

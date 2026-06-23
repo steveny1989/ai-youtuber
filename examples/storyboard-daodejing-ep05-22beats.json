@@ -1,0 +1,283 @@
+{
+  "title": "道德经五讲收官：五把钥匙都拿到了，你敢不敢只执一件事？",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "收官"
+    },
+    {
+      "id": "2",
+      "label": "五讲合链"
+    },
+    {
+      "id": "3",
+      "label": "执一"
+    },
+    {
+      "id": "4",
+      "label": "走到足够深"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "观念黑盒——道德经五讲收官.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": true,
+    "duration_sec": 3,
+    "narration": "",
+    "image": "assets/covers/daodejing-ep05-cover.jpg",
+    "hook": "五讲看完，你还差最后一个动作——执一。",
+    "subtitle": "观念黑盒 · 道德经五讲 · 收官"
+  },
+  "youtube": {
+    "privacy_status": "unlisted",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "The Blackbox",
+      "人生哲学",
+      "执一",
+      "抱一",
+      "五讲收官",
+      "道德经五讲"
+    ],
+    "description_intro": "《道德经五讲》收官：五把钥匙串成链——地图、日损、知止、简单，最后执一走到足够深。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "cover",
+        "label": "片头 Hook"
+      },
+      {
+        "scene": "intro-1",
+        "label": "先导 · 五把钥匙与抱一"
+      },
+      {
+        "scene": "intro-2",
+        "label": "先导 · 执一不是成功学"
+      },
+      {
+        "scene": "open-1",
+        "label": "论点一 · 五讲合链"
+      },
+      {
+        "scene": "open-2",
+        "label": "论点二 · 执一"
+      },
+      {
+        "scene": "open-3",
+        "label": "论点三 · 走到足够深"
+      },
+      {
+        "scene": "open-4",
+        "label": "收官 · 执一合链（协议三步）"
+      },
+      {
+        "scene": "closing-1",
+        "label": "全系列收束 · 后会有期"
+      }
+    ],
+    "playlist_id": "",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "执一",
+      "抱一",
+      "五讲收官",
+      "道德经五讲",
+      "哲学",
+      "认知",
+      "国学"
+    ],
+    "description_intro": "《道德经五讲》收官：前四期是钥匙，最后一期把链扣上——敢不敢只执一件事，走到足够深。",
+    "dynamic": "五讲看完，还差最后一个动作。打开观念黑盒，完成执一合链。",
+    "cover_image": "assets/covers/daodejing-ep05-cover.jpg",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": true,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.16,
+    "crossfade_sec": 4,
+    "fade_in_sec": 1.5,
+    "fade_out_sec": 4,
+    "switch_at_scene": "open-2"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 4,
+    "narration": ""
+  },
+  "scenes": [
+    {
+      "id": "intro-1",
+      "narration": "如果你连看了四期，到这里，可能已经做了四张纸的练习：地图脱钩、日损清单、知止清单、简单清单。也可能一张都没做——只是听完了。两种都正常。但这最后一期，不会给你第六个概念。老子在第十章问了一个极具体的问题：载营魄抱一，能无离乎？翻译成今天的人话：你能不能把自己的注意力、脾气、野心，重新抱在同一件事上，而不是每天散成十条线？这是《道德经五讲》的收官。前四期是钥匙：辨认地图会过期，敢删，知止，回到简单。",
+      "image": "assets/DaoDeJing/ep05_01_five_keys.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "intro-2",
+      "narration": "第五期只做一件事：把这五把钥匙穿进同一条绳——然后问，你敢不敢只执一件事，走到足够深？我知道「执一」听起来像成功学：专注、深耕、一万小时。我要做的恰恰相反。不是叫你更拼，而是叫你把前四期省下来的命，真正押到一处。不是押给平台算法，不是押给别人眼里的正确，是押给你辨认之后、简单之后、仍然愿意重看的那一件事。这一期如果听对了，你不会再多一条方法论。你会少很多内耗——因为你终于有一个可执行的优先级。",
+      "image": "assets/DaoDeJing/ep05_08_open_rustic_gate.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-1",
+      "narration": "第一个论点：五讲不是五个技巧，是一条减法链。",
+      "image": "assets/DaoDeJing/ep05_07_massive_roots.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-1",
+      "narration": "很多人把系列当菜单：挑喜欢的学。老子会更像整链体操。第一期，地图不是道——你不是缺地图，是缺辨认过期的勇气。第二期，为道日损——你不是缺方法，是缺敢删。第三期，知足知止——你不是缺野心，是缺「够了」和「停」的标准。",
+      "image": "assets/DaoDeJing/ep01_test_ancient_paper.png",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-2",
+      "narration": "第四期，简单——你不是缺复杂，是缺留下核心的辨认。四步下来，你得到的不是四个口号，是一个方向：少堆叠，多对齐。第五期要防止你犯最后一个错：把四期都「知道」了，却回到十条线。",
+      "image": "assets/DaoDeJing/ep02_01_crumbling_stone.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-3",
+      "narration": "知道，但不执，等于没走。链的意义，在于最后一环扣上。我想用一个更现代的比喻：前四期像清理硬盘——删缓存、关后台、停自动更新。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_01_brimming_bowl.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-4",
+      "narration": "收官这一期，是选择把剩余算力给哪个进程。不选，清理就白做。你会短暂感到干净，然后很快又被新标签、新风口、新工具塞满。所以收官不是总结课，是启动课。启动那个你删停简之后，仍然站得住的东西。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_08_fragile_sprout.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-5",
+      "narration": "你也可以把这五期想成五问：我还在追地图吗？我还在无差别加吗？我知道够了在哪吗？我知道该停吗？我留下来的够简单吗？收官，是第六问：我敢不敢，只执一件事？",
+      "image": "assets/DaoDeJing/ep01_v11_timelapse_clouds.png",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-2",
+      "narration": "第二个论点：执一，为什么比「多元化」难十倍。",
+      "image": "assets/DaoDeJing/ep05_06_the_single_stroke.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-1",
+      "narration": "现代文化崇拜选择。斜杠人生、多栖、反脆弱——很多词都在告诉你：别把鸡蛋放一个篮子。这话有真相，也有陷阱。真相是：不确定时代，单点确实脆弱。陷阱是：你把「分散」当成不用选择的借口。于是主业温吞，副业三个，内容两个号，学习永远在进行中。",
+      "image": "assets/DaoDeJing/ep01_v11_endless_corridor.png",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-2",
+      "narration": "看起来聪明，实际上没有任何一处长到根深蒂固。老子说的执一，不是赌傻，是在你已删、已止、已简之后，选那个你愿意维护十年也不羞耻的方向。什么叫维护？不是燃尽自己，是持续付最低必要成本，让它活着、长大、变深。一个自检：如果把所有副标签拿掉，你还愿意做的那一件事，是什么？",
+      "image": "assets/DaoDeJing/ep05_10_ridge_walker.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-3",
+      "narration": "如果需要想超过三十秒，说明四期的减法还没落地。再问你第二个问题：你现在分散精力的理由，是真实风险对冲，还是怕选错？如果是后者，你需要的不是再多开一条线，而是承认：不选，本身也是一种选择——选择继续浅。",
+      "image": "assets/DaoDeJing/ep05_02_deep_well_reflection.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-4",
+      "narration": "执一难，难在要放弃「我还可能更聪明」的幻觉。可幻觉不落地，永远不会变成能力。还有一层：执一不是永远不换。地图仍会过期，止损仍要更新。执一的意思是，在下一个周期里，你仍然只押一个主进程——而不是同时押五个，然后骗自己叫探索。",
+      "image": "assets/DaoDeJing/ep02_03_bronze_mask.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-3",
+      "narration": "第三个论点：走到足够深，是什么样子。",
+      "image": "assets/DaoDeJing/ep05_03_the_lone_giant_tree.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-1",
+      "narration": "深，不是卷。不是二十四小时打卡。深是时间站你这边。浅的事，做三年还是新的。深的事，做三年会开始反过来养你——技能复利，判断复利，关系沉淀，作品成体系。你听见「足够深」，可能会想数字：多少粉丝、多少收入。老子更在乎另一种深度：你还有没有欺骗自己。深度的一个标志，是你说得越来越短，但别人听得越来越懂。另一个标志，是你不再频繁换地图——不是因为你固执，是因为你终于辨认：这一口井值得挖。",
+      "image": "assets/DaoDeJing/ep05_09_vessel_of_light.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-2",
+      "narration": "AI 时代尤其如此。生成廉价，判断和深度不廉价。执一的人，不是产出最少，是产出最可识别——像荒地里那棵独自长大的老树，不是因为它加了更多枝，是命长年积在那里。还有一种深度，外人看不见：你做事时更少表演。不再每个动作都为「证明我在路上」。",
+      "image": "assets/DaoDeJing/ep02_35_monastery_on_cliff.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-3",
+      "narration": "你开始愿意做慢、做小、做重复。重复不性感，但重复是深度的语法。最后，深度允许你偶尔浅——休息、玩耍、走神——因为你知道主轴没有散。主轴在，散是换气；主轴散，忙是逃避。如果你正在做内容、产品、研究，深度还有一个硬指标：别人能不能在你的作品里，感到同一个人的持续在场？在场，不是人设表演，是判断的一致性。",
+      "image": "assets/DaoDeJing/ep05_04_polishing_hand.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-4",
+      "narration": "今天只带走最后一个协议。我们叫它：执一合链。",
+      "image": "assets/DaoDeJing/ep01_v14_template_rice_paper.png",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-1",
+      "narration": "五讲收官，不新增概念。把前四张纸找出来，或重做一遍。第一步，从四期练习里各取一词，连成一句你的「当前优先级」——例如：地图会过期，所以我要删过期订阅；我知止在第三条业务线；我留下的核心，是用简单中文讲清楚观念黑盒。只写一句。第二步，写「执一对象」——未来九十天，只允许一个主项目承受你百分之七十以上的额外注意力。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_06_stone_pavilion_rain.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-2",
+      "narration": "写名字，写一句为什么是它。第三步，写「深度标志」——怎么判断你在变深，而不是在变忙？写两个可观察信号。例如：同一主题我能讲出三个不同版本；我不再每周换工具。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_18_loose_reins.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-3",
+      "narration": "做完，四张旧纸和这个新纸绑在一起。这是你五讲的物理版本。不需要给别人看。收官的意思，是链扣上了，不是课听完了。第一周你可能仍会心痒想开新线。第三个月，如果主轴还在，你会感到一种很少见的稳——不是稳在数字上，是稳在你知道自己在干什么。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_16_sundial_dusk.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "closing-1",
+      "narration": "好，《道德经五讲》到这里。我们走了一条链：地图会过期，所以要会抬头看路；为道日损，所以要敢删；知足知止，所以要辨认够了和停；简单，所以要留核心；执一，所以要把命押在深处。你不需要变成老子。你只需要在「永远差一步」和「永远多加一点」的系统里，给自己留一条可以真实执行的缝。如果这套观念黑盒，帮你少一点点硬拧、多一点点水一样的转弯，这一整趟就值了。四张练习清单，你可以随时重听某一期重做。也许多年后你会忘记某一期的原话，但只要记得：地图会过期，敢删，敢停，敢简，敢执——你就已经带着钥匙了。道不在远处。道在你愿意扔掉过期地图、敢删、敢停、敢简、敢执的那一刻。谢谢你看到这里。后会有期。",
+      "image": "assets/DaoDeJing/ep05_05_seamless_horizon.jpg",
+      "pause_after_sec": 0.35
+    }
+  ]
+}

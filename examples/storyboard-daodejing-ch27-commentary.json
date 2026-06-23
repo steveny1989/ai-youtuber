@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第二十七章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：善行"
+    },
+    {
+      "id": "2",
+      "label": "五善破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "无弃"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch27-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-8%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "善行无辙迹",
+      "哲学",
+      "第27章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十七章精解——袭明，无弃人无弃物。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五善破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "袭明"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "善行无辙迹",
+      "哲学",
+      "第27章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十七章精解——袭明，无弃人无弃物。",
+    "dynamic": "最好的善，像水过无痕——人得救，物也不弃。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十六章讲重静与辎重。第二十七章，老子列「五善」：善行无辙迹，善言无瑕谪，善数不用筹策，善闭无关楗而不可开，善结无绳约而不可解。然后：圣人常善救人，故无弃人；常善救物，故无弃物——是谓袭明。善人者，不善人之师；不善人者，善人之资。这一章，是「无痕领导力」与「零抛弃」——做得太好，反而看不见；救到底，人不弃、物不弃。 五善，可做成团队行为清单，每周对照。",
+      "image": "assets/DaoDeJing/雪地 - Ch27.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐条破译五善，再接到救人救物与师资——看无痕如何与无弃同体。",
+      "image": "assets/DaoDeJing/古老的中式榫卯木结构特写 - Ch27.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「善行无辙迹。」善的行动，不留车辙——不抢功、不刷存在感，事成了，像自然发生。你感到被帮了，却说不清谁在帮——这是高手的善。",
+      "image": "assets/DaoDeJing/失道而后德 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「善言无瑕谪；善数不用筹策。」善的说，没有瑕疵可挑；善的计数，不用筹码算盘——精准、简洁、不炫技。话多，往往善少。 高手说话像刀切豆腐——准，且无多余屑。",
+      "image": "assets/DaoDeJing/契约 - Ch79.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「善闭无关楗而不可开；善结无绳约而不可解。」善闭，不用门闩却打不开；善结，不用绳约却解不开——靠结构、靠信任，不靠暴力锁死。",
+      "image": "assets/DaoDeJing/婴儿 - Ch55 (1).jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以圣人常善救人，故无弃人；常善救物，故无弃物，是谓袭明。」圣人常善救人，所以没有弃人；常善救物，所以没有弃物——这叫袭明，承袭光明。无弃，是系统最高伦理。裁员是弃人，计划报废是弃物。",
+      "image": "assets/DaoDeJing/婴儿 - Ch55.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「故善人者，不善人之师；不善人者，善人之资。不贵其师，不爱其资，虽智大迷。」善人是恶人的师，恶人是善人的资——若不尊师资，再聪明也迷。",
+      "image": "assets/DaoDeJing/嫩芽 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "庄子「庖丁解牛」，刀无痕。日本「间」之美，在留白。现代教练式领导：不替人答，让人自己长。老子五善 + 无弃 + 师资，是一套完整「赋能而不抛弃」的体系。",
+      "image": "assets/DaoDeJing/孤灯下 - Ch48.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。管理要「无痕」：少微观、多结构，让团队自己闭环。教育要「无弃」：差生也是资，放弃任何人都是系统漏洞。产品要「善闭善结」：安全、黏性，不靠骚扰用户。赋能，是不抢功的帮。",
+      "image": "assets/DaoDeJing/孤独的脊梁 - 通用.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "裁员文化，是「弃人」；计划报废，是「弃物」。袭明，是长期主义：今天救的人，明天可能是师；今天弃的人，明天可能是灾。 今天帮了谁却无人知？那是善行无辙迹。",
+      "image": "assets/DaoDeJing/学者独坐山巅 - Ch01.png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，善行无痕：少抢功。第二，无弃：人不弃、物不弃。第三，袭明：承袭光明，不靠一时聪明。第四，尊师资：善与不善，皆资源。下一章，「知其雄，守其雌」——高手为何守弱。 不贵师资：对手与笨同事，也可能是资。",
+      "image": "assets/DaoDeJing/守其黑 - 通用.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

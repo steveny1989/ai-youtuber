@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第二十三章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：自然"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "可持续"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch23-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "希言自然",
+      "哲学",
+      "第23章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十三章精解——希言自然，同于道者得道。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "希言"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "希言自然",
+      "哲学",
+      "第23章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十三章精解——希言自然，同于道者得道。",
+    "dynamic": "飘风不终朝——猛劲不长，合道才久。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十二章讲曲则全与不争。第二十三章，老子谈「希言自然」——稀少的语言，合于自然。飘风不终朝，骤雨不终日，天地都不能久，人何以能久？从事于道者，同于道则道乐得之；同于失，失亦得之。结尾又是「信不足焉，有不信焉」。这一章，是「节奏与对齐」——你跟什么同频，什么就放大你。它把第二十二章的「不争」落到日常节奏：少言、久行、同频、守信。 飘风骤雨是警句：猛不可久，久须自然。",
+      "image": "assets/DaoDeJing/狂风骤雨后一片狼藉的庭院 - Ch23.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，重点放在「同于」与「信」，并对照你的日程表。",
+      "image": "assets/DaoDeJing/黑夜中 - Ch23.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「希言自然。」少说话，顺自然。不是沉默主义，是拒绝用语言制造虚假繁荣。话越多，往往信越少；希言，是给行动和结果留空间。会议能短则短，公告能少则少。",
+      "image": "assets/DaoDeJing/反者道之动 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「故飘风不终朝，骤雨不终日。孰为此者？天地。天地尚不能久，而况于人乎？」狂风不过一早晨，暴雨不过一整天。谁做的？天地。天地都不能长久猛，人凭什么觉得加班、爆款、冲刺能久？把「不能久」写进 OKR 设计：峰值之后，必有回落。",
+      "image": "assets/DaoDeJing/天地不仁 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「故从事于道者，同于道；德者，同于德；失者，同于失。」跟道做事的人，与道同频；跟德的人，与德同频；跟失的人，与失同频。同，是选择什么放大器。你天天刷负面，是同于失；你天天练基本功，是同于道。",
+      "image": "assets/DaoDeJing/反者道之动 - Ch40.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「同于道者，道亦乐得之；同于德者，德亦乐得之；同于失者，失亦乐得之。」你同于什么，什么也「乐得之」——系统会强化你的方向。跟失同频，失也会来找你。这不是诅咒，是结构。",
+      "image": "assets/DaoDeJing/古寺屋顶上空的星轨 - Ch73.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「信不足焉，有不信焉。」信用不够，就有不信。希言、自然、长久，最后落在「信」——言行一致，节奏可持续，才有人信你。信，是希言的自然结果。",
+      "image": "assets/DaoDeJing/古式罗盘置于暗木桌上 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯多葛：控制你能控制的。佛教：与烦恼「同」则苦，与觉「同」则安。易经恒卦重久。老子用天地作尺度：人不能比天地更猛。希言，是信；自然，是久；同于，是选择放大器。三词可写进团队宪章。",
+      "image": "assets/DaoDeJing/古灯在暗室中点亮 - Ch01.png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。996 冲刺、流量爆款、全年无休——都是骤雨心态。希言自然，是产品节奏、组织节奏、个人节奏的长期主义。同于道者，你的复利在道上；同于失者，你的崩盘也在失上。选同于谁，比选口号重要。",
+      "image": "assets/DaoDeJing/古老的中式榫卯木结构特写 - Ch27.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "领导天天开会、天天喊口号，是「多言」不是「希言」。团队不信，不是态度问题，是信不足——说一套做一套。先减言，增信；再谈自然久。一个月少开三场会，多交付一件事，信就回来一点。",
+      "image": "assets/DaoDeJing/古钟 - 通用.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，希言：少说，让结果说话。第二，戒骤：别用飘风骤雨换长期。第三，同于道：选对的放大器。第四，修信：言行一致，信足则无不信。本月少一场会，多一成信。下一章，「企者不立」——用力过猛，反成赘行。",
+      "image": "assets/DaoDeJing/古风水面与光影测试图 - Ch01.png",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "title": "道德经五讲之四：「简单」，不是变少，是去掉多余之后还能站稳",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "第四期"
+    },
+    {
+      "id": "2",
+      "label": "见素抱朴"
+    },
+    {
+      "id": "3",
+      "label": "少则得"
+    },
+    {
+      "id": "4",
+      "label": "回到简单"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "观念黑盒——道德经五讲之四.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": true,
+    "duration_sec": 3,
+    "narration": "",
+    "image": "assets/covers/daodejing-ep04-cover.jpg",
+    "hook": "越删越停之后，你剩下的是什么？——简单。",
+    "subtitle": "观念黑盒 · 道德经五讲"
+  },
+  "youtube": {
+    "privacy_status": "unlisted",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "The Blackbox",
+      "人生哲学",
+      "简单",
+      "见素抱朴",
+      "少则得",
+      "道德经五讲"
+    ],
+    "description_intro": "《道德经五讲》EP04：见素抱朴——删停之后，辨认什么值得以简单形态留下。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "cover",
+        "label": "片头 Hook"
+      },
+      {
+        "scene": "intro-1",
+        "label": "先导 · 删停之后剩下什么"
+      },
+      {
+        "scene": "intro-2",
+        "label": "先导 · 简单不是极简标签"
+      },
+      {
+        "scene": "open-1",
+        "label": "论点一 · 见素抱朴"
+      },
+      {
+        "scene": "open-2",
+        "label": "论点二 · 少则得"
+      },
+      {
+        "scene": "open-3",
+        "label": "论点三 · 简单不是倒退"
+      },
+      {
+        "scene": "open-4",
+        "label": "收官 · 简单清单（协议三步）"
+      },
+      {
+        "scene": "closing-1",
+        "label": "收束 & EP05 收官预告"
+      }
+    ],
+    "playlist_id": "",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "简单",
+      "见素抱朴",
+      "少则得",
+      "道德经五讲",
+      "哲学",
+      "认知",
+      "国学"
+    ],
+    "description_intro": "《道德经五讲》EP04：简单不是变少，是去掉多余之后还能站稳。",
+    "dynamic": "复杂往往是未完成的信号。打开观念黑盒，学辨认什么值得留下。",
+    "cover_image": "assets/covers/daodejing-ep04-cover.jpg",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": true,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.16,
+    "crossfade_sec": 4,
+    "fade_in_sec": 1.5,
+    "fade_out_sec": 4,
+    "switch_at_scene": "open-2"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 4,
+    "narration": ""
+  },
+  "scenes": [
+    {
+      "id": "intro-1",
+      "narration": "如果你做完第三期的知止清单，可能又会遇到一种新型的焦虑：我是不是变得太「简单」了？别人在扩军，你在收束；别人在追风口，你在说够了。这会触发一个更深的羞辱——看起来像在退步。老子在第十九章有一句很硬的话：见素抱朴，少私寡欲。翻译成今天的人话：回到未经雕饰的本质，少被私欲和花样牵着走。这不是 Minimalism 搬家，也不是把人生删到只剩白墙。这是《道德经五讲》的第四期。前三期我们谈地图会过期，谈敢删，谈辨认够了和在哪儿停。删和停之后，新问题来了：剩下那个东西，叫什么？",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_11_closing_gates.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "intro-2",
+      "narration": "很多人会把剩下的叫「空」或「少」。老子会把它叫「简单」——不是简陋，是去掉多余之后，还能站稳、还能持续、还能被你自己信得过的东西。我不会用「断舍离」或「极简生活」打发你。我要做的，是把「简单」从审美标签，升级成一条辨认标准：在你删了过期地图、减了身份堆叠、止了边际为负的追加之后，什么值得留下？什么是装饰？什么是核心？什么叫够好且可持续？这一期如果听对了，你不会更「少做」，你会更「做对」——做对一件事，比铺五条线更像前进。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_05_stones_in_clear_water.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-1",
+      "narration": "第一个论点：见素抱朴。为什么「简单」今天会被误会成「不努力」。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_01_uncarved_wood.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-1",
+      "narration": "先说清楚：简单不是「少要」。少要往往只是压抑。简单也不是「做减法」本身——你前三期已经在减了。简单是减完之后，辨认留下来的那个结构是否干净。今天有一个结构性陷阱：几乎所有系统奖励「看起来丰富」。简历要丰富，主页要丰富，工具栈要丰富，人生叙事要丰富。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_07_empty_bamboo_core.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-2",
+      "narration": "丰富给人安全感：我有很多选项，我就不会死路。但丰富有个隐藏代价——维护成本。每多一层装饰，就多一条要更新的线。你打开任何一个创作平台，都会看到同一套逻辑：加模板、加标签、加人设、加系列、加联动。这些东西单独看都能帮你「被看见」。",
+      "image": "assets/DaoDeJing/ep02_27_palace_eaves.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-3",
+      "narration": "合在一起，你会把一个本来可以讲清楚的想法，包成一百层包装纸。见素抱朴里的「素」，不是贫穷，是不再多涂一层粉。「朴」，不是原始落后，是还没被过度雕刻的状态。我想问你：把你现在最重要的一件事，用一句话讲给完全不懂的人听——你能讲清吗？",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_06_subtle_glow_stone.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-4",
+      "narration": "如果需要十个前提、五个 buzzword、三套框架才能讲清，不是事情复杂，是你被装饰绑架了。更隐蔽的是：很多「专业感」来自复杂度表演。PPT 页数越多越像认真，工具链越长越像内行，方法论越绕越像有深度。可老子会问：你是在把事情讲清楚，还是在用复杂保护自己不被追问？",
+      "image": "assets/DaoDeJing/ep02_29_palace_walls.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s1-5",
+      "narration": "怎么办？不是立刻删光。是先问：这一层，是为了更准确，还是为了显得更专业？如果是后者，它往往可以减。减完你会短暂不安——因为简单会暴露你真正相信什么。而暴露，恰恰是第四期要给你的礼物。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_02_kintsugi_bowl.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-2",
+      "narration": "第二个论点：少则得，多则惑。为什么选项越多，你越难真正得到。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_08_empty_wooden_bowl.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-1",
+      "narration": "「少则得，多则惑」在第二期我们聊欲望时触过。第四期要把它说透：迷惑不只是选不出来，更是你把「选」当成了进步本身。现代生活有一个幻觉：多保留几条路，总比赌注在一棵树上安全。于是你同时维护主业、副业、内容号、学习列、社交名片。每条路都有合理理由。合在一起，你却得不到任何一条路的深处。",
+      "image": "assets/DaoDeJing/ep02_32_pavilion_and_crashing_waves.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-2",
+      "narration": "人工智能把这个困境又放大一轮。以前加一个可能性要 months，现在加一个「平行人生版本」只要一个下午。你可以再开一个号，再建一个智能体，再套一个自动化，再克隆一个工作流。加法从未如此廉价。廉价到你会误以为：不抓紧多加几样，就是浪费时代。但道德经提醒你：得，不是拿到更多选项。得，是在关键处得到稳定回报。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_03_water_clock_stop.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-3",
+      "narration": "简单的人不是没野心。是把野心从「铺面」收回「深度」。我想讲一个你可能熟悉的场景：周末你本来只想整理一个项目，结果打开电脑，先更新三个插件，再学一个新功能，再比较五种模板，再改一遍个人简介。忙了一下午，核心项目几乎没动。这不是懒，这是「多则惑」的日常版——你的注意力被选项撕碎了。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_10_stalactite_drop.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s2-4",
+      "narration": "一个自检：过去三个月，你真正完成的、也愿意重看的产出，是一件还是一堆？如果是一堆，你可能在得「忙碌的感觉」。如果是一件，而且那一件比你想象中更「简单」，恭喜你，你已经摸到了「少则得」的门把手。接下来要做的，不是再减到零，而是保护那一件不被新的花样冲散。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_12_leaf_on_still_water.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-3",
+      "narration": "第三个论点：简单，为什么不是倒退，而是五讲链里最关键的一阶。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_09_open_door_to_courtyard.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-1",
+      "narration": "我们从小被训练：复杂等于专业，简单等于入门。所以当你按前三期做减法，旁人问「你现在在做什么」，如果你只能回答一件简单的事，会觉得像降级。老子不这么看。在他看来，复杂往往是未完成的信号——说明你还在堆叠，还没辨认核心。简单反而是难的路，因为你要拒绝多余。拒绝多余，就要拒绝很多看起来「有用」的机会。第二期谈删，第三期谈止，第四期谈留。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_04_stopped_footprints.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-2",
+      "narration": "留，比删和止更难。因为留，需要你说：这个够好了，我不靠再加点来证明自己。这跟 AI 时代尤其相关。当生成变得便宜，简单不再是「内容少」，而是判断清晰：什么该存在，什么不必存在。生产者的牢笼，最后一步不是继续生产，而是敢把产出收束到可理解、可重复、可托付的形态。你可以把它理解成：从「很多还行的版本」，走向「一个你信得过的版本」。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_03_stringless_guqin.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "s3-3",
+      "narration": "那个版本，可能句子更少，结构更直，看起来「没那么厉害」。但它能站住。这，就是简单。还有一层：简单让你可传承。复杂的东西往往只有你自己能维护——别人看不懂你的系统，也接不了你的摊子。简单的东西，反而容易交给时间、交给他人、交给下一版迭代。你不需要把人生删到只剩一件事。你需要的是：少数几件事，以简单形态活到足够久。久，比猛更稀缺。",
+      "image": "assets/DaoDeJing/ep04_realistic/ep04_04_twisted_vine.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "open-4",
+      "narration": "今天只带走一个协议。我们叫它：简单清单。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_17_tea_stain_void.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-1",
+      "narration": "在收束之前，把第四期和前三期的链接上。第一期辨认地图会过期。第二期辨认该删什么。第三期辨认该在哪里停。第四期辨认该留下什么——什么值得以简单形态长期存在。协议三步，配套地图脱钩、日损清单、知止清单。别在脑子里做。写下来。第一步，写下你现在最重要的一件事，用一句不讲 jargon 的话说明白。",
+      "image": "assets/DaoDeJing/ep01_v15_flat_rice_paper.png",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-2",
+      "narration": "如果写超过两行，先删修辞，再删框架，直到剩下主语和动词。第二步，列出维持这件事的「装饰层」——多余工具、面子项目、只为看起来在用功的习惯。只列三样。第三步，写一句「够好且可持续」的标准：到什么程度，你愿意停手打磨，转而让它服务真实的人？",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_05_abandoned_wealth.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "protocol-3",
+      "narration": "不是完美，是可持续。比如：这期视频不追爆款结构，但我愿意自己重看一遍。做完收起来。简单如果是表演——「看我多纯粹」——又会变成装饰。真正的简单，是私下能长期执行的形状。你会在第一周觉得「不够亮眼」。第三周可能会发现：同一个简单形状，开始产生复利。那就是简单站稳了。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_20_silent_bell.jpg",
+      "pause_after_sec": 0.35
+    },
+    {
+      "id": "closing-1",
+      "narration": "好，第四期到这里。我们说了三件事：见素抱朴，不是贫穷而是少涂粉；少则得，是把深度从铺面收回来；简单不是倒退，是删停之后还能站稳的形态。你不需要把人生删到只剩一件事。你只需要承认：继续用复杂证明自己，成本会越来越高。下一期，是《道德经五讲》的收官。我们会把五把钥匙串成一条可执行的链：从辨认地图，到敢删、知止、回到简单——最后问一个更狠的问题：你敢不敢只执一件事，把它走到足够深？如果你愿意把观念黑盒一点点打开，不妨把四期连起来看。我们第五期见。",
+      "image": "assets/DaoDeJing/ep03_realistic/ep03_15_bridge_into_mist.jpg",
+      "pause_after_sec": 0.35
+    }
+  ]
+}

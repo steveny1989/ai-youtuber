@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第62章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：大国下流"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "坐进此道"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch62-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道者万物之奥",
+      "哲学",
+      "第62章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十二章精解——万物之奥与坐进此道。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "万物之奥"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不善亦保"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道者万物之奥",
+      "哲学",
+      "第62章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十二章精解——万物之奥与坐进此道。",
+    "dynamic": "道者万物之奥——善人之宝，不善人之所保；坐进此道，为天下贵。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十一章讲「大国者下流」——大者宜为下，各得其所欲。第六十二章，老子回到道的本体：「道者，万物之奥；善人之宝，不善人之所保。」美言可以市，尊行可以加人；人之不善，何弃之有？虽有拱璧以先驷马，不如坐进此道。古之所以贵此道者何？不曰以求得，有罪以免邪？这一章，是道的「保险箱」逻辑：道收容一切，坐进比珠宝更贵。与第六十一章「以下」同脉：道在深处，不争表层。",
+      "image": "assets/DaoDeJing/道者万物之奥 - ch62 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：万物之奥、何弃之有，与坐进此道。",
+      "image": "assets/DaoDeJing/Plc 09 Imperial Seal - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「道者，万物之奥。」奥——幽深、密室、内核；万物之奥，不是万物之主，是万物得以成立的隐秘秩序。你看得见的是现象，道在现象背后，像根在土下。黑盒视角：别急着解释一切，先承认有个「奥」——你不知道的，不等于不存在。",
+      "image": "assets/DaoDeJing/Plc 03 Weapon Rack - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「善人之宝，不善人之所保。」善人——守道、有分寸的人，以道为宝；不善人——不是被道抛弃，而是仍被道「保」：尚有回旋、尚有转化、尚非绝境。何弃之有——为何丢弃？道不做人事局的终审法官，它给余地。组织里：制度要罚错，文化要留保——否则只剩恐惧，没有改错空间。",
+      "image": "assets/DaoDeJing/Court officials - ch - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「美言可以市，尊行可以加人。」美言——漂亮话能换市场、换流量；尊行——可敬的行为能加身于人——让人愿意跟随、信任。但老子马上转折：这些都不如道。市与加人，都在表层；道在深层，不靠修辞与表演。当代：爆款文案 vs 长期信用——本章逼你选后者为宝。",
+      "image": "assets/DaoDeJing/Wat 13 River Finding - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「虽有拱璧以先驷马，不如坐进此道。」拱璧、驷马——最高礼仪的献礼，象征权力与财富；坐进此道——安坐、内化、日日精进，比一次盛大献礼更贵。坐进不是收藏证书，是把道放进决策习惯：遇事先问「奥」在哪，再问「美言」要不要说。贵，在持续，不在排场。",
+      "image": "assets/DaoDeJing/Ancient Horse - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「古之所以贵此道者何？不曰以求得，有罪以免邪？」求得——求而不得时，道给你框架；有罪以免——做错事时，道给你改过与减轻的路径——不是无法律，是不绝望。故为天下贵——贵的是「兜底」与「回升」，不是奢侈品标签。与第六十一章「以下」合看：道在深处托住，表层的王才坐得稳。",
+      "image": "assets/DaoDeJing/Empty throne - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "基督教「浪子回头」的寓言，父亲仍接纳——与「不善人之所保」有通感。儒家「有教无类」，与何弃之有同向。斯宾诺莎：理解即自由——认识道，才从罪感中走出。老子与孔子同代——礼厚不如道厚。",
+      "image": "assets/DaoDeJing/Plc 11 Broken Beads - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。人才市场：一次失误就永不录用——是弃人，不是保人。坐进此道的企业：复盘改机制，不羞辱人格。美言可以市：少买「保证成功」的课，多买可验证的尊行。个人：拱璧时刻——大奖、高光——之后，能否回到日常坐进？道贵，在你能不能把高峰翻译成稳定的习惯。",
+      "image": "assets/DaoDeJing/Plc 07 Mirror Basin - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：写一张「道之宝」清单——不是目标墙，是三条不可卖的原则。对「不善」的自己：本周一次认错不甩锅，就是坐进。美言市：发圈前问——这话是卖形象，还是增信用？尊行加人：帮一个人成一件事，不求截图表扬。有罪以免：若你伤了人，先补救，再解释。",
+      "image": "assets/DaoDeJing/Palace walls - ch02 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，万物之奥：先敬未知。第二，不善亦保：留改错空间。第三，坐进贵于拱璧：日常内化胜过排场。第四，求得以免：道是兜底与回升。道者万物之奥——深处在托你。下一章，「为无为，事无事，味无味」——报怨以德，图难于其易。道之后，是行动方法论。",
+      "image": "assets/DaoDeJing/Plc 13 Rain Drainage - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "episode": 4,
+    "storyboard": "examples/storyboard-daodejing-ep04.json",
+    "note": "叙事节拍：make_episode.py 配图，排除 EP01–EP03 已用图"
+  },
+  "beats": [
+    { "id": "intro-1", "section": "intro", "summary": "知止后焦虑、见素抱朴", "keywords": ["简单", "见素抱朴", "知止", "第四期", "剩下"] },
+    { "id": "intro-2", "section": "intro", "summary": "简单不是极简标签、辨认标准", "keywords": ["断舍离", "装饰", "核心", "够好", "可持续"] },
+    { "id": "open-1", "section": "open-1", "summary": "见素抱朴、简单被误会", "keywords": ["见素抱朴", "不努力", "论点", "第十九章"] },
+    { "id": "s1-1", "section": "section-1", "summary": "简单不是少要、结构要干净", "keywords": ["结构", "干净", "丰富", "维护", "装饰"] },
+    { "id": "s1-2", "section": "section-1", "summary": "系统奖励看起来丰富", "keywords": ["简历", "工具栈", "模板", "标签", "包装"] },
+    { "id": "s1-3", "section": "section-1", "summary": "素与朴、一句话讲清", "keywords": ["素", "朴", "雕刻", "jargon", "讲清"] },
+    { "id": "s1-4", "section": "section-1", "summary": "专业感来自复杂表演", "keywords": ["专业", "PPT", "方法论", "准确", "暴露"] },
+    { "id": "s1-5", "section": "section-1", "summary": "减装饰、暴露真正相信什么", "keywords": ["减", "不安", "相信", "礼物", "清楚"] },
+    { "id": "open-2", "section": "open-2", "summary": "少则得多则惑", "keywords": ["少则得", "多则惑", "选项", "论点"] },
+    { "id": "s2-1", "section": "section-2", "summary": "多条路幻觉、得不到深处", "keywords": ["主业", "副业", "名片", "深处", "理由"] },
+    { "id": "s2-2", "section": "section-2", "summary": "AI放大平行人生版本", "keywords": ["AI", "智能体", "自动化", "工作流", "廉价"] },
+    { "id": "s2-3", "section": "section-2", "summary": "得=稳定回报、野心收深度", "keywords": ["回报", "野心", "深度", "铺面", "聚焦"] },
+    { "id": "s2-4", "section": "section-2", "summary": "周末被选项撕碎、一件产出", "keywords": ["插件", "模板", "忙碌", "重看", "门把手"] },
+    { "id": "open-3", "section": "open-3", "summary": "简单不是倒退", "keywords": ["专业", "入门", "堆叠", "论点"] },
+    { "id": "s3-1", "section": "section-3", "summary": "复杂是未完成、留比删难", "keywords": ["未完成", "留", "删", "止", "机会"] },
+    { "id": "s3-2", "section": "section-3", "summary": "AI时代简单=判断清晰", "keywords": ["生成", "生产者", "收束", "信得过", "版本"] },
+    { "id": "s3-3", "section": "section-3", "summary": "简单可传承、久比猛稀缺", "keywords": ["传承", "维护", "迭代", "久", "站稳"] },
+    { "id": "open-4", "section": "open-4", "summary": "简单清单协议", "keywords": ["简单", "清单", "协议"] },
+    { "id": "protocol-1", "section": "protocol", "summary": "四期链条、一句讲明白", "keywords": ["地图", "日损", "知止", "jargon", "动词"] },
+    { "id": "protocol-2", "section": "protocol", "summary": "列三样装饰层", "keywords": ["装饰", "工具", "面子", "三样"] },
+    { "id": "protocol-3", "section": "protocol", "summary": "够好可持续、复利", "keywords": ["可持续", "停手", "复利", "私下"] },
+    { "id": "closing-1", "section": "closing", "summary": "收束 + EP05收官预告", "keywords": ["第五期", "执一", "深", "四件事", "简单"] }
+  ]
+}

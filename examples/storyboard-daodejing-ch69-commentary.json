@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第69章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：不争之德"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "轻敌"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch69-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不敢为主哀者胜",
+      "哲学",
+      "第69章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十九章精解——为客退尺、轻敌丧宝与哀兵。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "哀者胜"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "退尺不进寸"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不敢为主哀者胜",
+      "哲学",
+      "第69章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十九章精解——为客退尺、轻敌丧宝与哀兵。",
+    "dynamic": "用兵有言：不敢为主而为客，不敢进寸而退尺——抗兵相加，哀者胜矣。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十八章讲「善胜敌者不与」——不争之德，用人之力。第六十九章，老子引「用兵有言」：「吾不敢为主而为客，不敢进寸而退尺。」是谓行无行，攘无臂，扔无敌，执无兵。祸莫大于轻敌，轻敌几丧吾宝。故抗兵相加，哀者胜矣。这一章，是战争黑盒：真用兵者，像没用兵——退、客、哀，不是怯，是保全三宝。与第六十七章「慈以卫」直接扣环。",
+      "image": "assets/DaoDeJing/剑柄 - ch69 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：为客退尺、轻敌丧宝，与哀者胜。",
+      "image": "assets/DaoDeJing/泥泞中 - ch69 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「吾不敢为主而为客。」为主——主动挑衅、主动开战、主动定义敌人；为客——应势、守势、让对方先暴露结构问题。不敢——不是不能，是知代价而不轻启。黑盒读法：主客颠倒处，常是悲剧起点——你以为在主导，其实在耗能。",
+      "image": "assets/DaoDeJing/哀兵必胜 - ch69 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「不敢进寸而退尺。」进寸——贪小便宜、抢一步地盘；退尺——宁可让一步空间，换整体安全。与第六十六章身后、第六十七章不敢先同脉——退，是战略留白。商业并购、邻里纠纷、家庭争吵——进寸者往往失尺、失里。",
+      "image": "assets/DaoDeJing/一滴清澈的水珠落下 - ch04 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「是谓行无行，攘无臂，扔无敌，执无兵。」四组「无」——行似不行，举手似未举，投似无的，执似无兵。不是玄学，是「不露刃」：你让对方看不见你的全力，也看不见你的杀意。最高威慑，常是「不必出手」。",
+      "image": "assets/DaoDeJing/一片秋叶缓缓飘落 - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「祸莫大于轻敌，轻敌几丧吾宝。」轻敌——低估对手、高估自己、把复杂系统当笑话；丧吾宝——慈、俭、不敢先全丢——怒而进、奢而扩、先而炫。与第六十七章「舍三宝死矣」战场版：轻敌是三宝的粉碎机。",
+      "image": "assets/DaoDeJing/一片纯白雪原中 - ch03 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「故抗兵相加，哀者胜矣。」抗兵相加——两军硬碰；哀者胜——哀，不是哭，是知杀伐之重、不得已而为之——心有戚戚，手才稳。骄兵必败，哀兵有底线——胜后不忘其代价。全章收束：客、退、无、戒轻、哀——给第七十章「言易知行难」过渡：知兵之难，才知行道之难。哀者胜，胜的是可持续与可修复，不是胜在羞辱对手。",
+      "image": "assets/DaoDeJing/三十辐共一毂 - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "孙子「先为不可胜，以待敌之可胜」——为客退尺。老子与《易经》「谦」卦——退尺非败。西方「克制武力」传统——战争是最后手段。日本「哀」美学——物哀与知无常，非软弱。",
+      "image": "assets/DaoDeJing/三十辐共一毂 - ch11 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。竞争：轻敌——忽视小对手、忽视监管、忽视用户反弹——三宝尽失。改法：为客——先摸清规则与地形；退尺——不抢每一个热点。冲突：家庭争吵「进寸」——翻旧账赢一句，输一年和气。哀者——知伤害之重，才肯停手。用兵有言，不是教你好战，是教你不得已时少损。",
+      "image": "assets/DaoDeJing/不言之教 - ch17 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：列出你正在轻敌的一件事——健康、关系、或技能——写一条「退尺」方案。为客练习：下次争执，先听满对方三分钟。哀练习：胜利或占上风时，写一句「代价是什么」。轻敌练习：把对手/困难写三条你不愿承认的长处。退尺不是认输，是给系统留修复与回旋窗口。",
+      "image": "assets/DaoDeJing/丝帘 - ch02 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，不敢为主：不轻启战端。第二，退尺不进寸：让空间换安全。第三，轻敌丧宝：骄是三宝之敌。第四，哀者胜：知重而行，胜而有度。用兵有言——老子并不美化战争，只教不得已时的减损。下一章，「吾言甚易知，甚易行」——被褐怀玉，知我者希。六十九讲兵，七十讲言与行。",
+      "image": "assets/DaoDeJing/Hemp screen - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

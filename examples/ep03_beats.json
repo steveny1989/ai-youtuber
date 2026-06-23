@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "episode": 3,
+    "storyboard": "examples/storyboard-daodejing-ep03.json",
+    "note": "叙事节拍：make_episode.py 自动配图，排除 EP01/EP02 已用图"
+  },
+  "beats": [
+    { "id": "intro-1", "section": "intro", "summary": "删完之后新问题、知足知止", "keywords": ["删", "够了", "知足", "知止", "第三期"] },
+    { "id": "intro-2", "section": "intro", "summary": "停在哪、不是躺平", "keywords": ["停", "躺平", "崩溃", "辨认", "边界"] },
+    { "id": "open-1", "section": "open-1", "summary": "知足不辱知止不殆", "keywords": ["知足不辱", "知止不殆", "第四十四章", "论点"] },
+    { "id": "s1-1", "section": "section-1", "summary": "永远差一步的算法", "keywords": ["差一步", "算法", "完整", "消费", "追"] },
+    { "id": "s1-2", "section": "section-1", "summary": "知足不是少要、是辨认够了", "keywords": ["知足", "够了", "辨认", "羞辱", "辱"] },
+    { "id": "s1-3", "section": "section-1", "summary": "收入粉丝技能永远差一线", "keywords": ["收入", "粉丝", "技能", "一线", "目标"] },
+    { "id": "s1-4", "section": "section-1", "summary": "把羞辱当成动力", "keywords": ["羞辱", "动力", "落后", "同辈", "比较"] },
+    { "id": "s1-5", "section": "section-1", "summary": "知足是边界不是终点", "keywords": ["边界", "终点", "稳定", "清楚"] },
+    { "id": "open-2", "section": "open-2", "summary": "知止：在还想要时敢停", "keywords": ["知止", "敢停", "止损", "论点"] },
+    { "id": "s2-1", "section": "section-2", "summary": "再做一个项目、再开一条线", "keywords": ["项目", "一条线", "再", "FOMO", "风口"] },
+    { "id": "s2-2", "section": "section-2", "summary": "知止不是放弃、是停止堆叠", "keywords": ["放弃", "堆叠", "停止", "专注"] },
+    { "id": "s2-3", "section": "section-2", "summary": "持而盈之不如其已", "keywords": ["持而盈之", "不如其已", "满", "溢出"] },
+    { "id": "s2-4", "section": "section-2", "summary": "止损是信息不是失败", "keywords": ["止损", "失败", "信息", "更新"] },
+    { "id": "open-3", "section": "open-3", "summary": "停下来为什么不崩溃", "keywords": ["停下来", "崩溃", "空", "论点"] },
+    { "id": "s3-1", "section": "section-3", "summary": "把停当成道德失败", "keywords": ["道德", "失败", "懒", "躺平"] },
+    { "id": "s3-2", "section": "section-3", "summary": "前两期减法链、空是位置", "keywords": ["减法", "空", "位置", "地图", "日损"] },
+    { "id": "s3-3", "section": "section-3", "summary": "知止让你更准、更深", "keywords": ["更准", "更深", "聚焦", "平静"] },
+    { "id": "open-4", "section": "open-4", "summary": "知止清单协议", "keywords": ["知止", "清单", "协议"] },
+    { "id": "protocol-1", "section": "protocol", "summary": "三步、一条正在追加的事", "keywords": ["三步", "追加", "写下"] },
+    { "id": "protocol-2", "section": "protocol", "summary": "够了的标准、最坏结果", "keywords": ["够了", "标准", "最坏", "恐惧"] },
+    { "id": "protocol-3", "section": "protocol", "summary": "本周知止、私下校准", "keywords": ["本周", "私下", "校准", "停"] },
+    { "id": "closing-1", "section": "closing", "summary": "收束 + EP04简单预告", "keywords": ["简单", "第四期", "三件事", "够了"] }
+  ]
+}

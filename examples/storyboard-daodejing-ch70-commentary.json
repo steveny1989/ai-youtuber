@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第70章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：哀者胜"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "知行合一"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch70-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "吾言甚易知莫能行",
+      "哲学",
+      "第70章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十章精解——言易知行难与被褐怀玉。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "被褐怀玉"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "言有宗"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "吾言甚易知莫能行",
+      "哲学",
+      "第70章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十章精解——言易知行难与被褐怀玉。",
+    "dynamic": "吾言甚易知，甚易行，天下莫能知莫能行——圣人被褐怀玉。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十九章讲「用兵有言」——不敢为主，哀者胜矣。第七十章，老子叹世：「吾言甚易知，甚易行。天下莫能知，莫能行。」言有宗，事有君。夫唯无知，是以不我知。知我者希，则我者贵。是以圣人被褐怀玉。这一章，是传播黑盒：道不难，难在人不肯做；圣人穿粗衣，怀里揣玉——不显，故贵。八十一讲进入收官段：前面讲位、德、兵，这里讲「为何懂了还不行」。",
+      "image": "assets/DaoDeJing/被褐怀玉 - ch70 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：言易知行难、言有宗，与被褐怀玉。",
+      "image": "assets/DaoDeJing/Plc 06 Stone Base Si - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「吾言甚易知，甚易行。天下莫能知，莫能行。」易知易行——逻辑不绕、下手可做；莫能知、莫能行——不是智力不够，是利益、习惯、身份挡在路上。观念黑盒常遇此悖论：听众点头，转身照旧——知是知，行是另一套系统。",
+      "image": "assets/DaoDeJing/丝线在暗光中交错编织 - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「言有宗，事有君。」言有宗——话有根、有主线，不是碎片鸡汤；事有君——事有主、有优先级，不是忙乱。你「知而不行」，常因言无宗、事无君——道理飘在空中，生活里没有挂点。与第六十四章「慎终如始」合看：宗与君，是锚。",
+      "image": "assets/DaoDeJing/Plc 16 Snowy Dougong - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「夫唯无知，是以不我知。」无知——世人自以为知，实则抓标签、抓套路；不我知——所以不懂老子在说什么。不是老子玄，是听者只想找「肖」的、好卖的、好晒的——与第六十七章「似不肖」对照。你求速成，就听不懂「俭」与「后」。",
+      "image": "assets/DaoDeJing/丝麻 - ch04 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「知我者希，则我者贵。」知我者希——真懂的人少；则我者贵——所以珍贵，不在粉丝量，在识者。黑盒读法：不必追求人人知——希，是筛选，不是失败。贵，是深度关系的质量，不是流量的价格。",
+      "image": "assets/DaoDeJing/Pure silk circle - c - 通用.png",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「是以圣人被褐怀玉。」被褐——穿粗布，外表朴素；怀玉——怀里揣美玉，内里有货。不显，故不招贼；有货，故不虚。全章收束：易知易行而莫能行——因人爱褐外之饰，不爱怀玉。圣人示范：先做行，再做言；先怀玉，再被褐。给第七十一章「知不知」铺路。褐是选择，玉是修炼——次序反了，就只剩表演与焦虑。",
+      "image": "assets/DaoDeJing/Pavilion empty scrol - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "王阳明「知行合一」——直击莫能行。耶稣「窄门」——知者希。庄子「大巧若拙」——被褐怀玉。老子与孔子「君子不器」——不肖、不武、不显的同向。",
+      "image": "assets/DaoDeJing/大巧若拙 - ch45 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。学习：收藏不等于知，打卡不等于行——言无宗、事无君。改法：一条道理配一个本周动作。社交：人设越华丽，越难怀玉——被褐，是保护内核。创作：追求爆款肖象，内容就细了——与第六十七章呼应。团队：少开会多交付，易行自证。莫能行，常因你要的是被看见，不是被改变。",
+      "image": "assets/DaoDeJing/为道日损 - ch48 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：选本章一句——写下「宗」（为何）与「君」（本周一事）。被褐练习：一天不发成就型朋友圈，只做一件静事。怀玉练习：把真正重要却不秀的技能，练三十分钟。知行练习：今晚只做一件事，做完再刷手机。行一寸，胜过知千里。",
+      "image": "assets/DaoDeJing/云雾缭绕的远山层叠 - ch01 - 通用.png",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，易知易行而莫能：挡路的是习惯与利益。第二，言有宗、事有君：道理要挂到生活锚点。第三，知我者希则贵：深度胜过广度。第四，被褐怀玉：外朴内实，先玉后褐。吾言甚易知——难不在耳朵，在手与心。下一章，「知不知，上」——不知知，病。七十讲行，七十一讲知的层级。八十一讲，进入最后十一讲。",
+      "image": "assets/DaoDeJing/亭中学者临水而坐 - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

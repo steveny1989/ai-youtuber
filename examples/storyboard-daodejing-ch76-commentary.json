@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第76章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：民之饥"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "木强则折"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch76-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "强大处下柔弱处上",
+      "哲学",
+      "第76章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十六章精解——生柔死坚、兵强木强与柔弱处上。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "柔弱者生"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "兵强不胜"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "强大处下柔弱处上",
+      "哲学",
+      "第76章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十六章精解——生柔死坚、兵强木强与柔弱处上。",
+    "dynamic": "人之生也柔弱，其死也坚强——故坚强者死之徒，柔弱者生之徒。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第七十五章讲「民之饥、难治、轻死」——根在上食税多、有为、求生之厚。第七十六章，老子回到生命本体：「人之生也柔弱，其死也坚强。」万物草木之生也柔脆，其死也枯槁。故坚强者死之徒，柔弱者生之徒。兵强则不胜，木强则兵。强大处下，柔弱处上。这一章，是生机黑盒：硬，常是枯槁前兆；柔，是活着的姿态。八十一讲最后六讲，从诊断切回生命律。若你感到系统正在变硬，这一章是预警，也是处方。",
+      "image": "assets/DaoDeJing/木强则折 - ch76 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：柔脆枯槁、兵强木强，与柔弱处上。",
+      "image": "assets/DaoDeJing/Wooden window - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「人之生也柔弱，其死也坚强。」生——婴儿、新芽、软、可塑；死——僵、硬、不可再变。不是鼓励软弱，是描述生命曲线：能弯的，活；只会顶，断。身体、关系、组织皆然——柔，是留余地；坚，是封死更新。",
+      "image": "assets/DaoDeJing/婴儿 - ch55 (1) - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「万物草木之生也柔脆，其死也枯槁。」柔脆——含水、含可能性；枯槁——失水、失连接、只剩壳。春草与枯枝，同一植物的两端。系统「枯槁」信号：流程硬化、语言硬化、只许一种答案——离死之徒不远。",
+      "image": "assets/DaoDeJing/Water carving rock - - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「故坚强者死之徒，柔弱者生之徒。」死之徒——走向封闭、 brittle；生之徒——保持流动、学习、可修复。黑盒读法：把「坚强」当美德崇拜，常误把 brittle 当 strength。真强，含柔；假强，只剩硬。",
+      "image": "assets/DaoDeJing/Resting brush - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以兵强则不胜，木强则兵。」兵强——武力至上、处处用压；则不胜——长期必败，因激发对抗、耗损合法性。木强则兵——树太硬直，易成兵器、易折，风一来就断。与第六十八章不武、第六十九章哀兵——同链。个人层面：语气兵强、态度木强，也会把关系折成兵器。",
+      "image": "assets/DaoDeJing/Plc 03 Weapon Rack - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「强大处下，柔弱处上。」强大处下——真正的力量，在承载、在下、在接纳；柔弱处上——表面软，却在时间中占上风。全章收束：生柔死坚、兵强不胜、木强则折——给第七十七章「张弓」铺路：天道抑高举低，损有余补不足。收官六讲第一讲：先问自己是活还是枯，再问自己是弓还是弦。",
+      "image": "assets/DaoDeJing/Dead wood new sprout - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "生物「幼态持续」——柔与可塑。武术「以柔克刚」——直接对应本章。耶稣「虚心的人有福了」——柔弱处上。老子与庄子「庖丁解牛」——不硬碰，顺结构。",
+      "image": "assets/DaoDeJing/Empty robe - ch02 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。组织：文化「坚强」——不许示弱、不许改口——枯槁管理。改法：留柔接口——复盘、试错、弹性目标。个人：身体僵硬、情绪僵硬、观点僵硬——做一件让系统「含水」的事：睡足、道歉、改方案。木强则折，人也一样。收官段第一课：先活，再赢。",
+      "image": "assets/DaoDeJing/Stone water - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：找一处你「太硬」——对家人、对同事、对自己——本周软一寸。柔脆练习：听反对意见不立刻反驳。枯槁自检：你的项目是否只剩流程壳？若有，删一条无效硬规则。弯，不是输；弯，是为了不断续命而已。",
+      "image": "assets/DaoDeJing/Lamp and bowl - ch02 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，生柔死坚：能弯才久。第二，死徒生徒：brittle 非 strength。第三，兵强不胜：压久必反。第四，强大处下：真力在承载。柔弱者生之徒——八十一讲从硬回到活。下一章，「天之道，其犹张弓与」——损有余而补不足。七十六讲生，七十七讲天道的平衡。记住：枯槁前，先学会弯。",
+      "image": "assets/DaoDeJing/Scattered stalks - c - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

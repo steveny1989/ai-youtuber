@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "episode": 1,
+    "storyboard": "examples/storyboard-daodejing-ep01.json",
+    "note": "叙事节拍：匹配时与 ep01_image_catalog.json 打分，每张图仅用一次"
+  },
+  "beats": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "summary": "人生计划 vs 真正想要的生活",
+      "keywords": [
+        "人生计划",
+        "旧地图",
+        "努力",
+        "操作系统",
+        "人工智能",
+        "道",
+        "地图"
+      ]
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "summary": "带走问题而非口号",
+      "keywords": [
+        "问题",
+        "口号",
+        "五讲",
+        "钥匙",
+        "更多",
+        "更对"
+      ]
+    },
+    {
+      "id": "open-1",
+      "section": "open-1",
+      "summary": "道可道非常道",
+      "keywords": [
+        "道可道",
+        "非常道",
+        "模板",
+        "说死",
+        "笔记"
+      ]
+    },
+    {
+      "id": "s1-1",
+      "section": "section-1",
+      "summary": "三年计划有没有改变命运",
+      "keywords": [
+        "计划",
+        "命运",
+        "问题",
+        "不舒服",
+        "清醒"
+      ]
+    },
+    {
+      "id": "s1-2",
+      "section": "section-1",
+      "summary": "抓新地图、打卡、假安全",
+      "keywords": [
+        "地图",
+        "课程",
+        "模板",
+        "人工智能",
+        "打卡",
+        "算法",
+        "安全"
+      ]
+    },
+    {
+      "id": "s1-3",
+      "section": "section-1",
+      "summary": "地图是别人画的",
+      "keywords": [
+        "别人",
+        "父母",
+        "平台",
+        "导航",
+        "语音",
+        "到家"
+      ]
+    },
+    {
+      "id": "s1-4",
+      "section": "section-1",
+      "summary": "拐杖长进肉里、偏离即失败",
+      "keywords": [
+        "拐杖",
+        "计划",
+        "牺牲",
+        "偏离",
+        "道德",
+        "维护"
+      ]
+    },
+    {
+      "id": "s1-5",
+      "section": "section-1",
+      "summary": "地图有保质期、抬头看路",
+      "keywords": [
+        "保质期",
+        "扔掉",
+        "抬头",
+        "看路",
+        "不确定",
+        "生存"
+      ]
+    },
+    {
+      "id": "open-2",
+      "section": "open-2",
+      "summary": "上善若水论点提出",
+      "keywords": [
+        "上善若水",
+        "水",
+        "适应",
+        "策略",
+        "第二节"
+      ]
+    },
+    {
+      "id": "s2-1",
+      "section": "section-2",
+      "summary": "拆误会：不是佛系人设",
+      "keywords": [
+        "佛系",
+        "人设",
+        "焦虑",
+        "内卷",
+        "力学"
+      ]
+    },
+    {
+      "id": "s2-2",
+      "section": "section-2",
+      "summary": "不执着形状、身份焊死",
+      "keywords": [
+        "形状",
+        "容器",
+        "身份",
+        "焊死",
+        "碎",
+        "环境"
+      ]
+    },
+    {
+      "id": "s2-3",
+      "section": "section-2",
+      "summary": "处下、穿石、不争高度",
+      "keywords": [
+        "低处",
+        "穿石",
+        "缝",
+        "硬拧",
+        "ego"
+      ]
+    },
+    {
+      "id": "s2-4",
+      "section": "section-2",
+      "summary": "不争面子、精力管理",
+      "keywords": [
+        "不争",
+        "面子",
+        "争论",
+        "排行榜",
+        "适应",
+        "赌气"
+      ]
+    },
+    {
+      "id": "open-3",
+      "section": "open-3",
+      "summary": "人工智能生产一切反而更空",
+      "keywords": [
+        "人工智能",
+        "生产",
+        "空",
+        "伏笔",
+        "第三节"
+      ]
+    },
+    {
+      "id": "s3-1",
+      "section": "section-3",
+      "summary": "生产者赛道、堆叠输出",
+      "keywords": [
+        "生产者",
+        "输出",
+        "更新",
+        "堆",
+        "替代",
+        "证明"
+      ]
+    },
+    {
+      "id": "s3-2",
+      "section": "section-3",
+      "summary": "牢笼、堆叠变便宜",
+      "keywords": [
+        "牢笼",
+        "堆",
+        "便宜",
+        "模型",
+        "稀缺"
+      ]
+    },
+    {
+      "id": "s3-3",
+      "section": "section-3",
+      "summary": "转向判断者、十分钟提问",
+      "keywords": [
+        "判断",
+        "品味",
+        "取舍",
+        "停",
+        "十分钟",
+        "黑盒",
+        "直面"
+      ]
+    },
+    {
+      "id": "open-4",
+      "section": "open-4",
+      "summary": "地图脱钩练习",
+      "keywords": [
+        "协议",
+        "地图",
+        "脱钩",
+        "练习"
+      ]
+    },
+    {
+      "id": "protocol-1",
+      "section": "protocol",
+      "summary": "五讲减法链",
+      "keywords": [
+        "五讲",
+        "减法",
+        "知足",
+        "知止",
+        "简单"
+      ]
+    },
+    {
+      "id": "protocol-2",
+      "section": "protocol",
+      "summary": "三步协议写纸条",
+      "keywords": [
+        "地图",
+        "恐惧",
+        "方向感",
+        "纸条",
+        "校准",
+        "私下"
+      ]
+    },
+    {
+      "id": "protocol-3",
+      "section": "protocol",
+      "summary": "扔掉过期地图的瞬间",
+      "keywords": [
+        "道",
+        "扔掉",
+        "过期",
+        "转弯",
+        "水"
+      ]
+    },
+    {
+      "id": "closing-1",
+      "section": "closing",
+      "summary": "三件事收束 + 第二期预告",
+      "keywords": [
+        "地图",
+        "水",
+        "牢笼",
+        "为道日损",
+        "删",
+        "收藏",
+        "第二期"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第49章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：日损"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "空芯"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch49-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "圣人常无心",
+      "哲学",
+      "第49章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十九章精解——无心、德善德信与空芯领导。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "无心善信"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "空芯领导力"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "圣人常无心",
+      "哲学",
+      "第49章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十九章精解——无心、德善德信与空芯领导。",
+    "dynamic": "圣人常无心，以百姓心为心——亦善亦信，歙歙孩之。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十八章讲「为道日损」——损到无为无不为。第四十九章，老子写圣人与百姓的关系：「圣人常无心，以百姓心为心。善者，吾善之；不善者，吾亦善之；德善。信者，吾信之；不信者，吾亦信之；德信。」圣人在天下，歙歙焉，为天下浑其心，百姓皆注其耳目，圣人皆孩之。这一章，是「空芯领导力」：心不定死，善信不挑人，百姓反而能归。",
+      "image": "assets/DaoDeJing/百姓心 - ch49 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：无心、善信不二、歙歙与孩之。",
+      "image": "assets/DaoDeJing/众生行 - ch49 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「圣人常无心，以百姓心为心。」常无心，不是没感情，是不固执一个「我认定的正确」。以百姓心为心——听场，不只用脑。领导若只推自己的 KPI，不管一线痛，就是有心过满，百姓心进不来。空芯，才装得下真实反馈。",
+      "image": "assets/DaoDeJing/同源 - ch49 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「善者，吾善之；不善者，吾亦善之；德善。」对善的，善；对不善的，亦善——不是纵容恶，是不把「善」当成只给好人的奖励机制。德善，是善成为德性本身，不随对方表现开关。团队里若「只有乖才有资源」，德善就断了，人人表演善。",
+      "image": "assets/DaoDeJing/刺客 - ch36 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「信者，吾信之；不信者，吾亦信之；德信。」信与不信，皆信——不是 naive，是信作为默认协议，不随怀疑即时撤回。德信，是信成为环境，不是交易。你信一次、被辜负、立刻全员不信任——德信没有积累。亦信之，是边界内仍给修复缝，不是无底线。",
+      "image": "assets/DaoDeJing/Wat 02 Thawing River - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「圣人在天下，歙歙焉，为天下浑其心。」歙歙，收敛、谨慎、不抢 spotlight。为天下浑其心——把心的边界搅浑？是让「我心」与「天下心」少硬分隔，系统才一体。领导抢戏，百姓的心就分裂：上面一套，下面一套。",
+      "image": "assets/DaoDeJing/Plc 04 Midnight Cour - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「百姓皆注其耳目，圣人皆孩之。」百姓注耳目——注意力、期待，都朝向圣人。圣人皆孩之——把百姓当孩，不是幼稚化侮辱，是少算计、多护持，像对孩那样不预设立场。权力越大，越要孩之：少恐吓，多护短，多给成长缝。",
+      "image": "assets/DaoDeJing/十八盘 - 通用 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "孔子——中国思想家——讲「己所不欲，勿施于人」，与以百姓心为心同向：换位，不是口号。卡尔·罗杰斯——美国心理学家——「无条件积极关注」，接近亦善之、亦信之——关系里先给环境，再给条件。西方 servant leadership，服务式领导，歙歙焉、孩之，都是降 ego、升场域。",
+      "image": "assets/DaoDeJing/Pavilion and crashin - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。舆论里「好人奖励、坏人取消」二元，与德善德信相反——善信变成开关，不是德。平台算法只推「乖用户」，也是有心过满。好管理者：听一线再定策，不信谣但给申诉缝——亦信之。父母若只奖励「表现好」，孩子学会表演，不是德善。空芯领导，是留出百姓心进来的带宽。",
+      "image": "assets/DaoDeJing/午夜石弄 - 通用 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你对人是否「只有当我认可你，我才善/信」？德善德信，是减少关系里的条件开关。亦善之、亦信之，有边界——不是接受伤害，是不预先把人判死刑。歙歙焉：少抢对话中心，多浑心——听听对方真正怕什么。皆孩之：对新人、对犯错的人，留成长缝，比羞辱更德。",
+      "image": "assets/DaoDeJing/华丽官服被脱下搭在椅上 - ch09 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，常无心：空芯，以百姓心为心。第二，德善：善不随表现开关。第三，德信：信是环境，不是一次交易。第四，歙歙孩之：收敛自我，护持场域。无心、亦善、亦信——德在，人不散。下一章，「出生入死」——十有三，善摄生无死地。",
+      "image": "assets/DaoDeJing/厚重的黑色冰层剧烈爆裂 - ch15 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "episode": 5,
+    "storyboard": "examples/storyboard-daodejing-ep05.json",
+    "note": "收官期 · 执一合链"
+  },
+  "beats": [
+    { "id": "intro-1", "section": "intro", "summary": "四张练习、抱一、五把钥匙", "keywords": ["抱一", "钥匙", "收官", "执一", "五讲"] },
+    { "id": "intro-2", "section": "intro", "summary": "执一不是成功学、押一处", "keywords": ["专注", "深耕", "优先级", "内耗", "重看"] },
+    { "id": "open-1", "section": "open-1", "summary": "五讲是减法链不是菜单", "keywords": ["减法链", "菜单", "论点", "整合"] },
+    { "id": "s1-1", "section": "section-1", "summary": "四期回顾、少堆叠多对齐", "keywords": ["地图", "日损", "知止", "简单", "对齐"] },
+    { "id": "s1-2", "section": "section-1", "summary": "知道但不执等于没走", "keywords": ["知道", "执", "十条线", "最后一环"] },
+    { "id": "s1-3", "section": "section-1", "summary": "清理硬盘比喻、选进程", "keywords": ["硬盘", "算力", "进程", "启动"] },
+    { "id": "s1-4", "section": "section-1", "summary": "不选则清理白做", "keywords": ["清理", "风口", "标签", "白做"] },
+    { "id": "s1-5", "section": "section-1", "summary": "收官是启动课", "keywords": ["收官", "启动", "站得住"] },
+    { "id": "open-2", "section": "open-2", "summary": "执一比多元化难", "keywords": ["执一", "多元化", "斜杠", "论点"] },
+    { "id": "s2-1", "section": "section-2", "summary": "分散当借口、多处浅", "keywords": ["分散", "副业", "两个号", "浅"] },
+    { "id": "s2-2", "section": "section-2", "summary": "维护十年、最低必要成本", "keywords": ["维护", "十年", "成本", "根深蒂固"] },
+    { "id": "s2-3", "section": "section-2", "summary": "拿掉副标签那一件事", "keywords": ["副标签", "三十秒", "减法"] },
+    { "id": "s2-4", "section": "section-2", "summary": "怕选错、不选也是选择", "keywords": ["选错", "幻觉", "浅", "对冲"] },
+    { "id": "open-3", "section": "open-3", "summary": "足够深是什么样子", "keywords": ["深度", "足够深", "论点"] },
+    { "id": "s3-1", "section": "section-3", "summary": "深不是卷、时间站你这边", "keywords": ["卷", "复利", "三年", "体系"] },
+    { "id": "s3-2", "section": "section-3", "summary": "说得短听得懂、一口井", "keywords": ["井", "地图", "欺骗自己", "辨认"] },
+    { "id": "s3-3", "section": "section-3", "summary": "AI时代深度、重复是语法", "keywords": ["AI", "识别", "重复", "主轴"] },
+    { "id": "open-4", "section": "open-4", "summary": "执一合链协议", "keywords": ["执一", "合链", "协议"] },
+    { "id": "protocol-1", "section": "protocol", "summary": "四期各取一词连成优先级", "keywords": ["四张纸", "优先级", "一句"] },
+    { "id": "protocol-2", "section": "protocol", "summary": "九十天执一对象70%注意力", "keywords": ["九十天", "执一", "百分之七十"] },
+    { "id": "protocol-3", "section": "protocol", "summary": "深度标志两个信号", "keywords": ["深度", "信号", "变忙", "绑在一起"] },
+    { "id": "closing-1", "section": "closing", "summary": "五讲链收束、致谢", "keywords": ["地图", "日损", "知止", "简单", "执一", "后会有期"] }
+  ]
+}

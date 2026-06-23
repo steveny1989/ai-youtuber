@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第63章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：万物之奥"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "图难于易"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch63-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "为无为报怨以德",
+      "哲学",
+      "第63章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十三章精解——为无为与图难于易。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "为无为"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "报怨以德"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "为无为报怨以德",
+      "哲学",
+      "第63章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十三章精解——为无为与图难于易。",
+    "dynamic": "为无为，事无事——报怨以德，图难于其易，圣人犹难之。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十二章讲「道者万物之奥」——坐进此道，为天下贵。第六十三章，老子给操作层：「为无为，事无事，味无味。」大小多少，报怨以德；图难于其易，为大于其细。圣人终不为大，故能成其大。轻诺必寡信，多易必多难。这一章，是「从小处做」的黑盒：无为不是不动，是不乱动；难事作于易，大事作于细。与第六十二章「坐进」同脉：贵，在日日小进。",
+      "image": "assets/DaoDeJing/报怨以德 - ch63 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：为无为、报怨以德，与图难于易。",
+      "image": "assets/DaoDeJing/一根极细、看似柔弱的丝线 - ch63 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「为无为，事无事，味无味。」为无为——做「不妄为」的做：只推该推的杠杆；事无事——处理「非事」之事：把噪音当无事；味无味——品味淡：不依赖强刺激才觉得活着。三句是减法：少假动作，少无事忙，少口重。当代：把「忙」当道德的人，往往事无事、味无味都丢了。",
+      "image": "assets/DaoDeJing/井水 - ch63 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「大小多少，报怨以德。」大小多少——大事从小看，多事从少看：规模感要准，别把小题大做。报怨以德——不是圣母心，是用德性回应怨恨，不让怨循环放大。以德报怨，是止损：你再恨回去，系统就锁死在怨里。组织冲突：先修机制，再修情绪。",
+      "image": "assets/DaoDeJing/黑暗中 - Ch63.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「图难于其易，为大于其细。」图难——谋划难事，从其易处入手；为大——成就大事，从其细处积累。天下难事必作于易，天下大事必作于细——不是口号，是顺序：先打通最小闭环，再谈规模。一上来就「大战略」，常死于没有「细第一刀」。",
+      "image": "assets/DaoDeJing/Sage hands tea - ch0 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以圣人终不为大，故能成其大。」终不为大——从不自称在做大事，不摆「宏大叙事」压迫团队；故能成其大——因为每一步都可验证，大是结果，不是姿态。与第九章「功遂身退」同脉：大在成，不在喊。个人：少发朋友圈宣告「我要改变世界」，多完成一个可交付的小单元。",
+      "image": "assets/DaoDeJing/Meditating sage - ch - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「夫轻诺必寡信，多易必多难。是以圣人犹难之，故终无难矣。」轻诺——轻易承诺，必寡信；多易——把什么都看得太容易，必多难——坑在后面。犹难之——圣人仍以为难，所以终无难——敬畏难度，难度就被拆解。全章收束：无为、无味、报德、从易细、不轻诺、不畏难——一套「慢而准」的操作系统。",
+      "image": "assets/DaoDeJing/Sage insight - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "西方「原子习惯」——小步骤复利，与「作于细」同向。日本「改善」——小改而非大翻，与事无事呼应。孔子「恕」——与报怨以德有亲属关系。老子与孙子——「善战者无赫赫之功」，与终不为大同脉。",
+      "image": "assets/DaoDeJing/Plc 16 Snowy Dougong - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。创业：先卖出一单，再谈平台化——图难于易。人际：轻诺「随时找我」——寡信；改口「周三下午可聊三十分钟」。多易：一周上线十个功能，每个都半成品——圣人犹难之：排优先级，一次只啃一块。报怨以德：被恶意评价，先不反击，修产品、修证据链。",
+      "image": "assets/DaoDeJing/Sage meditating wide - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：本周选一件「难事」——写清最小易步：打开文档写标题也算。味无味：一天一餐清淡，练对淡的耐受。轻诺清单：撤回一条过度承诺的消息。犹难之：对重要项目写「难点三条」，再开工。不为大：成果做出来再宣布，不先立 flag。",
+      "image": "assets/DaoDeJing/Plc 17 Snowy Sacrifi - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，为无为：只做该做的。第二，图难于易、为大于细：顺序对了，事才成。第三，终不为大：大是结果，不是姿态。第四，轻诺寡信、犹难无难：敬畏难度。为无为——乱动少一分，成事多一分。下一章，「其安易持，其未兆易谋」——千里之行，始于足下；慎终如始。方法论之后，是时机与持守。",
+      "image": "assets/DaoDeJing/千里之行 - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第十七章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：太上"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "隐形领导"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch17-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "太上",
+      "哲学",
+      "第17章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十七章精解——功成事遂，百姓皆谓我自然。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "自然"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "太上",
+      "哲学",
+      "第17章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十七章精解——功成事遂，百姓皆谓我自然。",
+    "dynamic": "最好的管理，是让人说：我们本来就这样。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第十六章讲致虚守静、观复知常。第十七章，老子把同一套逻辑用到治理：「太上，下知有之。」最高明的统治，下面人几乎感觉不到他的存在。不是消失，是不抢戏、不刷存在感，让系统自己运转。这一章，是「隐形领导力」的古典源码——对今天所有爱开会、爱表态、爱刷 KPI 的管理者，都是一面镜子。它用四层降级模型告诉你：领导越做越「可见」，往往越做越差；做到「百姓谓我自然」，才是满分。",
+      "image": "assets/DaoDeJing/不言之教 - Ch17.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，看看「太上」到底长什么样。这一章适合所有带团队、带项目、甚至带自己的人。",
+      "image": "assets/DaoDeJing/上德不德 - Ch38.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「太上，下知有之。」最好的领导者，百姓只知道「有这么个人」，却说不清他天天做了什么。因为问题在底层就被规则、文化、信任消化了，不需要天天救火。治理的最高境界，是让人忘记你在治理——日常运转已足够润滑，只有极端情况才需要显性干预。",
+      "image": "assets/DaoDeJing/不出户 - Ch47.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「其次，亲而誉之；其次，畏之；其次，侮之。」差一等的，让人亲近赞美；再差，让人害怕；最差，让人侮辱。领导力的质量，看百姓对你的情感坐标——越需要怕你，越说明系统已经坏了。四层模型像评分表：你从「侮」往上爬，不是成功，是还债。",
+      "image": "assets/DaoDeJing/不出户知天下 - Ch47 (1).jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「信不足焉，有不信焉。悠兮其贵言。」信用不够，才有人不信；所以「贵言」——珍惜语言，少说话，说到做到。话太多，是信用破产的遮羞布。每一次无效会议、每一条空洞口号，都在透支「信」；悠兮贵言，是领导者的节流。",
+      "image": "assets/DaoDeJing/江海所以能为百谷王者 - Ch66.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「功成事遂，百姓皆谓我自然。」事情成了，百姓说：我们本来就是这样啊。不是不知道谁干的，是感觉没有被人为拧着走——这是最高级的功成。就像好产品的交互：你觉得顺手，而不是被设计师教育。",
+      "image": "assets/DaoDeJing/不出户知天下 - Ch47.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：自然，不是放任，是「看起来像没管，其实秩序已在」。太上之治，是把干预压到刚好够用的阈值以下。阈值以下，系统自组织；阈值以上，你才出手——而且出手一次，贵言一次。检验标准：少问「我有多牛」，多问「事是否自然成」。",
+      "image": "assets/DaoDeJing/水流在狭窄石缝中自然转弯 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "儒家讲「无为而治」，要的是德化。亚当·斯密「看不见的手」，是市场自组织。日本组织文化里「场」的默契，也是少指挥、多共识。老子更冷峻：你若总让人畏、让人骂，已经输了；太上，是让「自然」成为结果，而不是口号。三脉都在说：别抢系统的功，别抢系统的名。",
+      "image": "assets/DaoDeJing/不欲琭琭如玉 - Ch39.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。微观管理、日报周报轰炸、群里@所有人——都是「其次畏之」的数字化版本。员工表面执行，心里侮之；平台算法逼着你点、催着你回，也是另一种「有不信焉」。家长天天盯作业，孩子表面做完，心里早侮之——模型一样。",
+      "image": "assets/DaoDeJing/不行的智慧 - Ch47.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "好产品、好团队，往往让用户/成员说：「它本来就该这样」。这不是没设计，是把设计藏在体验之下。功成事遂而谓自然，是设计者的最高荣誉。反过来，用户每步都被弹窗教育，说明领导者在「其次亲而誉」——需要被夸，而不是让事自然成。",
+      "image": "assets/DaoDeJing/丝帘 - Ch02.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，做太上：少抢戏，多修底层规则与信任，让系统自运转。第二，戒畏侮：若靠恐惧驱动，已在下乘，迟早被侮。第三，贵言：少说，说到做到，信用是省出来的。第四，求自然：让人事成后觉得「本来如此」，这才是功成的最高境界。下一章，「大道废，有仁义」——美德为何常在失灵之后才被发明。",
+      "image": "assets/DaoDeJing/为道日损 - Ch48 (1).jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

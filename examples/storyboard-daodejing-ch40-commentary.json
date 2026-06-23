@@ -1,0 +1,219 @@
+{
+  "title": "观念黑盒：《道德经》第四十章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：反弱"
+    },
+    {
+      "id": "2",
+      "label": "四句破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "周期"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch40-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "反者道之动",
+      "赫拉克利特",
+      "哲学",
+      "第40章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十章精解——反者道之动，弱者道之用。",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "四句破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "有与无"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "反者道之动",
+      "赫拉克利特",
+      "哲学",
+      "第40章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十章精解——反者道之动，弱者道之用。",
+    "dynamic": "反者道之动，弱者道之用——峰后是谷，有生于无。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十九章讲「得一」与贱本：峰时若不忘贱本，才读得懂本章。第四十章，老子用二十一个字，写完整套宇宙的呼吸：「反者，道之动；弱者，道之用。天下万物生于有，有生于无。」动，是反向的——盛极而衰，否极泰来。用，是柔弱的——刚易折，柔久长。万物生于「有」，而有，生于「无」。这是全书的周期论与生成论；你若在峰顶或谷底，读这一章，学的是看整段呼吸，而不是死抱某一瞬。",
+      "image": "assets/DaoDeJing/天下万物生于有 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐句破译这四句总纲。",
+      "image": "assets/DaoDeJing/反者道之动 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一句：「反者，道之动。」反，不是反动，是返回、是相反、是周期。道怎么动？通过反向——推高到顶，必返；跌到谷底，必起。《周易》说亢龙有悔。巴菲特——美国价值投资家——说「别人贪婪我恐惧」。二零二零到二零二二年，很多人在峰顶加仓，读的是「永远涨」，不是周期。都是在同一刻度上读周期，而不是把意外当命运。",
+      "image": "assets/DaoDeJing/天然的蚕茧 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二句：「弱者，道之用。」道用什么发力？用弱。弱，能穿石、能续命、能绕过刚。你越想立刻变强变硬，越可能逆道。水不争，却最善利万物；团队里最硬扛的人，往往最先耗竭。康复、复健、团队磨合——进度靠循序渐进，不是靠意志硬顶一周清零。柔处，才是续命的接口。",
+      "image": "assets/DaoDeJing/弱者道之用 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三句：「天下万物生于有。」万物从「有」——已命名的、已显现的——中生成。融资、产品、头衔，都是「有」。但若把数字和标签焊成唯一身份，下一个周期需要「空」的时候，你就失去了再生能力。产品要改方向时，旧版本是「有」；不肯放手，新形态进不来。",
+      "image": "assets/DaoDeJing/有生于无 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四句：「有生于无。」有，从无来。无，不是虚无，是未分化、未命名、未占满。创生前，必先空。前面「道生一，一生二」讲的也是这条线：显化之前，必有一段不可名状的空；怕无，就等于拒绝下一跳。写作、设计都有空白期：没发呆的那几天，往往出不了真正的新稿。",
+      "image": "assets/DaoDeJing/尖石 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "四句合读：动在反，用在弱，生在有无之间。你若只抓「有」——成果、标签、资产——而怕「无」，就断了下一周期的根。高手不是永远站在「有」里，而是在该空的时候，真的留出一格。周期读法，是同时看见两端，而不是只恋其中一瞬。",
+      "image": "assets/DaoDeJing/微距下 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "先看西方。赫拉克利特——古希腊哲学家，常被称作「变化之哲」——有句名言：人不能两次踏进同一条河。他还有一句更贴本章：上升与下降，是同一条路的两段。东方这边，佛教讲缘起性空——有相皆从无相起；「空」不是什么都没有，而是可塑、可再成形。系统论——研究复杂反馈的二十世纪学问——则看周期与滞后：猛踩油门之后，总有一段看不到的回调。个人感受也常滞后于数据——你以为还在峰，反转可能早已启动。老子二十一个字，不是东方独有，是跨文化的周期常量。",
+      "image": "assets/DaoDeJing/木雕 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。市场周期、情绪周期、职业周期——「反者道之动」。爆款之后，要留无；低谷之中，要信有生于无。投资里的空仓、创作里的留白、关系里的距离，都是「无」的技艺。有创作者单条爆款后连更三十天，流量反噬、选题枯竭——不是不努力，是没留「无」：没停更、没换输入、没允许数据回落。停更两个月后，反而长出新品类。很多人学会的不是更忙，而是留一格不填满——满则止，空则生。",
+      "image": "assets/DaoDeJing/沙漏 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：巅峰时，别把自己焊死在「有」上；低谷时，别宣布「无」是终点。弱者道之用——用恢复、用柔软、用等待，而不是用硬扛证明你还在峰顶。失业年、分手期、项目黄了，都可以是「无」在替下一「有」腾位置。识别周期，比硬扛重要：低谷不是身份破产，只是系统在腾位置。",
+      "image": "assets/DaoDeJing/泥沼 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，认反：周期是道，不是意外——别把结构性回调，误读成个人失败。第二，用弱：续命靠柔，不靠刚——刚是短期有效、长期反噬的接口。第三，敬有：成果要维护——但别把「有」焊死成唯一人设。第四，敬无：空不是终点，是下一生的门——怕无的人，往往在峰顶断根。下一章，「上士闻道」——中士若存若亡，下士大笑；知而不行，仍是未知。",
+      "image": "assets/DaoDeJing/芦苇 - ch40 - 通用.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第45章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：大若"
+    },
+    {
+      "id": "2",
+      "label": "五组破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "清静"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch45-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大成若缺",
+      "哲学",
+      "第45章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十五章精解——大若悖论与清静为正。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "大若悖论"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "清静为正"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大成若缺",
+      "哲学",
+      "第45章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十五章精解——大若悖论与清静为正。",
+    "dynamic": "大成若缺，大盈若冲——大巧若拙，清静为天下正。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十四章讲知足知止。第四十五章，老子又列一组「大×若×」悖论：「大成若缺，其用不弊；大盈若冲，其用不穷；大直若屈，大巧若拙，大辩若讷。」躁胜寒，静胜热，清静为天下正。这一章，是完美主义的反面：大成不必满，大巧不必炫。上一章问「够了吗」，这一章问「满了吗」——答案都是：留一点空。",
+      "image": "assets/DaoDeJing/大直若屈 - ch45 - 通用.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：五组「大若」与清静为正。",
+      "image": "assets/DaoDeJing/大巧若拙 - ch45 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「大成若缺，其用不弊。」最大的成，像有缺口——不封死，所以用不完。产品若宣称完美无缺，升级无路；人若自认无缺点，学习无路。留缺，是用不弊的结构条件。封死 perfection，一碰就碎；留缺，才有迭代空间。",
+      "image": "assets/DaoDeJing/暴雨狂风肆虐的黑夜 - ch45 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「大盈若冲，其用不穷。」最满的状态，像空的——冲，是虚、是中空、是流动。杯子满则止，空杯才能续；账户留冗余，才能抗风险。大盈若冲，是财务与精力的留白哲学。团队排期排满，没有冲，就没有应对意外的余量。",
+      "image": "assets/DaoDeJing/漫天狂暴的白雪中 - ch45 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「大直若屈，大巧若拙，大辩若讷。」最直，像弯——能绕障；最巧，像拙——不炫技；最善辩，像讷——不抢话，真理在沉默里。高手对话常短，菜鸟才用术语墙证明聪明。大巧若拙：真正的高手，看起来像没技巧——因为技巧已内化。",
+      "image": "assets/DaoDeJing/砚台 - ch45 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「躁胜寒，静胜热。」躁可以胜寒——动起来暖；静可以胜热——静下来凉。极端靠对立面调节，不是单一路线到底。团队太冷要动，太热要静——清静是动态平衡，不是不动。个人太冷要出门，太热要关机——躁静互为药。",
+      "image": "assets/DaoDeJing/粗陶碗中的水 - ch45 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「清静为天下正。」天下正，靠清静——不是死寂，是少扰动、少炫耀、少强辩。领导者清静，团队不自乱；心清静，决策不发热。大若小、盈若冲、辩若讷，都指向：减噪，才听得见道。清静不是躺平，是减无效动作，把力留给正事。",
+      "image": "assets/DaoDeJing/极其广阔、死寂的冰封荒原 - Ch05.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "日本「侘寂」——不完美之美——与大成若缺同向：裂、缺、旧，反而可持续。维特根斯坦——奥地利哲学家——后期说意义在使用中，大辩若讷：少说，让行为定义你。东方「大巧若拙」与工匠「藏锋」，都是减炫。大盈若冲，像巴菲特——美国投资家——留现金等机会：满袋不如留冲。",
+      "image": "assets/DaoDeJing/人群 - ch20 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。完美主义 PPT、过度包装的产品、每条推文都要赢辩论——都是怕「若缺、若拙、若讷」。真正长命的公司，常看起来朴素；真正长命的关系，常不需要每天证明正确。清静为天下正：少噪音，多正事。会议越少、废话越少、承诺越少但兑现越多——越接近本章的「大」。大成若缺，是允许下一版；大辩若讷，是允许对方说完。",
+      "image": "assets/DaoDeJing/从幽暗狭窄的长廊望向门外 - ch04 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你怕「大成若缺」，所以迟迟不发、迟迟不定、迟迟不休息。留一个可改的缺口，反而能持续迭代。躁胜寒、静胜热——知道何时动、何时停，比永远鸡血更接近正。大辩若讷：争论赢面，常输关系与真相。清静为天下正：先减自己发出的噪，再谈改天下。",
+      "image": "assets/DaoDeJing/仰视四面极高极厚的红墙 - 通用 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，成若缺：留升级缝，用不弊。第二，盈若冲：满则止，空则续。第三，巧若拙、辩若讷：藏锋，减噪。第四，清静为正：动躁与静热，动态调，不偏执。大若小、盈若冲、辩若讷——减噪，才听得见道。下一章，「天下有道」——却走马以粪，多藏乃亡。",
+      "image": "assets/DaoDeJing/众人熙熙 - ch20 - 通用.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

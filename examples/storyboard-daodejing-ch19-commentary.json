@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第十九章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：减法"
+    },
+    {
+      "id": "2",
+      "label": "三层绝"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "知识焦虑"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch19-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-8%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "绝圣弃智",
+      "哲学",
+      "第19章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十九章精解——见素抱朴，少私寡欲。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "三层绝"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "弃智"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "绝圣弃智",
+      "哲学",
+      "第19章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十九章精解——见素抱朴，少私寡欲。",
+    "dynamic": "少一层「正确」，多一分真实——见素抱朴。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第十八章说大道废后有仁义。第十九章，老子开出药方——但不是再加一层道德，而是做减法：「绝圣弃智，民利百倍；绝仁弃义，民复孝慈；绝巧弃利，盗贼无有。」听起来反常识，其实他在拆三套「文化外挂」：圣人崇拜、仁义表演、巧利竞争。拆完，让人回到「见素抱朴，少私寡欲」。这一章是「文化卸载」指南：你卸掉什么，百姓才能活什么。卸载不是躺平，是拆掉让你变笨、变假、变贪的外挂，把算力还给真实生活。个人也能三绝：绝权威、绝表演、绝暴利——然后安装素朴内核。",
+      "image": "assets/DaoDeJing/抱朴 - Ch19.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐层破译这三记「绝」，以及最后的归宿。一层一层拆，别一口气道德批判。",
+      "image": "assets/DaoDeJing/见素 - Ch19.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一层：「绝圣弃智，民利百倍。」不是不要智慧，是不要「圣人—智者」这套等级叙事绑架百姓。当人人都等着圣人来救、智者来指点，民众自己的判断就萎缩了；绝掉这套外挂，百姓反而能利百倍——自己活。你少崇拜一个「大神」，就多长一分自己的脑。",
+      "image": "assets/DaoDeJing/代大匠斫者伤手 - Ch74.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二层：「绝仁弃义，民复孝慈。」仁义若变成表演标准，家庭反而僵；去掉被制度化、口号化的仁义，真实的孝慈才复得出来。家规贴满墙，孩子学会的是演，不是爱。",
+      "image": "assets/DaoDeJing/以正治国 - Ch57.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三层：「绝巧弃利，盗贼无有。」巧，是机巧之术；利，是暴利诱惑。人人追逐奇技淫巧与暴利，盗贼自然生起——不是只有小偷，还有合法抢劫式的结构。金融泡沫、割韭菜课，都是「盗贼」的现代版。",
+      "image": "assets/DaoDeJing/仰视四面极高极厚的红墙 - 通用.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「此三者，以为文不足，故令有所属：见素抱朴，少私寡欲。」这三绝，是因为表面文章不够，才要让人有归宿：看见素朴本相，抱住未雕之朴，减少私欲。文，是装饰；素朴，是底色。三绝是拆，抱朴是装回内核。",
+      "image": "assets/DaoDeJing/仰角 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：见素抱朴，不是邋遢，是拒绝被文化层层包装到认不出自己；少私寡欲，不是禁欲，是不让私欲劫持系统。私欲劫持时，你会为面子加班、为标签消费、为攀比活着。三绝之后，务必安装内核：素、朴、寡欲。",
+      "image": "assets/DaoDeJing/众人熙熙 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "庄子尚朴，批评「圣人之法」成了新的桎梏。卢梭质疑文明进步，与「绝巧」有暗合之处。现代极简主义说「少即是多」，在消费端呼应「弃利」。老子更政治：三绝之后，要的是民能自活、家能自和、社会少盗。个人亦可三绝：绝权威、绝表演、绝暴利。",
+      "image": "assets/DaoDeJing/众人熙熙 - Ch20.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。知识付费卖「圣人课」、情商课卖「仁义术」、副业课卖「巧利法」——三套外挂让人更焦虑，并没有更自由。绝圣弃智，是停止把人生外包给权威；见素抱朴，是敢以本来面目工作、爱人。卸载之后，硬盘才腾得出空间给真问题。别卸了又装回更贵的挂件。每周做一次「外挂审计」：这周我新装了什么让我更焦虑的东西？",
+      "image": "assets/DaoDeJing/众生行 - Ch49.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "「弃智」常被误解为反科学。老子反的是慧智出大伪的那种「聪明」——算计、套路、人设。真正的学习，是抱朴之后的明辨，不是堆证书。证书是文，明辨是素；别用文盖住素。学以明，不以惧。。把「弃智」落实：少一条套路，多一条实测。",
+      "image": "assets/DaoDeJing/低处流淌的溪水绕过岩石 - Ch01.png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，绝外挂：少一层「正确」权威，民方能自活。第二，复孝慈：关系先真实，再道德表演。第三，弃巧利：不追奇技暴利，盗自消。第四，抱朴寡欲：见素守本，减私减欲，文不足时靠此归宿。每周问自己：这周卸了什么外挂、抱了什么朴？下一章，「绝学无忧」——独异者的孤独与「食母」。",
+      "image": "assets/DaoDeJing/傲雪古松 - 通用.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

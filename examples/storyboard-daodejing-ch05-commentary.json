@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第五章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：大系统"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "信息过载"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch05-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "unlisted",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天地不仁",
+      "哲学",
+      "第五章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五章精解——大系统没有偏爱。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "信息过载"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天地不仁",
+      "哲学",
+      "第五章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五章精解——多言数穷，不如守中。",
+    "dynamic": "世界不是围绕你转的，这反而是解脱。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四章讲「空而能用」。第五章，老子把视角拉到天地尺度：「天地不仁，以万物为刍狗。」这句话被误解成冷酷。其实，它在描述大系统的运行方式——世界不会因为你特别而改规则。理解了这一点，你反而能从「为什么是我」里解脱出来。",
+      "image": "assets/DaoDeJing/一扇完全敞开的柴门 - Ch05.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/刍狗 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗。」天地对万物没有偏爱，像祭礼上的草狗，用完即弃，不存私情。圣人治理，也不对某一群人偏心。不是冷血，是不把个人叙事强加给大系统。",
+      "image": "assets/DaoDeJing/墨迹 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「天地之间，其犹橐龠乎，虚而不屈，动而愈出。」天地像风箱，中间是空的，却不枯竭；一动，气就不断生出。又一次回到「空」——大系统的能量，来自虚空与流动，不是来自塞满。",
+      "image": "assets/DaoDeJing/大雨中 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「虚而不屈，动而愈出。」强调：空，不是死，是生之源。你越是把生命填到没有缝隙，越难持续产出。创作者燃尽，很多时候是风箱被塞死了。",
+      "image": "assets/DaoDeJing/天地如风箱 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「多言数穷，不如守中。」话说太多，反而走到尽头；不如守住中道。这是第五章对第一章的呼应：语言有边界，说多了就穷。守中，不是和稀泥，是别被极端名相拖走。",
+      "image": "assets/DaoDeJing/巨月 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：在大系统面前，你不是例外，也不是被故意针对的那个。天地不仁，意味着没有隐藏剧本只针对你；圣人不仁，意味着好的治理不靠偏袒。这是解放，不是绝望。",
+      "image": "assets/DaoDeJing/打磨 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯宾诺莎讲「自然不做道德判断」；尼采讲「上帝死了」之后要重建价值——都在逼你看清：世界本身不欠你一个解释。东方这边，《庄子》齐物论：万物等齐，不是冷漠，是跳出自我中心的叙事。",
+      "image": "assets/DaoDeJing/树根 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。信息过载就是「多言数穷」的当代版：观点越多，你越穷于行动。热搜、通知、24 小时新闻，像风箱反过来——不断灌风，却不让你空下来。守中，是少被极端叙事拽着跑。",
+      "image": "assets/DaoDeJing/海平线 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人层面，「为什么是我」的受害者叙事，是把大系统当成针对你的阴谋。天地不仁的解放在于：大部分时候，只是结构在运转，不是宇宙在霸凌你。",
+      "image": "assets/DaoDeJing/烈日下 - Ch05.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，接受无偏爱：大系统不为你改规则。第二，保持虚空：风箱要空，才出风。第三，少说多看：多言数穷。第四，守中：别被极端名相拖走。下一章，「谷神不死」——持续生机的源头。",
+      "image": "assets/DaoDeJing/瓷碗 - Ch05.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

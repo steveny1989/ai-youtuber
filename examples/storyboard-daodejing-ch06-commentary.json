@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第六章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：谷神"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "可持续"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch06-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "谷神不死",
+      "哲学",
+      "第6章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六章精解——谷神不死，玄牝之门。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "可持续创作"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "谷神不死",
+      "哲学",
+      "第6章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六章精解——谷神不死，玄牝之门。",
+    "dynamic": "真正的生命力，来自空而不竭的谷。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五章讲大系统无偏爱。第六章，老子把镜头转向「生之源」：「谷神不死，是谓玄牝。」谷，是空虚而容纳；神，是持续运作的生机。很多人把这一章读成玄学母题。其实，它在描述一种可持续结构——真正的力量，来自空而不竭的源头。",
+      "image": "assets/DaoDeJing/时间的呼吸 - Ch06.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译。",
+      "image": "assets/DaoDeJing/暗室中 - Ch06.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「谷神不死。」山谷之神，象征因空而能生、因低而能纳的永恒生机。它不会因为你忽视就消失，也不会因为你过度开采就立刻报复——它默默在那里，像底层操作系统。",
+      "image": "assets/DaoDeJing/水井 - Ch06.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「是谓玄牝。」玄牝，是幽深的母性、孕育之门。老子用「母」不是性别标签，而是结构隐喻：万物从「空而含」的门户中生出。",
+      "image": "assets/DaoDeJing/Empty Throne - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「玄牝之门，是谓天地根。」这扇门，是天地万物的根。根不在高处，在低处、在空处、在愿意接纳之处。",
+      "image": "assets/DaoDeJing/Endless Slips - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「绵绵若存，用之不勤。」它像细丝一样持续存在，越用越不虚。不是一次性爆发，而是长期涓流。",
+      "image": "assets/DaoDeJing/Guarding The Black - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "第五段，全章落点：「用之不勤。」真正的好系统，不需要你24小时狂按加速键。它靠节律、靠留白、靠可恢复性，持续供给你。",
+      "image": "assets/DaoDeJing/Half Open Window - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "荣格谈集体无意识里的「阿尼玛」，是心灵中接纳与孕育的一面。西方长期偏重逻各斯——分析、征服、命名；老子在这里补另一极：玄牝、谷神、母性道体。东方《易经》坤卦「厚德载物」，也在说：承载，比张扬更久。",
+      "image": "assets/DaoDeJing/Hand Brush - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。创作者把「谷神」榨干：日更、通宵、永远在线。短期看是勤奋，长期看是透支天地根。可持续产出，不是更狠，而是让源头有空、有眠、有恢复。",
+      "image": "assets/DaoDeJing/Hand Over Paper - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "公司也一样：只榨 KPI、不补组织容量的团队，初期猛，后期崩。绵绵若存，要求你设计节律，而不是设计燃尽。",
+      "image": "assets/DaoDeJing/Hand With Brush - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，认源头：力量来自空而不竭的谷。第二，守母门：别只崇拜锋锐，要留孕育之地。第三，绵绵不断：用节律，不用爆发。第四，用而不竭：恢复是生产力。下一章，「天长地久」——不自生，故能长生。",
+      "image": "assets/DaoDeJing/Heavy Lock - Ch02.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第52章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：玄德"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "闭门"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch52-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天下有始",
+      "哲学",
+      "第52章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十二章精解——守母、塞兑与习常。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "守母"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "塞其兑闭其门"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天下有始",
+      "哲学",
+      "第52章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十二章精解——守母、塞兑与习常。",
+    "dynamic": "天下有始，以为天下母——既知其子，复守其母，塞其兑闭其门。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十一章讲「道生之，德畜之」——玄德是不有、不恃、不宰。第五十二章，老子问：万物从哪来？「天下有始，以为天下母。既得其母，以知其子；既知其子，复守其母，没身不殆。」然后给开关：「塞其兑，闭其门，终身不勤；开其兑，济其事，终身不救。」见小曰明，守柔曰强；用其光，复归其明，无遗身殃——是为习常。这一章，是「守母」术：知子不忘本，关门不耗散。",
+      "image": "assets/DaoDeJing/塞其兑 - Ch52.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：天下母、知子守母，与塞兑闭门。",
+      "image": "assets/DaoDeJing/雷暴雨夜的宫廷大广场 - 通用.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「天下有始，以为天下母。」有始——宇宙、人生、项目，都有一个起点协议。以为天下母——把起点当「母」，不是当「史」：母是活的源头，史是死的记录。你忙到忘记「当初为什么出发」，就是失母。守母，不是怀旧，是接电源。",
+      "image": "assets/DaoDeJing/青铜鼎 - 通用.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「既得其母，以知其子；既知其子，复守其母，没身不殆。」得母，才看得懂子——现象、分支、变体，都从母来。知子，还要复守其母——不被子带跑。产品做大了，忘了用户真痛点，是知子失母。没身不殆：一辈子不踩大坑，靠反复回到母。母在，子再变，你不慌。",
+      "image": "assets/DaoDeJing/须发皆白的老者倚松沉思 - Ch01.png",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「塞其兑，闭其门，终身不勤；开其兑，济其事，终身不救。」兑是口、是孔、是接口——向外泄气、泄精、泄神的地方。塞兑闭门：少无谓输出、少八卦、少刷——终身不勤，是不内耗。开兑济事：什么都往外说、什么都掺和——终身不救，是救不了自己。信息时代，开兑太容易：通知、群、直播，都是敞开的门。",
+      "image": "assets/DaoDeJing/飞蛾 - Ch55 (1).jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「见小曰明，守柔曰强。」见小——见微、见苗头、见底层变量，才叫明。守柔——不硬顶、不逞强，反而强。只盯大盘、大词，不见小，是假明；只刚不柔，是脆强。守母的人，眼细、手柔。团队里能看早期信号的人，比只会喊口号的人更明。",
+      "image": "assets/DaoDeJing/飞蛾 - Ch55.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「用其光，复归其明，无遗身殃；是为习常。」用其光——可以用才华、名声、锋芒；复归其明——用完要收，回到内在的光，不刺人、不烧身。无遗身殃：不留后遗症。习常，是把「守母、闭门、见小、守柔、归明」练成默认程序，不是偶尔禅修，是日常操作系统。",
+      "image": "assets/DaoDeJing/香炉 - Ch01.png",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "荣格——瑞士心理学家——讲「原型」与「母性」：个体心理有集体源头，接近「天下母」。柏拉图——古希腊哲学家——「理念」是现象之母，知子要回到理念，否则被影子带跑。中国「坤元」——大地、母、载——与守母同脉：柔、载、不抢光。",
+      "image": "assets/DaoDeJing/高山之巅 - Ch77.jpg",
+      "motion": "pan_up",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。算法让你「开兑」：无限滑、无限评、无限晒——终身不救，是注意力救不回来。知子失母：公司追 KPI 忘了「为谁存在」；个人追热点忘了「我是谁」。塞兑闭门，不是闭关锁国，是设边界：固定深度工作块、固定无通知时段。见小曰明：看早期数据、早期情绪，比看热搜更明。",
+      "image": "assets/DaoDeJing/鸟笼 - Ch01.png",
+      "motion": "pan_down",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你的「母」是什么？写一句，贴在屏保：项目母、关系母、人生母。每次开新坑，问：这是子还是母？开兑自查：今天哪扇门开太大——群、短视频、抱怨？用其光复归其明：发完一条高光内容，收一收，别连烧三天。守母，是最高级的防崩。",
+      "image": "assets/DaoDeJing/麻纸 - Ch58.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，认母：始是源头，不是档案。第二，知子守母：分支再繁，回母不慌。第三，塞兑闭门：少泄，终身不勤。第四，见小守柔、用光归明：习常是日常 OS。天下有始——母在，子不散。下一章，「使我介然有知，行于大道」——大道甚夷，而民好径。",
+      "image": "assets/DaoDeJing/黄昏时的石晷 - Ch03.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

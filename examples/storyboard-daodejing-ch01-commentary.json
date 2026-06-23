@@ -1,0 +1,222 @@
+{
+  "title": "观念黑盒：《道德经》第一章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "底层操作系统"
+    },
+    {
+      "id": "2",
+      "label": "五句破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "概念病"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch01-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "unlisted",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "The Blackbox",
+      "道可道非常道",
+      "众妙之门",
+      "维特根斯坦",
+      "哲学",
+      "第一章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第一章精解——底层操作系统初始化。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 总纲"
+      },
+      {
+        "scene": "open-1",
+        "label": "五句破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "概念病"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道可道非常道",
+      "哲学",
+      "维特根斯坦",
+      "第一章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第一章精解——底层操作系统初始化。",
+    "dynamic": "放下对地图的执念，你才能真正看到眼前的路。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "刚刚听完这段五十九个字的原典朗读，很多人会觉得玄之又玄。在很多人眼里，《道德经》是文学，或者是避世的玄学。但在这个系列里，我不这么看。我把它当成两千年前，老子为人类心智写下的「底层操作系统」。这第一章，就是整套系统的「总纲」。在告诉你「怎么做」之前，老子必须先给你做一次大脑初始化——他要告诉你，人类认知的极限在哪里，以及你在这个世界里，究竟看到了多少幻觉。",
+      "image": "assets/DaoDeJing/展开的卷轴上写着「道可道 - Ch01.png",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们来逐句破译这五行代码。",
+      "image": "assets/DaoDeJing/Pavilion Empty Scrol - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一句：「道可道，非常道；名可名，非常名。」这是老子对全人类语言系统的一次降维打击。翻译过来就是：凡是被你用语言说死的规律，就已经不是永恒的规律；凡是被你贴上标签定义的东西，就已经失去了它原本的无限性。真实的世界是无限流动的。而语言，只是一张强行压缩的「地图」。老子在第一句就警告你：不要把地图，当成了真实的疆域。",
+      "image": "assets/DaoDeJing/Sage Hands Tea - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二句：「无名，天地之始；有名，万物之母。」世界本来是一个混沌的整体（无名），是我们人类用意识，给万物打上了标签。有了标签，事物才在我们的世界里「出生」（有名）。一旦有了名字，世界就被切碎了。老子提醒你，看世界，要看到它没被贴标签之前的整体状态。",
+      "image": "assets/DaoDeJing/Sage Insight - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三句：「故常无欲，以观其妙；常有欲，以观其徼。」这是两千年前的「观察者效应」。当你没有任何目的、不带成见去看（无欲），你能看到事物最本质的神采（妙）。当你带着解决问题的目的去看（有欲），你看到的，就是它的功能、边界和利用价值（徼）。老子没有批判欲望。他是在教你切换视角：需要理解本质时，清空目的；需要处理事务时，带上目标。",
+      "image": "assets/DaoDeJing/Sage Meditating Wide - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四句：「此两者同出而异名，同谓之玄。」「无」的本质和「有」的表象，其实是硬币的两面，同出一源。这种统一的深邃状态，叫做「玄」。这里的玄，不是故弄玄虚，而是像深海一样的绝对黑盒，看不透，但极其强大。",
+      "image": "assets/DaoDeJing/一根极其纤细的白色丝线 - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "第五句：「玄之又玄，众妙之门。」深邃之后还有更深邃的。当你以为你懂了，其实你只是进了一扇门。理解世界没有终点。当你愿意承认自己「不可知」，并不断向下深挖，这种层层嵌套的深度，才是通往终极智慧的唯一大门。",
+      "image": "assets/DaoDeJing/玄之又玄 - Ch01.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "有趣的是，两千多年后，西方最伟大的哲学家之一，维特根斯坦，在他的《逻辑哲学论》结尾，得出了和老子高度一致的结论。维特根斯坦说：「凡是能够说的事情，都能够说清楚；而凡是不能说的事情，就应该保持沉默。」他认为语言就是世界的边界。语言无法表达世界真正的「意义」。这恰恰印证了「名可名，非常名」。如果在东方找印证，《庄子》里有一句更直白：「得鱼而忘筌，得意而忘言。」语言只是抓鱼的网子。今天很多人的悲哀在于，死死抱着那张编得很漂亮的网子，天天在朋友圈里研究网的材质，却忘了自己原本是来抓鱼的。",
+      "image": "assets/DaoDeJing/一滴水将落未落 - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到我们当下的生活。第一章到底在解决什么现实痛点？它切中了现代人最致命的一种病——「概念病」。我们生活在一个极度痴迷打标签和套模板的时代。我们用 MBTI 标签来定义自己：我是 ENTJ，你和我合不来。我们用互联网黑话来定义工作：底层逻辑、抓手、赋能、闭环。我们用成功学模板来规划人生：三十岁必须财务自由，必须拥有睡后收入。这就是老子说的「名」。当你给自己贴上一个「名」的时候，你觉得有了安全感，但同时，你也把自己关进了牢笼。一个相信自己是「完美主义者」的人，会为了维护这个标签，拖延所有不敢开始的项目。",
+      "image": "assets/DaoDeJing/一片秋叶缓缓飘落 - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "再看商业世界。为什么那么多聪明人创业会死？因为他们死守着商学院里的「SOP」和「商业画布」（可道之道），却对真实市场上极其野蛮、不合逻辑但活生生的用户需求（非常道）视而不见。他们爱上了那张静态的地图，却死在了流动的疆域里。",
+      "image": "assets/DaoDeJing/三十辐共一毂 - Ch01.png",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "所以，读完第一章，你不需要去修仙。你只需要在生活里装上这四条认知补丁：第一，警惕语言：凡是被总结出来的成功学，都不可能复制。第二，撕掉标签：你比你给自己贴的任何身份都要宽广得多。第三，切换视角：赚钱时用「有欲」看边界；想事情时用「无欲」看本质。第四，保持敬畏：永远承认这个世界，有一部分是你无法用逻辑穷尽的「黑盒」。放下对地图的执念，你才能真正看到眼前的路。",
+      "image": "assets/DaoDeJing/丝线在暗光中交错编织 - Ch01.png",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

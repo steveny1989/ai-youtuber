@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第57章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：玄同"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "民自化"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch57-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "以正治国",
+      "哲学",
+      "第57章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十七章精解——以正治国与民自化。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "以正治国"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "我无为"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "以正治国",
+      "哲学",
+      "第57章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十七章精解——以正治国与民自化。",
+    "dynamic": "以正治国，以奇用兵，以无事取天下——我无为而民自化。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十六章讲「知者不言」——玄同者，为天下贵。第五十七章，老子谈治理：「以正治国，以奇用兵，以无事取天下。」然后列反证：忌讳多则民贫，利器多则国昏，伎巧多则奇物起，法令彰则盗贼多。圣人云：「我无为而民自化，我好静而民自正，我无事而民自富，我无欲而民自朴。」这一章，是「少折腾」的政治黑盒：正、静、无事、无欲——下面自会化。与第五十六章「闭门」同脉：上面少漏、少动，下面才有空间长。",
+      "image": "assets/DaoDeJing/竹简 - Ch57.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：以正治国、反证链，与民自化四句。",
+      "image": "assets/DaoDeJing/Knowledge Pile - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「以正治国，以奇用兵，以无事取天下。」以正——日常治理用正道：清晰、公平、可预期；以奇——用兵是例外，不可常态化；以无事取天下——最高层是「不扰」。把奇当正，把忙当能，是当代组织病：永远战时状态，百姓/员工就永远贫、永远昏。",
+      "image": "assets/DaoDeJing/Lamp And Bowl - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「吾何以知其然哉？以此：天下多忌讳，而民弥贫。」忌讳——禁这禁那，层层红线，人不敢动，创造力就贫。不是说不设边界，是边界太多太碎，系统就僵。民弥贫——物质贫，也精神贫：只敢合规，不敢负责。",
+      "image": "assets/DaoDeJing/Less Is More - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「民多利器，国家滋昏；人多伎巧，奇物滋起。」利器——工具、武器、算法、监控，越多越依赖，国家越昏：看不清人，只看指标。伎巧——花活、套路、增长黑客，奇物滋起——泡沫产品、概念玩具，真问题没解，花样一堆。",
+      "image": "assets/DaoDeJing/Linen Back - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「法令滋彰，盗贼多有。」法越多，漏洞越多；抓越紧，绕路越巧——盗贼多有，不全是坏人多，是系统逼出对抗。老子不是无法，是戒「滋彰」：法在简、在信、在少改，而不是法条竞赛。",
+      "image": "assets/DaoDeJing/Meditating Sage - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「我无为而民自化……我无欲而民自朴。」四「我」——领导者先修己：无为，不是躺平，是不乱作为；好静，不是冷漠，是不躁；无事，不是不管，是不瞎忙；无欲，不是禁欲，是不抢功、不堆欲。民自化、自正、自富、自朴——下面是能长的，上面少拔苗。好领导像园丁：松土、浇水、不天天拔苗看长没长。",
+      "image": "assets/DaoDeJing/Monastery On Cliff - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "亚当·斯密——苏格兰经济学家——「看不见的手」，接近「民自富」——条件是不乱插手。中国「无为而治」传统，汉初休养生息，与「我无事」同脉。军事上「以奇用兵」，孙子「以正合，以奇胜」——奇不可当日常。",
+      "image": "assets/DaoDeJing/Palace Eaves - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。公司堆 KPI、堆流程、堆合规——忌讳多，民弥贫：人人填表，无人做事。算法利器越多，管理越昏：只看数据，不见人。产品伎巧越多，奇物滋起：功能爆炸，核心没长。领导练习：少开一场会，少改一次制度——静一天，看团队会不会自正。无事，不是空转，是把力从表演收回结构。",
+      "image": "assets/DaoDeJing/Palace Under Snow Mo - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你的「国」——家庭、团队——有几条多余忌讳？删一条试试。以正治国：规则少而清，重复的不改第三遍。以无事：本周一件事，只做不动员大会。我无欲：功劳让出去，看下面会不会自朴——少表演，多干活。",
+      "image": "assets/DaoDeJing/Palace Walls - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，以正不以奇：日常用正道，奇只用于危局。第二，戒忌讳利器伎巧：少禁、少器、少花活。第三，法令戒滋彰：简法信法，不做法条战争。第四，我静我无事：上面少折腾，下面自化。以无事取天下——最好的治理，像没治理。下一章，「其政闷闷，其民淳淳」——祸福相依。",
+      "image": "assets/DaoDeJing/Pavilion And Crashin - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

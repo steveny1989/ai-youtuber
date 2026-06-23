@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第58章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：无事"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "四不"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch58-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "其政闷闷",
+      "哲学",
+      "第58章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十八章精解——闷闷察察与祸福相依。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "闷闷察察"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "方而不割"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "其政闷闷",
+      "哲学",
+      "第58章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十八章精解——闷闷察察与祸福相依。",
+    "dynamic": "其政闷闷，其民淳淳——祸兮福之所倚，方而不割，光而不耀。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十七章讲「以无事取天下」——上面少折腾，下面自化。第五十八章，老子写一对对照：「其政闷闷，其民淳淳；其政察察，其民缺缺。」然后：「祸兮福之所倚，福兮祸之所伏。」正复为奇，善复为妖——圣人「方而不割，廉而不刿，直而不肆，光而不耀」。这一章，是「钝锋处世」：政闷民淳，祸福互藏，亮而不耀。第五十七章讲「上面少折腾」，这一章讲「折腾的样子」——察察则缺缺。",
+      "image": "assets/DaoDeJing/方而不割 - Ch58.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：闷闷察察、祸福相依，与方而不割。",
+      "image": "assets/DaoDeJing/大殿深处 - Ch58.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「其政闷闷，其民淳淳。」闷闷——政策不喧哗、不天天上新、不表演式治理；淳淳——百姓心里踏实，少算计，少互害。不是糊里糊涂，是厚而稳：你知道规则明天还在，不用每晚刷公告猜风向。",
+      "image": "assets/DaoDeJing/油灯 - Ch58.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「其政察察，其民缺缺。」察察——事事要透明到苛刻、人人要被审计、每个动机都要审查——缺缺——民就缺了：缺信任、缺担当、缺余裕。越察，越像互相监督的囚徒；表面合规，内心干枯。这与第五十七章「忌讳多、法令彰」同脉。",
+      "image": "assets/DaoDeJing/麻纸 - Ch58.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「祸兮福之所倚，福兮祸之所伏。孰知其极？其无正。」祸福互根——失业可能是转业的逼力；暴富可能是衰的开始。其无正——没有绝对的一刀切标准，所以圣人不敢把「正」说成永远正确。认祸福相依，就少极端乐观与极端恐慌。投资、职业、关系，都怕「一锤定音」的叙事——留余地，就是留活路。",
+      "image": "assets/DaoDeJing/Pavilion Empty Scrol - Ch01.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「正复为奇，善复为妖。人之迷，其日固久。」正走到头，变奇招；善走到头，变道德绑架——「我是为你好」之妖。人之迷其日固久：我们迷恋标签，忘了互变。所以别把自己的「正」当成永久牌照。今天对的「善」，明天可能变「妖」——留弹性，比留正确更重要。",
+      "image": "assets/DaoDeJing/Peeling Identity - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「是以圣人方而不割，廉而不刿，直而不肆，光而不耀。」方——有原则，但不割人；廉——有边界，但不伤人；直——说真话，但不放肆；光——有见识，但不耀。四不，是第五十六章「挫其锐、和其光」的政务版：有力，但不伤人。",
+      "image": "assets/DaoDeJing/Peeling Paper - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯多葛派——古罗马哲学——认命运互倚，与祸福相依同构。中医「亢则害，承乃制」，过正则反，与正复为奇同向。曾国藩——晚清名臣——「花未全开月未圆」，与光而不耀同脉：留余，不耀满。",
+      "image": "assets/DaoDeJing/Physical Scrolls - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。察察政：全员日报、秒回文化、每个表情都解读——其民缺缺：人人自保，无人创造。祸福相依：一次失败可能是礼物，一次爆款可能是诅咒——别定终身。方而不割：坚持标准，但不羞辱不达标的人；光而不耀：有成绩，少晒，多留余地。察察政换成个人：每天自我打分、自我监控，也会缺缺——对自己残忍的人，对人也难厚。",
+      "image": "assets/DaoDeJing/Real Pine Cliff - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你的「政」——对自己是闷还是察？每天自我审计一百条，必缺缺。祸福练习：坏事里找一条逼力，好事里找一条隐患——不宿命，只防极。光而不耀：分享时少一层「看我多正」，多一层「尚有余」。",
+      "image": "assets/DaoDeJing/Real Thorns - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，政闷民淳：少折腾，民自厚。第二，祸福互倚：不极喜，不极悲。第三，正奇互变：别把正做成妖。第四，方直有光，四不伤人。其政闷闷——好的治理，像没声音。下一章，「治人事天，莫若啬」——深根固柢。",
+      "image": "assets/DaoDeJing/治人事天莫若啬 - Ch59.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

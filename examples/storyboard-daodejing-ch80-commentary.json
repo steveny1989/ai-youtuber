@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第80章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：和大怨"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "乐俗"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch80-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "甘食美服乐其俗",
+      "哲学",
+      "第80章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第八十章精解——什伯不用、重死不远徙与简俗。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "小国寡民"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不相往来"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "甘食美服乐其俗",
+      "哲学",
+      "第80章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第八十章精解——什伯不用、重死不远徙与简俗。",
+    "dynamic": "小国寡民——甘其食，美其服，安其居，乐其俗，相望不相往来。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第七十九章讲「和大怨」——执左契而不责人，天道无亲。第八十章，老子描一幅「简」世：「小国寡民。」使有什伯之器而不用，使民重死而不远徙。虽有舟舆，无所乘之；虽有甲兵，无所陈之。甘其食，美其服，安其居，乐其俗。邻国相望，鸡犬相闻，民至老死不相往来。这一章，最易被误读为闭关——老子说的是：少折腾、少迁移、少工具崇拜、安住当下。读八十大，别急着反驳，先问：你的日子够厚吗？",
+      "image": "assets/DaoDeJing/浓白晨雾笼罩的孤绝小村 - ch80 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：什伯不用、重死不远徙，与甘食乐俗。",
+      "image": "assets/DaoDeJing/Peeling paper - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「使有什伯之器而不用。」什伯之器——高效大工具、复杂机器、放大能力的 tech；而不用——不是反技术，是不被工具驱着跑。你有 AI、有平台、有全套 SaaS——若每天被它们牵着，就是「有而不用」的反面：为用而用。小国寡民问：工具是仆人，还是主人？",
+      "image": "assets/DaoDeJing/Plc 17 Snowy Sacrifi - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「使民重死而不远徙。」重死——惜命、惜当下生活，不轻掷身体去赌远方；不远徙——不盲目迁移、不为了幻想中的更好毁掉已有根。与第七十五章轻死——对照：好系统让人惜命，坏系统让人赌命。「远方更好」若是逃避，徙了也白徙。",
+      "image": "assets/DaoDeJing/Physical scrolls - c - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「虽有舟舆，无所乘之；虽有甲兵，无所陈之。」舟舆——交通、流动、全球化；甲兵——武力、防御、军备竞赛。无所乘、无所陈——能力在，但不轻易启动。与第六十九章不敢为主、第六十八章不武——能力克制。个人：你有很多「出行方案」和「防御话术」，是否反而更少安住？",
+      "image": "assets/DaoDeJing/古战场上 - Ch69.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「甘其食，美其服，安其居，乐其俗。」四甘——食、服、居、俗，皆就地满意。不是禁止进步，是止贪远方样板。与第七十七章损补——先把脚下补好，再谈扩张。甘食美服——是日常尊严，不是消费主义。",
+      "image": "assets/DaoDeJing/Plc 02 Pillar Corrid - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「邻国相望，鸡犬之声相闻，民至老死不相往来。」相望相闻——知道彼此在，无隔离幻想；不相往来——不频繁互扰、不强制融合、不24小时在线社交。全章收束：小国寡民——是密度与边界，不是封闭愚昧。给第八十一章「信言不美」最后一击铺路。简到能安住，才读得进终章的「为而不争」。",
+      "image": "assets/DaoDeJing/铁匠放弃了大锤 - Ch64.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "梭罗「瓦尔登」——简居当代互证。日本「侘寂」——甘食美服的精神版。老子与孔子「安土重迁」——重死不远徙同向。互联网「数字极简」——什伯之器而不用。",
+      "image": "assets/DaoDeJing/Pottery Rice - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。生活：远方焦虑、工具焦虑、比较焦虑——小国寡民是解药：把日子过厚，不是把地图走满。工作：少开无效会、少换无效栈——舟舆不乘。社交：相望不相往来——留边界，别强制亲密。简，不是退化，是密度。",
+      "image": "assets/DaoDeJing/Real pine cliff - ch - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：关掉一个「什伯之器」一天——看是否更甘其食。不远徙：暂停一次「换了就好了」的幻想，修脚下。不相往来：设一条消息边界，保护安居。甘食一天，胜过远方一万步。寡，是质量；小，是边界。第八十讲教你安住，第八十一讲教你收声。",
+      "image": "assets/DaoDeJing/暴风雪中 - Ch67.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，什伯不用：不被工具奴役。第二，重死不远徙：惜命惜根。第三，舟舆甲兵不启：能力克制。第四，甘食乐俗：脚下即好。小国寡民——是简，不是蠢。下一章，八十一讲终章——「信言不美，美言不信；圣人不积，为而不争。」八十讲俗，八十一讲言与道。简俗之后，老子说出最后一句话。",
+      "image": "assets/DaoDeJing/Sage insight - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

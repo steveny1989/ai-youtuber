@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第三章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：排行榜"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "比较与稀缺"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch03-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "unlisted",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不尚贤",
+      "哲学",
+      "第三章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三章精解——排行榜如何让人发疯。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "比较与稀缺"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不尚贤",
+      "哲学",
+      "第三章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三章精解——少立榜，少造神。",
+    "dynamic": "排行榜的本质，是制造争。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二章说：你每立一个标准，就生产一个反面。第三章，老子直接动手拆社会里最狠的那套标准——排行榜。不尚贤，使民不争。很多人读成反智、反精英。其实，它在讲一套系统补丁：当你把「贤」当成稀缺勋章到处发，你就在制造争。",
+      "image": "assets/DaoDeJing/一只古朴的黑色建盏 - Ch03.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译这一章。",
+      "image": "assets/DaoDeJing/一块铁胚在铁砧上冷却 - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「不尚贤，使民不争。」不要过度抬举「贤名」，否则民众就会为名次互相撕扯。贤本可以是能力，一旦被尚，就变成竞技场。老子不是在说不要优秀，而是在说：别把优秀做成公开的排行榜。",
+      "image": "assets/DaoDeJing/一座石桥在浓雾中戛然而止 - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「不贵难得之货，使民不为盗；不见可欲，使民心不乱。」把稀缺之物抬成天价，就会诱发偷盗；把刺激欲望的东西到处展示，心就静不下来。这是在拆「稀缺营销」的底层逻辑——你制造渴望，就制造混乱。",
+      "image": "assets/DaoDeJing/一望无际的黑色沙丘 - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「是以圣人之治，虚其心，实其腹，弱其志，强其骨。」圣人治理，不是灌更多概念，而是让心少点执念，让肚子有基本满足，让膨胀的野心软下来，让身体的根基硬起来。虚其心，不是愚民，是别让人心被名相塞满。",
+      "image": "assets/DaoDeJing/一根粗糙的旧麻绳紧紧绷直 - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「常使民无知无欲，使夫智者不敢为也。」让大多数人不必在概念里内耗，也让那些靠聪明算计的人不敢轻易兴风作浪。不是消灭智慧，是别让聪明变成表演和操控的许可证。",
+      "image": "assets/DaoDeJing/一片纯白雪原中 - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "第五段，全章落点：「为无为，则无不治。」做该做的，但不抢在系统前面替一切下结论。少干预名相，少刺激欲望，反而能不治而治。这是第三章最反直觉的管理学：减法，有时比加法更稳。",
+      "image": "assets/DaoDeJing/古代青铜漏刻（水钟） - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "西方这边，托克维尔观察民主社会里的「多数暴政」——当某种「正确」被抬得太高，异端就被挤压。东方这边，《韩非子》讲赏罚分明，老子却反其道：少尚、少贵、少可见之欲。一个在加固榜单，一个在拆榜单的引擎。",
+      "image": "assets/DaoDeJing/幽暗木塔中巨大的青铜钟 - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。学校排名、职场职级、财富榜单、粉丝排行榜——每一个榜单都在说：你还不够。限量款、饥饿营销、FOMO 通知，都是「不贵难得之货」的算法版。你刷到的每一个「别人有了你也该有」，都是不见可欲的反面教材。",
+      "image": "assets/DaoDeJing/暗色木茶托上的一圈水渍 - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "创作者被数据绑架：播放量、完播率、涨粉速度。你开始不为内容本身，而为榜单表演。这就是「尚贤」在今天的变体——平台把贤名做成实时更新的名次，你被迫一直争。",
+      "image": "assets/DaoDeJing/木箱 - Ch03.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "读完第三章，四条认知补丁：第一，警惕排行榜：名次是系统制造的争。第二，警惕稀缺营销：越贵越想要，越乱。第三，少灌概念：让心有空，让腹有实。第四，为无为：做减法治理，比堆规则更稳。下一章，老子讲「道冲」——空，才能用。",
+      "image": "assets/DaoDeJing/石炉中即将熄灭的余烬 - Ch03.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

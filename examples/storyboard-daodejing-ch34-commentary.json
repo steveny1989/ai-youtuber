@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第三十四章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：泛"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "不名有"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch34-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大道泛兮",
+      "哲学",
+      "第34章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十四章精解——可名于小，可名为大。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不自大"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大道泛兮",
+      "哲学",
+      "第34章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十四章精解——可名于小，可名为大。",
+    "dynamic": "道可左可右，生而不辞，功成不名有——最大的大，是不自大。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十三章讲向内六维。第三十四章，老子写「大道泛兮，其可左右。」大道弥漫，可左可右——不固定一端。万物恃之而生而不辞，功成不名有，衣养万物而不为主。常无欲，可名于小；万物归焉而不为主，可名为大。以其终不自为大，故能成其大。这一章，是「幕后大道」——生养一切，不争名，不为主，反而成其大。对平台、基础设施、父母、制度设计者，都是镜子。",
+      "image": "assets/DaoDeJing/木雕 - Ch40.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，学习「不辞」「不名有」「不为主」的语法。",
+      "image": "assets/DaoDeJing/未雕琢的原木块 - Ch01.png",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「大道泛兮，其可左右。」大道广泛流行，可左可右——不僵化。你越想抓住道的一端，越抓不住；它左右都能用。",
+      "image": "assets/DaoDeJing/束起的竹简在光束中 - Ch01.png",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「万物恃之而生而不辞，功成不名有，衣养万物而不为主。」万物依靠它生，它不辞——不推责、不抱怨；功成不名有——成了也不署名；衣养万物而不为主——像衣服养身体，却不主宰身体。这三条，可写成团队底线。",
+      "image": "assets/DaoDeJing/松子 - Ch64.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「常无欲，可名于小；万物归焉而不为主，可名为大。」常无欲，可叫「小」；万物归附而不为主，可叫「大」。小与大，是同一道的两面。",
+      "image": "assets/DaoDeJing/极其寂静的古代军帐内 - Ch73.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「以其终不自为大，故能成其大。」因为终于不自以为大，所以能成其大。自大，是大的敌人。",
+      "image": "assets/DaoDeJing/枯草尖端的一滴晶莹露水 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：大道是基础设施伦理——让万物发生，不争功，不控制，不自大。",
+      "image": "assets/DaoDeJing/枯藤老树 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯宾诺莎：神即自然，弥漫万物。生态学：物种依赖看不见的网络。老子：不辞、不名有、不为主——是生态位最高的德。西方英雄叙事爱名有；老子爱无名之大。",
+      "image": "assets/DaoDeJing/柔弱胜刚强 - Ch36.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。互联网协议、电网、语言——大道泛兮。平台若「为主」，就引发反抗；若衣养而不为主，生态繁荣。父母若功成不名有，孩子更自由。领导若终不自为大，组织更敢担当。",
+      "image": "assets/DaoDeJing/栈道风雪 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人品牌陷阱：处处名有，处处为主——累，且招人厌。做谷，做衣，做不辞的成全者，反而「可名为大」。",
+      "image": "assets/DaoDeJing/树根 - Ch59.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，学不辞：生养不辞责。第二，功成不名有：让功在系统里。第三，不为主：成全而不控制。第四，终不自大：大，来自谦卑。下一章，「执大象」——淡而无味，用之不足既。",
+      "image": "assets/DaoDeJing/桥 - Ch01.png",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

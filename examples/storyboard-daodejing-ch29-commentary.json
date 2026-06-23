@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第二十九章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：神器"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "去甚"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch29-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天下神器",
+      "哲学",
+      "第29章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十九章精解——圣人去甚去奢去泰。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "控制欲"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天下神器",
+      "哲学",
+      "第29章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二十九章精解——圣人去甚去奢去泰。",
+    "dynamic": "天下是神器，不能硬拧——为者败之，执者失之。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第二十八章讲知守与归朴。第二十九章，老子警告权力：「将欲取天下而为之，吾见其不得已。」想拿下天下硬干，我看不行。「天下神器，不可为也，为者败之，执者失之。」天下是神圣器物，不能造作，造作则败，执握则失。物或行或随、或强或羸，圣人去甚、去奢、去泰。这一章，是「复杂系统不可强控」的古典版。 去甚奢泰，可写成团队三条红线。",
+      "image": "assets/DaoDeJing/暗流中的竹编鱼篓 - Ch29.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，学会对「天下」——大系统——保持敬畏，别用意志硬拧。",
+      "image": "assets/DaoDeJing/将欲翕之 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「将欲取天下而为之，吾见其不得已。」想取天下而「为」之——强行作为、强行改造——我看不得已，不行。不是不要目标，是别用拧的方式。拧，是以为意志大于结构。",
+      "image": "assets/DaoDeJing/尊道贵德 - Ch51.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「天下神器，不可为也，为者败之，执者失之。」天下是神器，不能「为」，为者败，执者失。神器，怕摔、怕拧、怕独占——公司、家庭、身体，都是神器。",
+      "image": "assets/DaoDeJing/尖石 - Ch40.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「故物或行或随，或歔或吹，或强或羸，或挫或隳。」万物有的行、有的随，有的嘘、有的吹，有的强、有的羸——多样性，不是误差，是常态。系统里只有一种节奏，往往已病。",
+      "image": "assets/DaoDeJing/山村晨雾 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以圣人去甚、去奢、去泰。」所以圣人去掉「甚」——过度；去掉「奢」——奢侈；去掉「泰」——极盛安稳的幻觉。 泰，是「永远高增长」的幻觉，最宜警惕。",
+      "image": "assets/DaoDeJing/岩壁裂缝中渗出的细流 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：去甚去奢去泰，是对神器的保养——别过热、别过满、别过执。神器，宜养不宜拧。",
+      "image": "assets/DaoDeJing/巨大的青铜香炉中火种熄灭 - Ch02.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "哈耶克：自发秩序，不可全设计。复杂系统：小干预大后果。医学：过治伤人。老子更早：天下神器，为执皆败。去甚奢泰，是克制干预强度——干预越少，系统越活。",
+      "image": "assets/DaoDeJing/巨帆破浪 - 通用.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。平台「增长黑客」拧用户，市场反噬。家长「为」孩子人生，亲子关系败。公司 KPI 极致化，员工失之。天下神器，也可指你的身体、婚姻、国家——别硬拧。每周自问：我在拧什么不该拧的东西？",
+      "image": "assets/DaoDeJing/巨网 - Ch73.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "「执者失之」：握越紧，流越快。领导微控，人才流失。产品处处弹窗，用户卸载。去泰：别追求永远高增长，留余地。",
+      "image": "assets/DaoDeJing/师长与弟子在院中对坐讲道 - Ch01.png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，认神器：大系统不可强为。第二，戒为执：为则败，执则失。第三，容多样：行随强弱，皆是物。第四，去甚奢泰：减过度、减奢侈、减极盛幻觉。下一章，「不以兵强天下」——胜利的克制。",
+      "image": "assets/DaoDeJing/干裂的土地纹理 - Ch01.png",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

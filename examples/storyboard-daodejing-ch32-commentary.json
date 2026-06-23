@@ -1,0 +1,216 @@
+{
+  "title": "观念黑盒：《道德经》第三十二章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：无名"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "知止"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch32-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道常无名",
+      "哲学",
+      "第32章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十二章精解——侯王守朴，万物自宾。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "自宾"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "道常无名",
+      "哲学",
+      "第32章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十二章精解——侯王守朴，万物自宾。",
+    "dynamic": "朴虽小，天下莫能臣；名起之后，知止才不殆。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十一章讲兵与丧礼。第三十二章，老子回到「名」与「朴」：「道常无名，朴虽小，天下莫能臣也。」道常常无名；朴虽微小，天下没人能当它的臣。侯王若能守之，万物将自宾；天地相合以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止，知止可以不殆。譬道之在天下，犹川谷之于江海。这一章，是「制度与命名」的刹车片——名是必要的，但名会膨胀；守朴、知止，系统才久。",
+      "image": "assets/DaoDeJing/损之又损 - Ch48.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，看见「无名」「朴」「止」如何一起工作。",
+      "image": "assets/DaoDeJing/无名之朴 - Ch37.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「道常无名，朴虽小，天下莫能臣也。」道常常没有固定名字；朴，是未雕之木、未分之物，虽小，天下却不能奴役它——因为它在更底层。朴在底层，名在表层；你越抓名，越抓不住朴。",
+      "image": "assets/DaoDeJing/摄生 - Ch50.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「侯王若能守之，万物将自宾。」侯王若能守住朴，万物自然来归附——不是抓来的，是自宾。人来了，是因为条件成熟，不是因为你抓人。",
+      "image": "assets/DaoDeJing/摩崖石刻 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「天地相合以降甘露，民莫之令而自均。」天地相合降甘露，百姓不用命令就自然均衡——好规则像甘露，润物无声。",
+      "image": "assets/DaoDeJing/断桥烟雨 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「始制有名，名亦既有，夫亦将知止，知止可以不殆。」开始有了制度就有了名，名已经有了，就要知止——知道停在哪里，才不会危殆。每加一条制度前，问：不加会不会更危殆？",
+      "image": "assets/DaoDeJing/方而不割 - Ch58.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「譬道之在天下，犹川谷之于江海。」道在天下，像川谷归于江海——小处汇流，大局自成。别把自己变成堵塞川谷的坝。",
+      "image": "assets/DaoDeJing/旅人的粗食 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "维特根斯坦：名与物的关系复杂。佛教：无名与空性。制度经济学：规则太多，系统僵。老子：始制有名不可避免，但须知止；守朴，则自宾自均。",
+      "image": "assets/DaoDeJing/无为而无不为 - Ch37.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。公司岗位、职级、标签——都是名。名一多，人就只认名不认事。守朴：回到业务本质、用户价值。知止：制度、流程、会议，加到「可以不殆」就停。",
+      "image": "assets/DaoDeJing/无形的引导 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "品牌亦如此：名越大，期望越虚；朴，是产品真实能力。川谷江海：做谷，不做坝；做汇流，不做垄断。",
+      "image": "assets/DaoDeJing/暗室中倒悬的锋利古铁剑 - Ch36.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，守朴：守未雕之木。第二，待自宾：少抓，多成条件。第三，知止：名到止处。第四，如川谷：汇流，不堵塞。下一章，「自知者明」——向内的大胜。",
+      "image": "assets/DaoDeJing/暴雨中 - Ch53.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

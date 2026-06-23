@@ -2,11 +2,25 @@
 assets/*
 !assets/README.md
 
+# 媒体文件排除
+*.mp4
+*.mp3
+*.mov
+*.wav
+*.avi
+*.mkv
+*.flv
+*.m4a
+
 .work/
 output/
+node_modules/
+dist/
 __pycache__/
 *.pyc
 .venv/
 venv/
 .env
+credentials/
+!credentials/README.md
 .DS_Store

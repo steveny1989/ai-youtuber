@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第三十六章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：微明"
+    },
+    {
+      "id": "2",
+      "label": "六段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "诱饵结构"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch36-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "将欲歙之",
+      "哲学",
+      "第36章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十六章精解——微明与柔弱胜刚强。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "六段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "反向操作"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "将欲歙之",
+      "哲学",
+      "第36章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十六章精解——微明与柔弱胜刚强。",
+    "dynamic": "欲歙先张、欲弱先强——看懂系统的反向操作，别被诱饵牵着走。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803,
+    "cover_image": "assets/DaoDeJing/鱼不可脱于渊 - Ch36.jpg"
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十五章讲「执大象」——大道淡而无味，却用不完。第三十六章，老子换了一套更冷峻的系统描述。「将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲夺之，必固与之。」想收紧，先让你张开；想削弱，先让你变强。想废掉，先捧你起来；想夺取，先给你。这叫「微明」——规律隐约可见，不是全黑。然后落刀：「柔弱胜刚强。」鱼不可脱于渊，国之利器不可以示人。这一章，是反诱饵、反捧杀、反极限施压的总纲。",
+      "image": "assets/DaoDeJing/鱼不可脱于渊 - Ch36.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译，把「反向操作」从阴谋论里拎出来，当成结构语言。",
+      "image": "assets/DaoDeJing/漆黑深水中 - Ch36.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段四句，是同一模板：系统若想改变你，往往先顺着你当前的方向，把你推到极端。「固张」「固强」「固兴」「固与」——不是偶然，是相位策略。你感觉「怎么越努力越失控」，有时不是努力错了，是你被放到了必败的相位里。免费试用到期涨价、先给额度再收手续费——都是「固与」的现代版。",
+      "image": "assets/DaoDeJing/羽毛 - Ch36.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「是谓微明。」微明，不是全黑，也不是大亮——是隐约能看见的因果。顺境里最难的，是看见「有人在固张我」；巅峰里最难，是看见「有人在固强我」。微明，是提前半拍的清醒：奖励来得太顺、捧杀来得太满，先问结构，再问善恶。",
+      "image": "assets/DaoDeJing/刺客 - Ch36.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「柔弱胜刚强。」刚，易折；柔，可续。被「固强」推到最硬的位置——全仓、全押、全盘公开——下一步往往是碎。守住柔，不是软弱，是保留回弹空间；谈判里最后掀桌的人，常是已经没余地的人。",
+      "image": "assets/DaoDeJing/暗室中倒悬的锋利古铁剑 - Ch36.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「鱼不可脱于渊。」鱼离开深渊，就死。个人离开自己的根基——健康、现金流、核心能力——去追被捧出来的高度，同理。二零二二年很多公司烧光现金追估值，就是鱼离渊：光环在，渊没了。",
+      "image": "assets/DaoDeJing/江心孤石 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「国之利器不可以示人。」利器，是底牌、是杀手锏。示人，就被人研究、对冲、反制。情绪核弹、关系威胁、「我随时可以怎样」——示一次，效力减一次。真正有效的筹码，往往安静、可重复，而不是每次吵架都亮刀。",
+      "image": "assets/DaoDeJing/沉重之锚 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "先看西方。黑格尔——德国哲学家——讲「否定之否定」：正题推到极端，引出反题。《孙子兵法》讲「能而示之不能」——也是反向操作，但目的是识局，不是学害人。老子问的是：当系统「固与」你时，它最终想要什么？看清结构，不等于阴谋论。",
+      "image": "assets/DaoDeJing/沙漏 - Ch40.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。谈判里的「先给甜头再收网」、平台的「补贴养习惯再涨价」、舆论里的「先捧上天再摔下」——都是微明结构。识别它，是停止免费当鱼离渊：你可以接资源，但别接那个必败的相位。被捧成「最强团队」之后接不可能的目标，就是固强——看清，比硬扛有用。消费者习惯免费配送之后涨价，也是固张：先让你张开，再收紧。",
+      "image": "assets/DaoDeJing/沙漠中孤独的城门 - Ch01.png",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人成长里也有「固强」：短期冲刺、透支健康、孤注一掷一个人设标签。强到极致，系统反噬；留柔、留渊、留利器不示，才是长跑。被固张的「机会」诱惑时，问一句：这是在扩我的渊，还是在诱我离渊？",
+      "image": "assets/DaoDeJing/油灯 - Ch58.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，识微明：顺境里问「谁在固张我」。第二，守柔：别被推到必折的刚——全押是相位，不是勇气。第三，不离渊：根基比光环重要，现金流比故事重要。第四，利器不示：底牌留给自己，情绪留给自己。下一章，「道常无为而无不为」——万物自化，不是万物被推着走。",
+      "image": "assets/DaoDeJing/油灯微光下 - Ch65.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

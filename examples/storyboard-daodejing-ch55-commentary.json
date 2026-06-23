@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第55章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：善建"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "和常"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch55-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "含德之厚",
+      "哲学",
+      "第55章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十五章精解——赤子、和与物壮则老。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "赤子之德"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "知和曰常"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "含德之厚",
+      "哲学",
+      "第55章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十五章精解——赤子、和与物壮则老。",
+    "dynamic": "含德之厚，比于赤子——知和曰常，物壮则老，不道早已。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十四章讲「善建者不拔」——修之于身，其德乃真。第五十五章，老子给出最柔的意象：「含德之厚，比于赤子。蜂虿虺蛇不螫，猛兽不据，攫鸟不搏。」骨弱筋柔而握固，终日号而不嗄——和之至也。知和曰常，知常曰明；益生曰祥，心使气曰强。物壮则老，谓之不道，不道早已。这一章，是「厚德如婴儿」：不是弱，是合和；不是壮，是常。",
+      "image": "assets/DaoDeJing/婴儿 - Ch55.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：赤子、握固与和，及物壮则老。",
+      "image": "assets/DaoDeJing/微距特写 - Ch55.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「含德之厚，比于赤子。」含德之厚——德蓄得厚，不是堆道德标签，是内在协调、少伪饰，像婴儿。赤子不是「幼稚」，是「还没被拧坏」：少算计、少表演、需求直给。你若能厚到像赤子，不是退回婴儿，是删到真。",
+      "image": "assets/DaoDeJing/蝎子 - Ch55.jpg",
+      "motion": "pan_up",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「蜂虿虺蛇不螫，猛兽不据，攫鸟不搏。」毒虫不蜇、猛兽不抓、猛禽不击——不是婴儿有武功，是合和到没有「可斗之气」。你一身刺、一脸战意，世界就回以螫据搏。赤子气纯，冲突接口少。职场里「永远备战」的人，招来的也是战。",
+      "image": "assets/DaoDeJing/Guarding The Black - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「骨弱筋柔而握固，未知牝牡之合而全作，精之至也。」骨弱筋柔，握却固——柔里有真力，不是硬拧。精之至——精气完整，未泄、未散、未过度消耗。全作，古义含「生机饱满」——不是成人话题，是生命力满格。很多人力竭，不是做得少，是精散——多线程、多焦虑、多表演，骨硬筋僵，握反而虚。",
+      "image": "assets/DaoDeJing/Half Open Window - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「终日号而不嗄，和之至也。知和曰常，知常曰明。」哭整天不哑——不是没哭，是气不散，和还在。和之至，是系统内协调：情绪可表达，但不毁身。知和曰常——知道协调，才叫常；知常曰明——知道常，才叫明。常，不是不变，是可续。",
+      "image": "assets/DaoDeJing/Hand Brush - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「益生曰祥，心使气曰强。物壮则老，谓之不道，不道早已。」益生——过度养生、过度补、过度护，反而是祥（凶兆）；心使气——用意硬顶呼吸、硬顶身体，叫强（其实是僵）。物壮则老——东西一过峰值就衰，强行维持「壮」，是不道，早亡。与第五十章「生生之厚」同脉：太想活、太想强，都不道。",
+      "image": "assets/DaoDeJing/Hand Over Paper - Ch02.jpg",
+      "motion": "kenburns_in",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "依恋理论——英国心理学家鲍尔比——讲婴儿 secure base：柔而能探，接近「含德之厚」。道家「婴儿呼吸」养生，重少气耗、多内和，不是练肌肉，是练不嗄。亚里士多德——古希腊哲学家——「中道」：过与不及皆病，与知和曰常同向。",
+      "image": "assets/DaoDeJing/plc_06_stone_base_silk.jpg",
+      "motion": "pan_up",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。「硬核」文化：硬扛、硬刚、硬卷——心使气曰强，物壮则老，三十如五十。过度养生：补剂堆满、体检焦虑，是益生曰祥。赤子态不是躺平，是少战意、多协调——团队里不螫人的领导，反而聚人。握固：专注一件事时，柔而有力，比多开十线更接近精之至。",
+      "image": "assets/DaoDeJing/Hand With Brush - Ch02.jpg",
+      "motion": "pan_up",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你的「气」是螫、据、搏，还是和？减一层战意：少一句怼、少一次预设立场。握固练习：每天二十分钟，只做一件事，体会柔而固。知和曰常：情绪来了，允许号，但不嗄——表达完，睡得了，是和。戒益生：少一层「必须更壮」的焦虑，物壮则老，常比壮久。",
+      "image": "assets/DaoDeJing/Heavy Lock - Ch02.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，厚德如赤子：删伪，返真。第二，不螫不据：减战意，世界自和。第三，知和曰常：可续叫明，过壮叫老。第四，戒益生心使气：不道早已。含德之厚——柔而固，和而常。下一章，「知者不言，言者不知」——挫其锐，解其纷，和其光，同其尘。",
+      "image": "assets/DaoDeJing/挫其锐 - Ch56.jpg",
+      "motion": "kenburns_out",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

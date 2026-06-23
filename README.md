@@ -48,7 +48,7 @@ python -m pipeline examples/storyboard.example.json
 ```
 
 成片输出：`output/final.mp4`  
-中间文件：`.work/audio/`、`.work/segments/`
+中间文件：`output/audio/`、`output/segments/`（与成片同目录，便于查找）
 
 ## 分镜 JSON 格式
 
@@ -148,7 +148,7 @@ python -m pipeline examples/storyboard.example.json
 python -m pipeline <storyboard.json> [--work-dir DIR] [--output-dir DIR] [--skip-tts]
 ```
 
-- `--skip-tts`：复用 `.work/audio/` 里已有 mp3，只重渲染画面（改模板/字幕时用）
+- `--skip-tts`：复用 `output/audio/` 里已有 mp3，只重渲染画面（改模板/字幕时用）
 
 ## 目录结构
 
@@ -159,7 +159,7 @@ python -m pipeline <storyboard.json> [--work-dir DIR] [--output-dir DIR] [--skip
 ├── assets/            # 本地图片素材（已 gitignore，不提交）
 ├── scripts/           # 辅助脚本
 ├── output/            # 成片（git 忽略）
-└── .work/             # 中间文件（git 忽略）
+└── output/            # 成片 + 配音 + 片段（git 忽略）
 ```
 
 ## 后续可扩展

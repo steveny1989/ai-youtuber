@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第50章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：无心"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "死地"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch50-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "出生入死",
+      "哲学",
+      "第50章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十章精解——十有三与善摄生无死地。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "十有三"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "善摄生无死地"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "出生入死",
+      "哲学",
+      "第50章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十章精解——十有三与善摄生无死地。",
+    "dynamic": "生之死地十有三——以其生生之厚，善摄生者无死地。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十九章讲圣人以百姓心为心，德善德信。第五十章，老子谈生死：「出生入死。生之徒，十有三；死之徒，十有三；动之死地，亦十有三。」夫何故？以其生生之厚。盖闻善摄生者，陆行不遇兕虎，入军不被甲兵……夫何故？以其无死地。这一章，从治理切到命：十人里三成活、三成死、三成把自己动到死路——因为太想「活着」。",
+      "image": "assets/DaoDeJing/出生入死 - ch50 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：十有三、生生之厚，与善摄生。",
+      "image": "assets/DaoDeJing/摄生 - ch50 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「出生入死。」出生，入死——人生场域，两端已定。中间怎么活，是本章题。不是玄学恐吓，是统计式清醒：十人里，三种命运，你选哪种算法。",
+      "image": "assets/DaoDeJing/兕无所投其角 - ch50 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「生之徒，十有三；死之徒，十有三；动之死地，亦十有三。」三成自然活，三成自然死，三成把自己「动」进死地。重点在第三类：不是天收，是自己选的路。熬夜换钱、情绪硬刚、极限杠杆——动之死地，常是自愿签的。",
+      "image": "assets/DaoDeJing/生之徒 - ch50 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「夫何故？以其生生之厚。」为什么？因为太想生、太想活、太想厚——养生养到焦虑，安全感到 paranoid，每一步都「为了活命」而过度，反而厚出死地。生生之厚，是用力过猛的活法。",
+      "image": "assets/DaoDeJing/老虎 - ch50 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「盖闻善摄生者，陆行不遇兕虎，入军不被甲兵。」善摄生，不是练铁布衫，是行路不撞犀牛老虎，进军不穿甲——不是运气好，是无死地可选。你不进必死之局，兕虎兵刃就无着力点。避险，是结构，不是玄学。",
+      "image": "assets/DaoDeJing/避险之路 - ch50 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「兕无所投其角，虎无所用其爪，兵无所容其刃。夫何故？以其无死地。」无死地——你不在那个「必被角顶、必被爪抓、必被刃穿」的位置上。善摄生，是地图学：知道哪是死地，别动进去。职场、投资、关系，都有死地：全押、绝交、孤注一掷。角爪刃找不到你，因为你不在那个坐标上——这是结构，不是运气。",
+      "image": "assets/DaoDeJing/虎无所措其爪 - ch50 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯多葛——古罗马哲学——讲控制二分：生之徒、死之徒， largely 不可控；动之死地， largely 可控——选不选，在你。塔勒布——黎巴嫩裔思想家——讲「避免爆仓」：无死地，是反脆弱的前提。东方「君子不立于危墙之下」，与善摄生同向。",
+      "image": "assets/DaoDeJing/特写黑暗竹林中的老虎眼睛 - ch50 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。「拼命活」文化：加班荣耀、睡眠羞耻、「年轻就要 All in」——多是生生之厚。二零二三年后，很多人才懂：动之死地，是自愿的 burnout。善摄生：不碰庞氏、不碰情绪核弹、不碰健康透支——不是胆小，是无死地。陆行不遇兕虎：少去犀牛扎堆的地方，比练躲犀牛便宜。投资里全仓单票、关系里以死相逼，都是进死地。",
+      "image": "assets/DaoDeJing/Communal Stone Mill - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你现在的哪一条「为了更好活」，其实在动之死地？杠杆、关系、习惯——画一张死地地图，绕开。生生之厚：减一层「必须证明我还行」的厚，摄生反而轻。无死地，不是永不冒险，是不进必死之局。十有三里，选第三类的人最多——因为厚。善摄生，是每天少进一次必死之局，不是多补一粒维生素。",
+      "image": "assets/DaoDeJing/原木 - ch04 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，识三类：活、死、动之死地。第二，戒生生之厚：越怕死，越动死地。第三，善摄生：地图学，不是硬扛。第四，无死地：角爪刃，无处着力。出生入死——中间那段，别动进死地。下一章，「道生之，德畜之」——万物莫不尊道而贵德。",
+      "image": "assets/DaoDeJing/一座如刀锋般的巨大山峰 - ch42 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

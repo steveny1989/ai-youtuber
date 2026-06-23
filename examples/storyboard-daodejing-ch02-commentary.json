@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第二章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：名的代价"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "审美焦虑"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch02-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "unlisted",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "美之为美",
+      "哲学",
+      "第二章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二章精解——你立标准，对立面就被造出来了。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "审美焦虑"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "美之为美",
+      "哲学",
+      "第二章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第二章精解——立标准的账单。",
+    "dynamic": "你造的每一个「美」的标准，都在账单上记了一笔「丑」。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "上一章，老子教你看清语言的边界。第二章，他立刻往下推一步：一旦你立了标准，对立面就被你同时造出来了。很多人读「天下皆知美之为美」，以为在讲审美。其实，它在讲一套更底层的机制——人类如何通过「命名」和「立榜」，把世界切成对立的两半，然后把自己困在中间。",
+      "image": "assets/DaoDeJing/Bronze Mask - Ch02.jpg",
+      "pause_after_sec": 0.45,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译这一章的核心代码。",
+      "image": "assets/DaoDeJing/Bronze Tripod - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「天下皆知美之为美，斯恶已；皆知善之为善，斯不善已。」一旦全社会都知道什么叫美，丑就被定义出来了；一旦都知道什么叫善，不善也就同时诞生了。老子不是在否定美和善，他在揭露一个认知账单：你每立一个标准，就自动生产它的反面。",
+      "image": "assets/DaoDeJing/Ceramic Bowl - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「故有无相生，难易相成，长短相较，高下相倾，音声相和，前后相随。」这不是道德格言，是结构描述——你立一极，另一极必然站起来。有与无、难与易、长与短，都是同一套对立引擎的不同档位。世界不是被发现的，很多时候是被你的分类系统「生产」出来的。",
+      "image": "assets/DaoDeJing/Courage To Delete - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「是以圣人处无为之事，行不言之教。」圣人不是躺平，而是不抢在事物前面替它下结论。他不在事情还没展开时，就急着贴标签、定标准、立排行榜。行不言之教，是留一块不贴标签的地，让真实问题自己露出来。",
+      "image": "assets/DaoDeJing/Court Officials - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「万物作焉而不辞，生而不有，为而不恃，功成而弗居。」做了，像没做；成了，像没成。不占有过程，不霸占结果。因为你一旦占功，你就把自己焊在了「成功者」的标签上——而标签，正是上一章说的牢笼。",
+      "image": "assets/DaoDeJing/Crumbling Stone - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "第五段，全章落点：「夫唯弗居，是以不去。」正因为不霸占功劳，功劳才留得住。你越想抓住「我很好」「我很对」，越容易失去真实的影响力。这是第二章最反直觉的操作系统升级：少立榜，少造神，少占功。",
+      "image": "assets/DaoDeJing/Daily Loss - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "两千多年后，赫拉克利特说：「对立物彼此相通。」黑格尔讲正反对立综合，尼采讲价值重估——都在说同一件事：你立的善，会召唤它的影子。东方这边，司马迁写项羽悲歌，写的不只是一个英雄，而是「勇名」被立起来之后，整个对手盘如何同时诞生。老子在第二章，其实在拆命名的暴力。",
+      "image": "assets/DaoDeJing/Dead Wood New Sprout - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。审美标准每年换代——脸、身材、简历关键词、学区房、大厂职级。平台把「美」和「成功」做成可点击的标签，你一旦追，焦虑、攀比、造假就被一起生产出来。「内卷」和「躺平」，很多时候不是懒，是人们在两套对立名相之间耗尽。公司搞「年度最佳员工」，照片墙上墙，第二年大家开始为指标表演，真话少了，协作也少了。",
+      "image": "assets/DaoDeJing/Deep Well - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "社交媒体把每个人变成可比较的条目：粉丝数、点赞数、更新频率。你追一个「更美、更成功、更自律」的标准，系统就自动给你配一个「还不够」的阴影。这就是「斯恶已」在今天的算法版本。",
+      "image": "assets/DaoDeJing/Desire Thorns - Ch02.jpg",
+      "pause_after_sec": 0.35,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "读完第二章，装上四条认知补丁：第一，警惕立标准：每个「美」的定义，都在生产一个「丑」。第二，少造对立：非黑即白的框架，多半是认知偷懒。第三，不占功劳：做了就好，别把身份焊在结果上。第四，留一块不贴标签的地：让问题自己说话。下一章，老子讲「不尚贤，使民不争」——排行榜，如何让人发疯。",
+      "image": "assets/DaoDeJing/Empty Robe - Ch02.jpg",
+      "pause_after_sec": 0.4,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

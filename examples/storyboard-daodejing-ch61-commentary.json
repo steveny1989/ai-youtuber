@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第61章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：烹小鲜"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "以下取"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch61-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大国者下流",
+      "哲学",
+      "第61章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十一章精解——下流、牝静与大国宜下。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "大国下流"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "大者宜下"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大国者下流",
+      "哲学",
+      "第61章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十一章精解——下流、牝静与大国宜下。",
+    "dynamic": "大国者下流，天下之交——牝常以静胜牡，大者宜为下。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十章讲「治大国若烹小鲜」——少翻动，两不相伤，德交归焉。第六十一章，老子把视角抬到国与国：「大国者下流，天下之交，天下之牝。」牝常以静胜牡，以静为下——故大国以下小国，则取小国；小国以下大国，则取大国。两者各得其所欲，大者宜为下。这一章，是外交黑盒：强不在压人，在能下；静不在弱，在能胜躁。从烹小鲜的「少伤人」，到这里「以下取」——老子要你把姿态放低，关系才交会。",
+      "image": "assets/DaoDeJing/大国者下流 - Ch61.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：下流、牝静胜牡，与大国宜下。",
+      "image": "assets/DaoDeJing/母马 - Ch61.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「大国者下流，天下之交。」下流——水往低处，百川归海；大国若海，要处在「可汇聚」的位置，不是高处俯视，是低处接纳。天下之交——万邦交汇的枢纽，在交，不在霸：你成为通道，才成为中心。当代误读：大国等于声音最大、规则最硬——老子说，大者先下，才交得起来。",
+      "image": "assets/DaoDeJing/大国者下流 - Ch01.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「天下之牝，牝常以静胜牡，以静为下。」牝——母性、包容、孕育之位；常以静胜牡——躁进、逞强、爱秀肌肉者，往往输给能守静的一方。以静为下——静不是躺平，是节奏慢半拍、力量不抢先。谈判桌上，先开口吼价的人，常把底牌亮给静听的那一个。",
+      "image": "assets/DaoDeJing/母鹿 - Ch61.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「故大国以下小国，则取小国；小国以下大国，则取大国。」以下——放低姿态、给面子、让利路；取——不是吞并，是赢得信任与依附。大国以下：尊重小国的安全感，它才愿靠近；小国以下：承认现实梯度，才换得庇护与机会。或下以取，或下而取——主动下与被动下，都能成局，关键是「下」得真诚，不是表演。",
+      "image": "assets/DaoDeJing/wat_15_ocean_rain_pillar.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「大国不过欲兼畜人，小国不过欲入事人。」兼畜人——大国要的是兼容、蓄养、共生，不是把人都变成奴隶；入事人——小国要的是参与大事、被看见、被接入网络。各得其所欲——动机不同，但都能满足：大者要格局，小者要通道。搞成零和，是读错本章：老子谈的是差序互补，不是征服美学。",
+      "image": "assets/DaoDeJing/Wheel And Hub - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「夫两者各得其所欲，大者宜为下。」收束全章：双赢的前提是「下」；大者宜为下——体量越大，越要先示范谦卑与可预期。与第三十六章「鱼不可脱于渊」同脉：大国若海，小国若鱼——海不翻涌，鱼才愿来。对个人：你在团队里越强，越要少压人一头，多留入口。",
+      "image": "assets/DaoDeJing/鱼不可脱于渊 - Ch36.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "西方修昔底德陷阱讨论——大国恐惧与小国恐惧，与「以下取」形成对照：老子先给解药：下。中国「海纳百川」，与下流同象。禅宗「低头见天」，不是卑微，是扩大接触面。与第六十章「两不相伤」合看：下，是外交上的不伤人。",
+      "image": "assets/DaoDeJing/wat_10_rain_hitting_reef.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。平台巨头对创作者：若只抽成、不给通道，小国就另起炉灶——大国者下流，是设计共赢接口。管理者对新人：少摆资历，多问「你需要什么资源」。以静胜牡：会议里最后发言的，往往定调。大者宜为下——带头承认错误、让功、让利，团队才聚。",
+      "image": "assets/DaoDeJing/Wooden Window - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你的「大国」——部门、家庭、社群——本周一次「以下」：先听对方把诉求说完，再表态。牝静练习：争执将起，慢三秒，降半档音量。小国视角：向更强者求助时，带着方案去，不是空手求。各得其所欲：写清你要的是「被看见」还是「被保护」，对方才接得住。",
+      "image": "assets/DaoDeJing/plc_02_pillar_corridor.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，大国下流：强在能聚。第二，牝静胜牡：慢半拍，胜躁进。第三，以下取：真诚让利路。第四，大者宜为下：体量越大，越先示范。大国者下流——低处，才是枢纽。下一章，「道者万物之奥」——善人之宝，不善人之所保。外交之后，老子谈「道」为何为天下贵。",
+      "image": "assets/DaoDeJing/plc_10_empty_dragon_robe.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

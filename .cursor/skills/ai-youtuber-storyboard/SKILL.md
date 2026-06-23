@@ -27,7 +27,7 @@ python -m pipeline examples/storyboard.example.json
 python -m pipeline path/to/storyboard.json --skip-tts   # 复用 .work/audio
 ```
 
-成片：`output/final.mp4`；中间：`.work/audio/`、`.work/segments/`。
+成片：`output/final.mp4`（含 BGM 混音）；中间：`output/audio/`、`output/segments/`。BGM 见 `ai-youtuber-bgm` skill。
 
 ## Storyboard JSON 结构
 
@@ -77,6 +77,7 @@ python -m pipeline path/to/storyboard.json --skip-tts   # 复用 .work/audio
 | 写法 | 自动生成 / 行为 |
 |------|-----------------|
 | `scene_type: "intro"` | `assets/placeholder-home.jpg`（用顶层 `title`，hook 底） |
+| `cover.enabled` + `cover.image` | `assets/covers/<本期>-cover.jpg`（片头 + 投稿封面，每期独立） |
 | `scene_type: "chapter"` + `chapter: "1"` | `assets/chapters/chapter-1.jpg`（用 `chapters[].label`） |
 | `chapter_title: "番外"`（无 chapters 表） | `assets/chapters/chapter-{scene.id}.jpg` |
 | 顶层 `chapters[]` | 预生成全部 `chapter-{id}.jpg` |

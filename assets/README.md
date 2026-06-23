@@ -8,7 +8,8 @@
 - `hook_bg.webp` — **首页**背景（标题偏左中，右侧宝盒）
 - `avatar.webp` — **片尾**全屏
 - `placeholder.jpg` — 正文镜头底色（与首页同系暗绿灰渐变，`./scripts/make_placeholder.sh`）
-- `placeholder-home.jpg` — **首页/封面**（hook 底 + 品牌 + 标题）
+- `placeholder-home.jpg` — **旧式 intro 首页**（`scene_type: intro` 时用；片头 cover 请用 `assets/covers/`）
+- `covers/` — **每期独立片头封面** + B 站/YT 投稿缩略图源（分镜 `cover.image`）
 - `chapters/chapter-01.jpg` … — **章节图**（同首页色调 + 右侧宝盒，左侧章节名）
 
 生成章节图：

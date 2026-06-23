@@ -1,0 +1,57 @@
+{
+  "title": "发音测试",
+  "language": "zh-CN",
+  "chapters": [],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "pronunciation_test.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "motion": "static"
+  },
+  "watermark": {
+    "enabled": false
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-5%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "bgm": {
+    "enabled": false
+  },
+  "ending": {
+    "enabled": false
+  },
+  "ambient": {
+    "enabled": false
+  },
+  "scenes": [
+    {
+      "id": "test-01",
+      "narration": "如果你去读孔子，他会教你如何成为一个完美的社会零件。",
+      "image": "assets/DaoDeJing/白衣身影步入无边白雾 - 通用.jpg"
+    },
+    {
+      "id": "test-02",
+      "narration": "如果你去读老子的《道德经》，老聃其实也在教你一种战略性的撤退。",
+      "image": "assets/DaoDeJing/铜镜中映出模糊人影 - ch01 - 通用.png"
+    },
+    {
+      "id": "test-03",
+      "narration": "但庄子，完全是另一个维度的存在。庄周诞生在战国中期。",
+      "image": "assets/DaoDeJing/荒野孤灯 - 通用 - 通用.jpg"
+    }
+  ]
+}

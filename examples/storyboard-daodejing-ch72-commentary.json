@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第72章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：知不知"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "自爱"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch72-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大威至自知自爱",
+      "哲学",
+      "第72章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十二章精解——大威、无狎无厌与自知自爱。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "民不畏威"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "自知不自见"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大威至自知自爱",
+      "哲学",
+      "第72章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第七十二章精解——大威、无狎无厌与自知自爱。",
+    "dynamic": "民不畏威，则大威至——圣人自知而不自见，自爱而不自贵。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第七十一章讲「知不知，上」——不知知，病；病病，不病。第七十二章，老子谈「威」与「居」：「民不畏威，则大威至。」无狎其所居，无厌其所生。夫唯不厌，是以不厌。是以圣人自知而不自见，自爱而不自贵，故去彼取此。这一章，是权力黑盒：小威吓不住人，大威来自压迫过甚后的反噬；圣人知自己、不秀自己，爱自己不贵自己。",
+      "image": "assets/DaoDeJing/夜色绝壁上的茅草屋 - ch80 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：大威、无狎无厌，与自知自爱。",
+      "image": "assets/DaoDeJing/Ceramic bowl - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「民不畏威，则大威至。」民不畏威——小惩罚、小恐吓、小权力秀，人们习惯了，就不怕了；则大威至——真正的威压来临——往往是系统反弹、总爆发。黑盒读法：靠威维持的秩序，培养的是麻木与反抗，不是敬畏。管理靠吼，团队不怕吼那天，就是「大威」——离职、躺平、对抗。",
+      "image": "assets/DaoDeJing/Dead wood new sprout - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「无狎其所居，无厌其所生。」狎——轻慢、打扰、侵犯；其所居——百姓的生活空间、隐私、安全感。厌——压榨、过度索取；其所生——生计、成长、呼吸权。统治者若狎居、厌生——民必倦、必逃、必反。与第七十五章「民之饥、难治、轻死」同脉预告。",
+      "image": "assets/DaoDeJing/民之饥 - ch75 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「夫唯不厌，是以不厌。」不厌——上面不过度榨取，下面才不厌倦、不逆反；双向不厌，系统才久。平台若不厌用户——少弹窗、少套路、少杀时间——用户才不厌平台。父母不厌子女——少控制、少比较——关系才不厌。",
+      "image": "assets/DaoDeJing/Communal Stone Mill - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以圣人自知而不自见，自爱而不自贵。」自知——清楚自己的局限与动机；不自见——不把自己当景观展示、不抢「被看见」。自爱——护住身心与原则；不自贵——不觉得自己高人一等、不配特殊傲慢。与第七十章被褐怀玉合看：褐是自知自爱，不秀是自不见自不贵。",
+      "image": "assets/DaoDeJing/Sage meditating wide - 通用.png",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「故去彼取此。」去彼——去掉自见、自贵、狎民、厌民、小威吓人；取此——取自知、自爱、不厌、让民安居。全章收束：威不在吓人，在少侵犯；力不在秀己，在知界。给第七十三章「勇于不敢则活」铺路：敢而妄，杀；不敢而慎，活。去彼取此，是每日可做的减法选择。",
+      "image": "assets/DaoDeJing/勇于不敢则活 - ch73 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "孟德斯鸠「暴政的恐怖」——小威失效后的失控。儒家「己所不欲，勿施于人」——无厌所生。西方边界感——无狎其所居的现代版。老子与韩非「二柄」不同——本章重「不厌」而非「术」。",
+      "image": "assets/DaoDeJing/Courage to delete - - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。公司：靠监控、羞辱、末位淘汰吓人——民不畏威，大威至：集体诉讼、舆论反噬、人才枯竭。改法：减狎——少查手机式管理；减厌——合理工时、清晰回报。个人：自知而不自见——少发「我很厉害」的朋友圈，多做事；自爱而不自贵——护休息，不护优越感。威若不能让人敬，只会让人逃。",
+      "image": "assets/DaoDeJing/Crumbling stone - ch - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：检视谁让你「厌生」——能否设边界或减少接触。不自见练习：一周不主动讲自己的成就。不厌练习：对家人同事少一句挑剔，多一句具体感谢。威的练习：用规则代替吼叫。",
+      "image": "assets/DaoDeJing/连弩 - Ch65.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，民不畏威则大威至：小威养麻木，大威是反弹。第二，无狎无厌：护人之居与所生。第三，自知自爱：知界、护己。第四，去彼取此：舍自见自贵，取不厌。民不畏威——治心先于治人。下一章，「勇于敢则杀，勇于不敢则活」——天网恢恢，疏而不失。七十二讲威，七十三讲敢与不敢。",
+      "image": "assets/DaoDeJing/Wooden Basin Stars - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

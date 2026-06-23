@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第十八章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：废与有"
+    },
+    {
+      "id": "2",
+      "label": "四组对举"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "美德表演"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch18-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "volcengine",
+    "voice": "zh_male_ruyaqingnian_uranus_bigtts",
+    "resource_id": "seed-tts-2.0",
+    "emotion": "narrator",
+    "rate": "-8%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大道废",
+      "哲学",
+      "第18章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十八章精解——大道废，有仁义。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "四组对举"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "仁义"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "大道废",
+      "哲学",
+      "第18章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第十八章精解——大道废，有仁义。",
+    "dynamic": "当「正能量」被大声叫卖时，往往说明底层已经坏了。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第十七章讲太上之治。第十八章，老子突然泼冷水：「大道废，有仁义。」不是反对仁义，是指出一种结构——当底层之道废了，上层才会大声喊仁义、孝慈、忠诚。这四句排比，像四组诊断报告：你看见什么美德被高举，就反推什么底层已经坏了。读这一章，要学会「反向诊断」：越热闹的道德宣传，越要问问哪里已经不合、已伪、已乱。这一章会让你不适——你赞美的美德，可能是系统崩溃后的止痛药。学会反推，你就少被道德 KPI 牵着走。",
+      "image": "assets/DaoDeJing/大伪 - Ch18.jpg",
+      "pause_after_sec": 0.65,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐组破译，学会从「美德口号」反推系统病灶。每组都是一张 X 光片，照见底层。",
+      "image": "assets/DaoDeJing/大火过后的宫殿废墟 - Ch18.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一组：「大道废，有仁义。」大道——自然运行的秩序——若还在，仁义是顺水行舟；大道废了，仁义就变成补丁、标语、道德绑架。越喊「要有爱心」，越可能缺爱。办公室里天天喊「用户第一」，往往是最不把用户当回事的时候。反推的第一步：听见口号，先查底层。",
+      "image": "assets/DaoDeJing/忠臣 - Ch18.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二组：「慧智出，有大伪。」机心、聪明、套路一出，大伪就跟着来。不是聪明不好，是把聪明用在表演正确、操控舆论上，系统就假了。大数据画像、精准话术、情绪操控——慧智到顶，大伪也在顶。",
+      "image": "assets/DaoDeJing/秤 - Ch18.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三组：「六亲不和，有孝慈。」家里真和睦，不需要天天强调孝；强调到夸张，往往是不和已经发生了。亲子节目里哭孝，有时比沉默更刺耳——因为不和已在台下。",
+      "image": "assets/DaoDeJing/血迹 - Ch18.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四组：「国家昏乱，有忠臣。」政治清明时，忠臣不必天天挂在嘴上；昏乱时，才需要忠臣叙事来续命。每一组都是：果（被歌颂的美德）暴露了因（底层已坏）。学会这套反推，你就少被口号带节奏。",
+      "image": "assets/DaoDeJing/为道日损 - Ch48.jpg",
+      "pause_after_sec": 0.48,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：老子不是教人冷漠，是教你别被「美德表演」骗了。先修大道、先和合、先清明，仁义孝慈忠臣才是自然流露，而不是 KPI。诊断之后是施工：别再加一层标语，去修底层。美德若真在，不必用大喇叭；喇叭越响，越要听底层。每次想刷「感动」，先问：大道还在吗？",
+      "image": "assets/DaoDeJing/云雾缭绕的远山层叠 - Ch01.png",
+      "pause_after_sec": 0.48,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "尼采追问道德谱系：谁的需要被包装成美德？鲁迅揭「吃人」的礼教，也是大道废后的仁义。韩非重法术，看似反道德，实则承认：光靠口号治不好系统。老子最简：四组对举，一眼反推。四组够你用一辈子——每见高调美德，先问大道还在不在。掌握反推，你就不会被道德 KPI 牵着走。建议你把四组写进笔记本，遇事对照，比背口号有用得多。",
+      "image": "assets/DaoDeJing/井水 - Ch63.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。公司价值观上墙、公关稿里仁义满屏、社交平台强制「正能量」——有时是真心，有时是大道废后的补救。慧智出而大伪：AI 写感恩信、数据造假、ESG 表演，都是聪明用在伪上。越像「正确」，越要警惕。先修大道，再谈仁义；顺序错了，全是表演。",
+      "image": "assets/DaoDeJing/亭中学者临水而坐 - Ch01.png",
+      "pause_after_sec": 0.52,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人层面亦然：越在朋友圈强调「我很幸福」「我很努力」，有时正是内心不和、方向昏乱的信号。不是不许表达，是问自己：我是在活，还是在补一张给外人看的道德奖状？奖状贴满墙，往往家里已不合。。团队复盘时加一问：我们是在修大道，还是在贴仁义膏药？",
+      "image": "assets/DaoDeJing/人群 - Ch20.jpg",
+      "pause_after_sec": 0.52,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，见废知有：看见被高举的美德，反问底层坏了什么。第二，戒慧伪：别把聪明全用在表演正确，慧智出则大伪至。第三，先和合：六亲、团队先修关系，再喊口号。第四，少表演：让仁义自然流，不靠墙贴、不靠公关。把「反向诊断」当习惯：见美德，问废处。下一章，「绝圣弃智」——减法政治为何反而利民用。",
+      "image": "assets/DaoDeJing/绝圣弃智 - Ch19.jpg",
+      "pause_after_sec": 0.58,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

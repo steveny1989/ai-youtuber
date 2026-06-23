@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第65章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：千里之行"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "玄德"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch65-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不以智治国",
+      "哲学",
+      "第65章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十五章精解——将以愚之与玄德大顺。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "将以愚之"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不以智治国"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "不以智治国",
+      "哲学",
+      "第65章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十五章精解——将以愚之与玄德大顺。",
+    "dynamic": "古之善为道者，将以愚之——不以智治国国之福，玄德乃至大顺。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十四章讲「千里之行，始于足下」——慎终如始，辅万物自然。第六十五章，老子谈治国与民智：「古之善为道者，非以明民，将以愚之。」民之难治，以其智多；故以智治国，国之贼；不以智治国，国之福。知此两者，亦稽式；常知稽式，是谓玄德——深矣，远矣，与物反矣，然后乃至大顺。这一章，最易被误读：愚不是愚民政策，是减巧、减算、减对抗。与第六十四章「不敢为」同脉：上面少秀聪明，下面才顺。",
+      "image": "assets/DaoDeJing/油灯微光下 - ch65 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：将以愚之、智治国贼福，与玄德大顺。",
+      "image": "assets/DaoDeJing/Plc 19 Forbidden Cit - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「古之善为道者，非以明民，将以愚之。」非以明民——不是让老百姓变得更会算计、更会钻规则；将以愚之——愚，是返朴：少机心、少花样、少对抗术。黑盒读法：系统越复杂，民越「智多」——人人找漏洞，国就难治。善为道者，降低博弈复杂度，不是降低人格尊严。",
+      "image": "assets/DaoDeJing/Wat 01 Deep Low Pool - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「民之难治，以其智多。」智多——小聪明、小手段、小套路过剩；难治不是民蠢，是规则激励了算计。你奖「机灵」，就收获「机灵互害」。与第六十三章「多易必多难」合看：以为聪明能解决一切，反而制造新难。",
+      "image": "assets/DaoDeJing/Wat 02 Thawing River - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「故以智治国，国之贼；不以智治国，国之福。」以智治国——靠权谋、监控、层层套路治国，短期有效，长期伤根——贼；不以智治国——用简法、清晰、可预期，让民不必天天算——福。不是反知识，是反把治国变成智力游戏。福在稳定，贼在聪明过剩。",
+      "image": "assets/DaoDeJing/Plc 20 Feather On Ba - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「知此两者，亦稽式。常知稽式，是谓玄德。」稽式——可核对、可重复的模式；常知——领导者心里始终有两条路：秀智 vs 守朴，选哪条，系统就走向哪条。玄德——不是神秘，是深而远、与物反：与争巧相反，与炫智相反。油灯微光——不耀，但久。",
+      "image": "assets/DaoDeJing/油灯 - ch58 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「玄德深矣，远矣，与物反矣，然后乃至大顺。」深——不浮在话术；远——不困在眼前博弈；与物反——与万物争巧的趋势相反；乃至大顺——大顺不是强行整齐，是少对抗后的自然顺流。全章收束：愚之、戒智治国、守稽式、玄德——给第六十六章「江海善下」铺路：顺，来自下与简。",
+      "image": "assets/DaoDeJing/Wat 04 River Converg - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "柏拉图警惕民主变成「取悦群众」——与智多难治有对话空间。中国「大智若愚」——不是真愚，是藏锋。西方「奥卡姆剃刀」——少假设，与不以智治国同向。老子与孔子「民可使由之」常被误读——本章重在减博弈，不在辱民。",
+      "image": "assets/DaoDeJing/Wat 12 Stirring Murk - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。公司：考核逼出刷数、甩锅、PPT 智——国之贼的现代版。改法：指标少而硬、流程简、信息透明——不以智治国。教育：教孩子赢辩论，不教孩子共情与守约——智多难治从家庭开始。个人：少玩「看透一切」的人设，多练「把事情做简单」。",
+      "image": "assets/DaoDeJing/Pure courtyard - ch0 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：本周减一条「小聪明」——不钻空子、不阴阳合同、不信息差宰熟。愚之练习：把一件复杂协作改成一页纸规则。稽式：固定每周复盘格式，不临时发明新表格。玄德：一件事先慢做，看是否更顺。",
+      "image": "assets/DaoDeJing/Plc 12 Discarded Tab - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，将以愚之：减机心，非辱民。第二，智多难治：规则别激励算计。第三，以智治国为贼：简法透明为福。第四，玄德深远，乃至大顺：与争巧反，才顺。古之善为道者——聪明用在守朴，不用在炫智。下一章，「江海所以能为百谷王者，以其善下」——第六十六章，下流与王者同脉。六十五讲智，六十六讲位——八十一讲进入最后一段航程。",
+      "image": "assets/DaoDeJing/Wat 15 Ocean Rain Pi - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

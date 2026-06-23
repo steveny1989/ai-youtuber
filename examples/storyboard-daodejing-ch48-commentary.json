@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第48章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：知"
+    },
+    {
+      "id": "2",
+      "label": "四段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "无事"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch48-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "为道日损",
+      "哲学",
+      "第48章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十八章精解——日益日损与无为无不为。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "日益与日损"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "取天下以无事"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "为道日损",
+      "哲学",
+      "第48章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十八章精解——日益日损与无为无不为。",
+    "dynamic": "为学日益，为道日损——损之又损以至于无为，取天下常以无事。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十七章讲「不行而知」——弥远弥少。第四十八章，老子给出两条相反的曲线：「为学日益，为道日损。损之又损，以至于无为。无为而无不为。」取天下常以无事；及其有事，不足以取天下。这一章，是整部《道德经》的「减法总纲」——学，做加法；道，做减法，直到无为而无不为。",
+      "image": "assets/DaoDeJing/为道日损 - ch48 (1) - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：日益与日损，及取天下以无事。",
+      "image": "assets/DaoDeJing/损之又损 - ch48 (1) - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「为学日益，为道日损。」为学，知识、技能、信息——日增，合理。为道，对世界的扰动、对自己的执念——日减，也合理。两条曲线，别混：用「学更多」冒充「道更深」，是常见错位。书架满，不等于心更静；简历长，不等于更无为。",
+      "image": "assets/DaoDeJing/为道日损 - ch48 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「损之又损，以至于无为。」损，不是删到空，是删到不再乱动：无效会议、无效欲望、无效证明——一层层剥。以至于无为：不是什么都不做，是不做无效做。产品删功能、人生删支线，都是损之又损。",
+      "image": "assets/DaoDeJing/损之又损 - ch48 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「无为而无不为。」无为到位，该成的仍成——因为你没堵死自化，也没浪费力在假动作上。无不为，是无为的果，不是无为前的野心清单。先损，后成；先减噪，后听见。这与第三十七章「道常无为而无不为」同脉。",
+      "image": "assets/DaoDeJing/无为而无不为 - ch37 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「取天下常以无事；及其有事，不足以取天下。」取天下，靠「无事」——少折腾、少强控、少无事生非。一旦「有事」——忙乱、多动、多干预——反而不足以取。做大事的人，常看起来闲；忙到飞起的人，常只在取小局。无事，是战略态，不是懒。会议排满、群消息不断，就是有事——不足以取大果。",
+      "image": "assets/DaoDeJing/去伪 - ch48 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "全章合读：日益与日损，是双轨。只跑日益，是学者病；只跑日损，是逃避病。损之又损，以至于无为——是日损的终点态；无为而无不为，是终点态的果实。取天下以无事，把「减」和「成」扣在一起。",
+      "image": "assets/DaoDeJing/孤灯下 - ch48 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "奥卡姆剃刀——中世纪逻辑原则——说：勿增实体。乔布斯——美国企业家——讲 focus is saying no：为道日损的现代版。佛教「戒定慧」，戒与定，都是损；慧，是无为而明的知。西方 minimalism 与东方日损，同向：删到要害在。",
+      "image": "assets/DaoDeJing/Knowing when to stop - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。知识付费卖「日益」，很少卖「日损」。你订阅十个 newsletter、开五个项目，是日益；若因此没空深度工作，道在损，你却越加越忙。二零二四年「数字极简」兴起，不是时尚，是日损自救。取团队以无事：少开无效会，比多开动员会更能取成果。及其有事，不足以取天下——忙，有时是结构性的不能。",
+      "image": "assets/DaoDeJing/Courage to delete - - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：列一张「损清单」：本周可删的一个会、一个群、一个欲望。为学仍日益，但为道要日损——两条曲线分开记账。损之又损，不是一次删光，是每周一层。无为而无不为：删完无效做，有效做会自己浮上来。取天下以无事——对你，可能是取健康、取关系，靠少折腾。日益若不加日损，你会忙到没有道。",
+      "image": "assets/DaoDeJing/利刃 - ch02 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，双轨：学日益，道日损，别混。第二，损之又损：剥无效做，直到不乱动。第三，无为无不为：减到位，成自来。第四，取天下以无事：少折腾，才取得大。日益与日损——加法给术，减法给道。下一章，「圣人常无心」——以百姓心为心，德善德信。",
+      "image": "assets/DaoDeJing/Meditating sage - ch - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

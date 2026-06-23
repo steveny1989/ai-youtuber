@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第56章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：含德之厚"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "玄同"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch56-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "知者不言",
+      "哲学",
+      "第56章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十六章精解——不言、和光同尘与玄同。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "知者不言"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "和光同尘"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "知者不言",
+      "哲学",
+      "第56章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第五十六章精解——不言、和光同尘与玄同。",
+    "dynamic": "知者不言，言者不知——挫其锐，和其光，同其尘，是谓玄同。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十五章讲「含德之厚」——赤子之德，知和曰常。第五十六章，老子把话头收到「说」与「不说」：「知者不言，言者不知。」然后又是熟悉的四件套：塞其兑，闭其门；挫其锐，解其纷，和其光，同其尘——最后落刀：「是谓玄同。故不可得而亲，不可得而疏……故为天下贵。」这一章，是深度沉默术：真懂的人不抢话筒，玄同者不被标签绑架。从第五十五章的「和」到这里，老子要你把声量再降一层——用沉默验真。",
+      "image": "assets/DaoDeJing/一束光切过暗室 - Ch56.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：不言、闭门、和光同尘，与玄同之贵。",
+      "image": "assets/DaoDeJing/悬崖边盘腿打坐的修道者 - Ch56.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「知者不言，言者不知。」不是装神秘，是知与言的层级不同：知，在结构里；言，在标签里。你一旦把洞见说满、说死，别人抓的是你的句子，不是道。言者不知——把话说透的人，往往停在话上，没回到静默那层验证。",
+      "image": "assets/DaoDeJing/死结 - Ch56.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「塞其兑，闭其门。」兑，是向外敞的口——表达欲、表演欲、解释欲。塞不是禁言，是少漏：能量从门缝耗散，里面就养不厚。闭其门——关键处不上锁给围观，内核在，外壳淡。深度工作者都懂：门开太大，心就散。",
+      "image": "assets/DaoDeJing/箭头 - Ch56.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「挫其锐，解其纷。」锐，是攻击性、优越感、必赢的角；纷，是纠缠、站队、非黑即白。挫锐不是变钝人，是去掉不必要的切割——解纷不是和稀泥，是不被卷进别人的剧本。你有立场，但不必处处亮剑；你有判断，但不必每场都辩。",
+      "image": "assets/DaoDeJing/透过磨砂质感的厚重旧纸窗 - Ch56.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「和其光，同其尘。」和其光——不拿强光晃人，你的明，融进环境的明；同其尘——不嫌俗、不装净，能在泥里走路，但不变成泥。这与第四章同句，但此处重在「玄同」：光不刺，尘不染心——是修养，不是伪装。",
+      "image": "assets/DaoDeJing/Hemp Screen - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「是谓玄同……故为天下贵。」玄同——与道同频，不被亲疏利害贵贱绑架。不可得而亲：捧你时不飘；不可得而疏：冷你时不崩；不可得而利害贵贱——标签贴不上。为天下贵，不是当网红，是成为可依赖的恒定参照。在流量时代，这等于：不卖人设，只守内核。",
+      "image": "assets/DaoDeJing/Identity Mask - Ch02.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "维特根斯坦——奥地利哲学家——「凡可说的，都可以说清楚；对不可说的，必须保持沉默。」禅宗「不立文字」，不是反知识，是知者不言的东方版。老子与孔子同代——「天何言哉，四时行焉」——也是不言而化的政治哲学。",
+      "image": "assets/DaoDeJing/Ink Ripple - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。解释型人格：每条朋友圈都是论文，每次会议都要「对齐认知」——言者不知的当代版。和光同尘，不是职场圆滑，是挫锐后不内耗：少一句「我早说过」。玄同练习：被夸不追加表演，被骂不急着自证——门关上，光调柔，反而更贵。团队里，最被信任的，往往不是最会说的，而是最稳、最不抢戏的那一个。",
+      "image": "assets/DaoDeJing/一个极简、圆润的粗糙木碗 - Ch04.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你的「兑」开在哪？直播、吐槽、预设立场——哪一扇门最耗？每天留一段「不言时间」：只观察，不输出。挫锐：下次想怼回去，先问——这锐为谁而亮？同其尘：和「不喜欢的人」共事，目标一致即可，不必精神洁癖。",
+      "image": "assets/DaoDeJing/Knowing When To Stop - Ch02.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，知者不言：少说一层，多验一层。第二，塞兑闭门：少漏，才能养厚。第三，和光同尘：明而不刺，俗而不污。第四，玄同为贵：不被亲疏利害绑架。知者不言——沉默，是深的开始。下一章，「以正治国，以奇用兵，以无事取天下」。",
+      "image": "assets/DaoDeJing/以正治国 - Ch57.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

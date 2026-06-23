@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第67章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：江海善下"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "慈卫"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch67-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "慈俭不敢为天下先",
+      "哲学",
+      "第67章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十七章精解——道大不肖与三宝。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "我有三宝"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不敢为天下先"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "慈俭不敢为天下先",
+      "哲学",
+      "第67章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十七章精解——道大不肖与三宝。",
+    "dynamic": "我有三宝：慈、俭、不敢为天下先——舍之则死，天将救之以慈卫之。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第六十六章讲「江海善下」——不争故天下莫能与之争。第六十七章，老子自道「大」：「天下皆谓我道大，似不肖。」夫唯大，故似不肖——若肖，久矣其细也夫。然后亮出三宝：一曰慈，二曰俭，三曰不敢为天下先。慈故能勇，俭故能广，不敢为天下先故能成器长。舍慈舍俭舍后而争先——死矣。这一章，是生存算法：大，不像你熟悉的「大」；强，从软、从少、从后里长出来。",
+      "image": "assets/DaoDeJing/慈 - ch67 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：道大不肖、三宝，与慈卫之。",
+      "image": "assets/DaoDeJing/粗食 - ch67 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「天下皆谓我道大，似不肖。」皆谓——人人都说；道大——格局大、包罗万象；似不肖——却不像任何具体形状，不像你熟悉的成功模板。不肖不是丑，是「不像」——真大的东西，套不进小标签。你若把道做成口号、做成门派、做成可炫耀的身份，它就「肖」了，也就「细」了。",
+      "image": "assets/DaoDeJing/Plc 14 Moongate Gard - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「夫唯大，故似不肖。若肖，久矣其细也夫。」唯大故不肖——正因为包容一切，才无法被定格；若肖——一旦像了某个模型，久了必细——变窄、变脆、变教条。黑盒读法：观念黑盒本身也怕「肖」——套成成功学，就细了。保持不肖，是保持开放与余地。",
+      "image": "assets/DaoDeJing/门槛 - ch67 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「我有三宝，持而保之：一曰慈，二曰俭，三曰不敢为天下先。」慈——对己对人留余地，不赶尽杀绝；俭——少欲、少耗、少铺张；不敢为天下先——不抢风头、不抢风险、不抢「第一个吃螃蟹」的虚荣。三宝不是道德装饰，是操作系统：慈养根，俭养池，后养位。",
+      "image": "assets/DaoDeJing/Empty robe - ch02 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「慈故能勇；俭故能广；不敢为天下先，故能成器长。」慈故能勇——真勇不是莽，是有人可护、有底线可守；俭故能广——省下来的精力与资源，才铺得开；不敢先故能成器长——不争先，反而成众器之长。与第六十六章不争合看：后，是战略位置，不是懦弱。",
+      "image": "assets/DaoDeJing/一个黑色的深邃空洞 - ch11 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「今舍慈且勇，舍俭且广，舍后且先，死矣。」舍慈而勇——残忍的勇，易崩；舍俭而广——透支的广，必竭；舍后而先——抢先的先，众矢之的。死矣——不是立刻肉身死，是系统死、关系死、信用死。「夫慈，以战则胜，以守则固。天将救之，以慈卫之。」全章落在：大在不肖，强在三宝。",
+      "image": "assets/DaoDeJing/一只古朴的黑色建盏 - ch03 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "佛教「慈悲」——慈与勇的共生。斯多葛「节制」——与俭同向。老子与孔子「君子不争」——不争先，非不争义。现代军事「哀兵」伏笔——慈卫之，在第六十九章展开。",
+      "image": "assets/DaoDeJing/Plc 03 Weapon Rack - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。创业：舍俭而广——烧钱换规模，现金流一死，故事全终。舍慈而勇——对团队狠、对用户诈，短期赢、长期坟。舍后而先——创始人抢一切镜头，公司成一人秀。改法：预算俭、对人不赶尽、让专业的人先发言。个人：消费俭、表达慈、社交后——三宝日用。",
+      "image": "assets/DaoDeJing/Pure mirror - ch01 - 通用.png",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：本周守一条俭——少买一个「显得厉害」的东西。慈练习：批评前先写对方一个真实优点。后练习：会议里最后一个表态。检视：你有没有「舍俭且广」的熬夜或透支？",
+      "image": "assets/DaoDeJing/一块古老的石碑 - ch04 - 通用.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，大似不肖：真大不套模板。第二，三宝：慈、俭、不敢先——操作系统，非口号。第三，舍三宝则死：勇广先若无根，必反噬。第四，慈以卫：柔可胜刚，天救慈者。我有三宝——持而保之，比任何技巧都久。下一章，「善为士者不武，善战者不怒」——不争之德，用人之力。六十七讲德，六十八讲兵与让。",
+      "image": "assets/DaoDeJing/一块铁胚在铁砧上冷却 - ch03 - 通用.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}

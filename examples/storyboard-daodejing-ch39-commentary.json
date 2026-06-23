@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第三十九章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：得一"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "根基"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch39-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "昔之得一",
+      "哲学",
+      "第39章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十九章精解——天得一以清，贵以贱为本。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "五段破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "贵贱"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "昔之得一",
+      "哲学",
+      "第39章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第三十九章精解——天得一以清，贵以贱为本。",
+    "dynamic": "贵以贱为本，高以下为基——别飘，系统才稳。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803,
+    "cover_image": "assets/DaoDeJing/贵以贱为本 - Ch39.jpg"
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第三十八章讲德之层级：越往下越表演。第三十九章，老子问：天、地、神、谷、万物、侯王，凭什么稳？答：「得一。」得一以清、以宁、以灵、以盈、以生、以为天下贞。然后警告：无清将恐裂，无宁将恐发——失去「一」，系统就崩。故「贵以贱为本，高以下为基。」侯王自谓孤寡不穀，正是以贱为本。不欲琭如玉，珞如石。这一章，是主轴、谦卑与根基论。",
+      "image": "assets/DaoDeJing/不欲琭琭如玉 - Ch39.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译「一」与「贱本」。",
+      "image": "assets/DaoDeJing/瀑布从高崖倾泻而下 - Ch01.png",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「昔之得一者：天得一以清，地得一以宁……侯王得一以为天下贞。」一，是统一、是主轴、是不散。失了主轴，天不清、地不宁、系统必裂。公司、家庭、个人，同一逻辑：忙而不聚，常是失一——事很多，主轴没有。同时开五条业务线，每条都像主轴——结果没有一，只有散。",
+      "image": "assets/DaoDeJing/炭火 - Ch60.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「其致之，天无以清将恐裂……」一连串「无以 X 将恐 Y」——不是诅咒，是结构：你拿掉根基，上层必塌。无以清将恐裂——清，要有本的支撑；没有本，亮面先裂。裁员裁到交付团队、砍到现金流，上层 KPI 再漂亮也恐裂。个人刷信用卡撑面子，内在现金流断了，外在「贵」也恐裂。",
+      "image": "assets/DaoDeJing/烟雨水墨 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「故贵以贱为本，高以下为基。」贵，以贱为本；高，以下为基。身份越高，越要承认自己的根在下方——否则高，是空的。老板离一线太远，决策就漂；个人只有头衔没有技能，风一吹就裂。",
+      "image": "assets/DaoDeJing/焦土 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「是以侯王自谓孤寡不穀。」王自称孤寡、不谷，不是卖惨，是提醒自己：合法性来自承载，不是来自炫耀。高位自谦，是为接「贱本」的反馈——听得见下面，才配在上面。",
+      "image": "assets/DaoDeJing/焦黑的战车 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "全章落点：「不欲琭如玉，珞如石。」不想做光鲜的玉，愿做朴实的石。玉易碎、易盗；石，稳、钝、久。炫目常伴脆，朴实常伴久。投资人看估值，合作伙伴看交付——石比玉更经用。",
+      "image": "assets/DaoDeJing/特写黑暗竹林中的老虎眼睛 - Ch50.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "毕达哥拉斯——古希腊数学家——说「一是万物之源」。儒家讲君子以厚德载物，本末不可倒置。现代组织论：高层离一线越远，越要刻意保持「以下为基」的反馈回路，否则决策必裂。三脉都在说：主轴和根基，比口号和光环重要。失一，不是道德失败，是系统失去统一刻度。",
+      "image": "assets/DaoDeJing/玄之又玄 - Ch01.png",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。头衔、粉丝、估值，是「高」；现金流、健康、信用、交付，是「贱本」。贵而不贱，一场空——账面富贵，底层断裂，一裂就全裂。很多暴雷的公司，不是没「高」，是没守住「贱本」：钱、人、货的真实回路。网红只有流量没有复购，也是高而不贱——一算法变，全裂。",
+      "image": "assets/DaoDeJing/玉碎 - Ch42.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "「珞如石」：不必处处晶莹闪亮。长期关系信的是可靠，不是炫目；华可吸睛，厚才留人。失一时面子，保主轴不散——是得一，不是失势。",
+      "image": "assets/DaoDeJing/生锈 - Ch04.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，守一：主轴不散——事多不如心齐。第二，贵贱：高处认低处为本，离一线要有意下沉。第三，孤寡不穀：高位自谦，是为接反馈，不是卖惨。第四，珞如石：宁朴不虚华——石稳玉脆。下一章，「反者道之动」——有生于无，周期与生成同读。",
+      "image": "assets/DaoDeJing/白玉 - Ch44.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

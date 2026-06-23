@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第41章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：三士"
+    },
+    {
+      "id": "2",
+      "label": "分层破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "知与行"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch41-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "上士闻道",
+      "哲学",
+      "第41章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十一章精解——闻道三士与大音希声。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "闻道三士"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "闻与行"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "上士闻道",
+      "哲学",
+      "第41章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十一章精解——闻道三士与大音希声。",
+    "dynamic": "上士勤行，中士若亡，下士大笑——不笑不足以为道。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十章讲「反者道之动」——周期在有无之间。第四十一章，老子问一个更扎心的问题：你「闻道」之后，属于哪一档？「上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之。不笑不足以为道。」然后列出一串反直觉悖论：明道若昧、进道若退、大音希声、大象无形……这一章，是闻与行的分层，也是「真道往往不好笑、不好卖」的说明书。",
+      "image": "assets/DaoDeJing/大雪 - ch41 - 通用.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：三士之分，与建言里的反直觉。",
+      "image": "assets/DaoDeJing/大雾弥漫的湖面 - ch41 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「上士闻道，勤而行之。」上士，不是智商最高，是听到之后真的改默认程序——少解释，多执行。中士「若存若亡」：今天觉得对，明天忙起来就忘，道在书签里不在生活里。下士「大笑之」：觉得玄、觉得装、觉得没用——笑，是心理防御。很多爆款哲学课，卖的是中士的「若存若亡」：收藏了，等于闻过了。",
+      "image": "assets/DaoDeJing/暴雪 - ch41 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「不笑不足以为道。」若道一出口就人人叫好，它多半是旧共识的包装，不是道。真道常逆常识：告诉你少即是多、弱即是强、空才是门——下士先笑，正常。老子不是歧视下士，是在描述分层：笑不笑，是筛选，不是判决。",
+      "image": "assets/DaoDeJing/暴雪中 - ch41 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「故建言有之：明道若昧，进道若退，夷道若颣。」明道看起来像糊涂，进阶看起来像后退，平坦道看起来像坎坷。系统升级时，旧指标先变差：你少加班，短期产出下降，像「退步」。若只盯旧仪表盘，会把进阶误判为堕落。",
+      "image": "assets/DaoDeJing/漆黑的地下溶洞深处 - ch41 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「上德若谷，大白若辱，广德若不足，建德若偷，质真若渝。」最高的德像空谷，最白的东西像有污点——因为真东西不抢高光。「大器晚成，大音希声，大象无形，道隐无名。」大器慢热，大音反而安静，大象没有固定形状，道藏在无名里。你找不到一个 logo 叫「道」，它在底层协议里。",
+      "image": "assets/DaoDeJing/大象无形 - 通用 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：「夫唯道，善贷且成。」道像好银行：先借你空间，再让你成。不是零和掠夺，是贷出可能性——留白、留弱、留无名，最后反而成。上士的「勤而行之」，勤在顺着这条贷与成，不是勤在表演努力。",
+      "image": "assets/DaoDeJing/空窗 - Ch11.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "苏格拉底——古希腊哲学家——说「我知道我一无所知」，像中士往上走半步。禅宗讲「以指见月」：手指不是月亮，闻道不是行道。康德——德国哲学家——区分现象与物自体：你听到的道，已是接口，不是本体。三脉都在说：闻与行之间，有条缝，缝不填，就停在中士。",
+      "image": "assets/DaoDeJing/Straw Rope Cut - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。知识付费、金句收藏、听完觉得「懂了」——多是若存若亡。上士不表现在朋友圈打卡，表现在默认行为变了：少一次硬刚，多一次留空；少一次炫知，多一次沉默执行。下士笑「大道至简」，有时笑的是自己还没碰过真问题。",
+      "image": "assets/DaoDeJing/Uncarved block - ch0 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你若常觉得「道理都懂，就是做不到」，你可能不是下士，是卡在中士——懂，是缓存；行，才是安装。闻道之后的一次小执行，比十次点赞更像上士。不笑不足以为道——若某条真理从未让你不适，它可能还没真进门。上士的孤独，不是清高，是少解释、多安装。",
+      "image": "assets/DaoDeJing/Value of void - ch02 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，识三士：收藏不是上士，执行才是。第二，认悖论：进阶常像退步，别用旧指标误杀新道。第三，敬无名：大音希声——真东西往往不吵。第四，善贷且成：留空、留弱，是成的前置条件。下一章，「道生一」——一生二，二生三，三生万物。",
+      "image": "assets/DaoDeJing/粗糙的骨白石墙上 - Ch02.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "catalog": "assets/DaoDeJing/ep02_image_catalog.json",
+    "beats": "examples/ep02_beats.json",
+    "beat_count": 22,
+    "image_count": 48,
+    "assigned": 22,
+    "algorithm": "manual_scene_concept",
+    "note": "按 scene_concept 语义手动选配，全部 ep02_*.jpg"
+  },
+  "matches": [
+    {
+      "beat_id": "intro-1",
+      "file": "assets/DaoDeJing/ep02_01_daily_loss.jpg",
+      "image_id": "ep02_01_daily_loss",
+      "reason": "为道日损"
+    },
+    {
+      "beat_id": "intro-2",
+      "file": "assets/DaoDeJing/ep02_07_courage_to_delete.jpg",
+      "image_id": "ep02_07_courage_to_delete",
+      "reason": "敢删、面对恐惧"
+    },
+    {
+      "beat_id": "open-1",
+      "file": "assets/DaoDeJing/ep02_02_knowledge_pile.jpg",
+      "image_id": "ep02_02_knowledge_pile",
+      "reason": "为学日益、知识堆叠"
+    },
+    {
+      "beat_id": "s1-1",
+      "file": "assets/DaoDeJing/ep02_02_physical_scrolls.jpg",
+      "image_id": "ep02_02_physical_scrolls",
+      "reason": "无差别追加方法"
+    },
+    {
+      "beat_id": "s1-2",
+      "file": "assets/DaoDeJing/ep02_15_endless_slips.jpg",
+      "image_id": "ep02_15_endless_slips",
+      "reason": "待读清单、竹简无尽"
+    },
+    {
+      "beat_id": "s1-3",
+      "file": "assets/DaoDeJing/ep02_04_peeling_paper.jpg",
+      "image_id": "ep02_04_peeling_paper",
+      "reason": "删过期层、剥离"
+    },
+    {
+      "beat_id": "s1-4",
+      "file": "assets/DaoDeJing/ep02_36_water_carving_rock.jpg",
+      "image_id": "ep02_36_water_carving_rock",
+      "reason": "往低处、拿石头"
+    },
+    {
+      "beat_id": "s1-5",
+      "file": "assets/DaoDeJing/ep02_18_resting_brush.jpg",
+      "image_id": "ep02_18_resting_brush",
+      "reason": "悬停笔、辨认该删"
+    },
+    {
+      "beat_id": "open-2",
+      "file": "assets/DaoDeJing/ep02_03_identity_mask.jpg",
+      "image_id": "ep02_03_identity_mask",
+      "reason": "身份面具"
+    },
+    {
+      "beat_id": "s2-1",
+      "file": "assets/DaoDeJing/ep02_26_court_officials.jpg",
+      "image_id": "ep02_26_court_officials",
+      "reason": "职位头衔一层层加"
+    },
+    {
+      "beat_id": "s2-2",
+      "file": "assets/DaoDeJing/ep02_04_peeling_identity.jpg",
+      "image_id": "ep02_04_peeling_identity",
+      "reason": "标签叙事、打卡"
+    },
+    {
+      "beat_id": "s2-3",
+      "file": "assets/DaoDeJing/ep02_28_empty_throne.jpg",
+      "image_id": "ep02_28_empty_throne",
+      "reason": "简介越长人越空"
+    },
+    {
+      "beat_id": "s2-4",
+      "file": "assets/DaoDeJing/ep02_11_empty_robe.jpg",
+      "image_id": "ep02_11_empty_robe",
+      "reason": "身份减法、空袍"
+    },
+    {
+      "beat_id": "open-3",
+      "file": "assets/DaoDeJing/ep02_05_desire_thorns.jpg",
+      "image_id": "ep02_05_desire_thorns",
+      "reason": "欲望荆棘"
+    },
+    {
+      "beat_id": "s3-1",
+      "file": "assets/DaoDeJing/ep02_34_storm_over_imperial_city.jpg",
+      "image_id": "ep02_34_storm_over_imperial_city",
+      "reason": "系统喂给你更多"
+    },
+    {
+      "beat_id": "s3-2",
+      "file": "assets/DaoDeJing/ep02_16_scattered_stalks.jpg",
+      "image_id": "ep02_16_scattered_stalks",
+      "reason": "选项分散、五条线"
+    },
+    {
+      "beat_id": "s3-3",
+      "file": "assets/DaoDeJing/ep02_19_deep_well.jpg",
+      "image_id": "ep02_19_deep_well",
+      "reason": "收敛野心、深井"
+    },
+    {
+      "beat_id": "open-4",
+      "file": "assets/DaoDeJing/ep02_07_hand_over_paper.jpg",
+      "image_id": "ep02_07_hand_over_paper",
+      "reason": "日损清单、写纸"
+    },
+    {
+      "beat_id": "protocol-1",
+      "file": "assets/DaoDeJing/ep02_13_uncarved_block.jpg",
+      "image_id": "ep02_13_uncarved_block",
+      "reason": "减法链、朴"
+    },
+    {
+      "beat_id": "protocol-2",
+      "file": "assets/DaoDeJing/ep02_real_hand_brush.jpg",
+      "image_id": "ep02_real_hand_brush",
+      "reason": "三步写纸条"
+    },
+    {
+      "beat_id": "protocol-3",
+      "file": "assets/DaoDeJing/ep02_08_value_of_void.jpg",
+      "image_id": "ep02_08_value_of_void",
+      "reason": "空是位置"
+    },
+    {
+      "beat_id": "closing-1",
+      "file": "assets/DaoDeJing/ep02_10_knowing_when_to_stop.jpg",
+      "image_id": "ep02_10_knowing_when_to_stop",
+      "reason": "知足知止预告 EP03"
+    }
+  ]
+}

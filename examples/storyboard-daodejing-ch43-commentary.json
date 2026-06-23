@@ -1,0 +1,217 @@
+{
+  "title": "观念黑盒：《道德经》第43章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：至柔"
+    },
+    {
+      "id": "2",
+      "label": "四句破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "不言"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch43-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1,
+    "motion": "auto"
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天下之至柔",
+      "哲学",
+      "第43章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十三章精解——至柔、无有与不言。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "四句破译"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "不言之教"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "天下之至柔",
+      "哲学",
+      "第43章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第四十三章精解——至柔、无有与不言。",
+    "dynamic": "至柔驰骋至坚，无有入无间——不言之教，天下希及。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true,
+    "series_id": 5133803
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第四十二章讲生成与强梁。第四十三章，老子用极简二十二字再落一刀：「天下之至柔，驰骋天下之至坚。无有入无间。」吾是以知无为之有益。不言之教，无为之益，天下希及之。这一章，是至柔穿透、无有入缝、以及为何「不说」比「说满」更有益。",
+      "image": "assets/DaoDeJing/不言之教 - ch17 - 通用.jpg",
+      "pause_after_sec": 0.85,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐句破译这四层：至柔、无有、无为、不言。",
+      "image": "assets/DaoDeJing/Water carving rock - - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s1",
+      "narration": "第一句：「天下之至柔，驰骋天下之至坚。」最柔的东西，能穿行最坚的东西——水、气、时间，都是。不是靠硬度赢，是靠持续、渗透、绕开正面。你硬碰公司制度，常撞墙；用柔的方式改流程、改习惯，反而驰骋。水滴石穿不是水比石硬，是时间在柔这边。",
+      "image": "assets/DaoDeJing/Wat 03 Seeping Drop - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s2",
+      "narration": "第二句：「无有入无间。」「无有」——看似没有的东西，能进入没有缝隙的地方。空气、信任、空间、沉默，都是「无有」；它们能入缝。团队里真正起作用的，常是看不见的协调，不是写在墙上的口号。你越想用制度填满每一秒，越挤掉无有——无间反而进不去。",
+      "image": "assets/DaoDeJing/Wat 09 Still Mirror - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s3",
+      "narration": "第三句：「吾是以知无为之有益。」因此知道无为的好处：不是不做，是不硬塞、不堵缝。让该发生的发生，让柔与无有自己入位——比强力改造更久。微管理是「有」，堵住了自化；边界清晰后的放手，是无为。父母替孩子做完作业，是「有」；留一格让孩子自己试，是无为有益。",
+      "image": "assets/DaoDeJing/空碗 - ch03 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s4",
+      "narration": "第四句：「不言之教，无为之益，天下希及之。」不言之教：身教、环境、结构，比 sermon 有效。天下希及之——很少有人真的做到，因为人类爱「说满、控满」。父母唠叨一百句，不如一次安静的示范；产品功能堆满，不如一条清晰路径。希及之，不是绝不可能，是反本能——所以值得练。",
+      "image": "assets/DaoDeJing/Monastery on cliff - - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_right"
+    },
+    {
+      "id": "s5",
+      "narration": "四句合读：至柔、无有、无为、不言，是一条链。你越用刚和满去解决问题，越进不了无间；越留柔、留空、留示范，越能穿透坚。希及之，不是不可能，是反本能。这一章最短，却最难：因为每一句都在减你的控制欲。",
+      "image": "assets/DaoDeJing/一个极简、圆润的粗糙木碗 - ch04 - 通用.jpg",
+      "pause_after_sec": 0.62,
+      "motion": "pan_left"
+    },
+    {
+      "id": "open-ext1",
+      "narration": "斯多葛——古希腊罗马哲学——讲控制二分：柔，是把力用在可改变的缝，不是用在不可改的墙。东方「不言」与西方「示范伦理」同向：教，在行不在词。塞涅卡——斯多葛哲学家——说：说得多，做得少，是另一种至坚对至坚。",
+      "image": "assets/DaoDeJing/Resting brush - ch02 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。影响力常来自「无有」：信任、口碑、留白的时间。硬广告是「有」，用户会关；真正入无间的是体验里的一个细节。领导不说「大家要团结」，而是自己先分功、先担责——不言之教。至柔不是软弱，是选穿透点。好的设计留白，好的管理留缝，好的关系留沉默——都是无有入无间。你越想用 KPI 填满每一格，越挤掉团队自协调的无有。",
+      "image": "assets/DaoDeJing/Ink ripple - ch02 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_left"
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你想改变习惯，靠意志力硬刚（至坚对至坚），常反弹。改环境、改触发、改一小步默认——至柔驰骋。争论时少一句证明你是对的，多留一格听——无有入无间。天下希及之，因为慢、因为不显、因为不像胜利。不言之教最难：你做了，别人学；你说了，别人辩。",
+      "image": "assets/DaoDeJing/箭墙 - 通用 - 通用.jpg",
+      "pause_after_sec": 0.72,
+      "motion": "pan_right"
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，用柔：穿透靠持续，不靠一次撞墙。第二，敬无有：空气、信任、空间，是高级资源。第三，信无为：少堵缝，多守边界。第四，行不言：示范比口号贵十倍。下一章，「名与身孰亲」——知足知止，可以长久。",
+      "image": "assets/DaoDeJing/刺绣 - ch44 - 通用.jpg",
+      "pause_after_sec": 0.78,
+      "motion": "pan_left"
+    }
+  ],
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  }
+}

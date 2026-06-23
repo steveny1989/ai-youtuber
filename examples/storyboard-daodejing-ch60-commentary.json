@@ -1,0 +1,218 @@
+{
+  "title": "观念黑盒：《道德经》第60章精解",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "1",
+      "label": "承上：啬"
+    },
+    {
+      "id": "2",
+      "label": "五段破译"
+    },
+    {
+      "id": "3",
+      "label": "东西方互证"
+    },
+    {
+      "id": "4",
+      "label": "不相伤"
+    },
+    {
+      "id": "5",
+      "label": "认知补丁"
+    }
+  ],
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "filename": "daodejing-ch60-commentary.mp4"
+  },
+  "style": {
+    "background_color": "#0a1210",
+    "motion": "auto",
+    "subtitle_style": "shadow",
+    "subtitle_align": "center",
+    "subtitle_font_size": 58,
+    "subtitle_color": "#f2f0e8",
+    "subtitle_margin_bottom": 80,
+    "subtitle_max_width_ratio": 0.94,
+    "subtitle_max_lines": 1
+  },
+  "watermark": {
+    "text": "观念黑盒"
+  },
+  "ambient": {
+    "enabled": true,
+    "dust_opacity": 0.15,
+    "ink_opacity": 0.07,
+    "water_opacity": 0.09
+  },
+  "tts": {
+    "provider": "edge",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "-10%"
+  },
+  "cover": {
+    "enabled": false
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27",
+    "channel_url": "https://www.youtube.com/@观念黑盒",
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "治大国若烹小鲜",
+      "哲学",
+      "第60章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十章精解——烹小鲜与两不相伤。",
+    "timeline_heading": "📌 章节时间轴（点击时间戳跳转）",
+    "timeline": [
+      {
+        "scene": "intro-bridge",
+        "label": "过渡 · 承上启下"
+      },
+      {
+        "scene": "open-1",
+        "label": "烹小鲜"
+      },
+      {
+        "scene": "open-ext1",
+        "label": "东西方互证"
+      },
+      {
+        "scene": "open-ext2",
+        "label": "德交归"
+      },
+      {
+        "scene": "open-close",
+        "label": "认知补丁"
+      }
+    ],
+    "playlist_id": "PLq9h9jWlRrSIRLpfBbxcO_TQOtQTXff6W",
+    "made_for_kids": false,
+    "default_language": "zh-CN",
+    "description_footer": "观念黑盒正在起号阶段，你的关注是我们把《道德经》八十一讲讲完的最大动力。欢迎订阅 / 关注，我们下一章见。"
+  },
+  "bilibili": {
+    "channel_url": "https://space.bilibili.com/481103225",
+    "tid": 124,
+    "copyright_original": true,
+    "tags": [
+      "道德经",
+      "老子",
+      "观念黑盒",
+      "治大国若烹小鲜",
+      "哲学",
+      "第60章"
+    ],
+    "description_intro": "观念黑盒：《道德经》第六十章精解——烹小鲜与两不相伤。",
+    "dynamic": "治大国，若烹小鲜——两不相伤，故德交归焉。观念黑盒起号中，欢迎点个关注，八十一讲我们会讲完。",
+    "series_id": 5133803,
+    "season_id": 0,
+    "no_reprint": true,
+    "open_elec": false,
+    "reuse_youtube_timeline": true
+  },
+  "bgm": {
+    "enabled": false,
+    "tracks": [
+      "assets/BGM/Music_fx_relaxing_chinese_flute.wav",
+      "assets/BGM/Music_fx_relaxing_chinese_guzheng.wav"
+    ],
+    "volume": 0.14,
+    "crossfade_sec": 5,
+    "fade_in_sec": 2.5,
+    "fade_out_sec": 5,
+    "switch_at_scene": "open-ext1"
+  },
+  "ending": {
+    "enabled": true,
+    "image": "assets/avatar.webp",
+    "duration_sec": 0,
+    "narration": "观念黑盒还在起号。若这套读法对你有用，欢迎点个关注——八十一讲，我们会讲完。"
+  },
+  "scenes": [
+    {
+      "id": "intro-bridge",
+      "narration": "第五十九章讲「莫若啬」——深根固柢，长生久视。第六十章，老子用一喻收束：「治大国，若烹小鲜。」以道莅天下，其鬼不神；非其鬼不神，其神不伤人；圣人亦不伤人。夫两不相伤，故德交归焉。这一章，是「少翻动」的大国之术：小火、少搅、双方不伤人，德才交会。第五十九章「啬」在此落地：大国与小鲜，同一逻辑——少动，才熟。",
+      "image": "assets/DaoDeJing/plc_05_cooking_fish_tripod.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.85
+    },
+    {
+      "id": "open-1",
+      "narration": "我们逐段破译：烹小鲜、鬼不神，与两不相伤。",
+      "image": "assets/DaoDeJing/炭火 - Ch60.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s1",
+      "narration": "第一段：「治大国，若烹小鲜。」小鲜——小鱼，嫩，一翻就碎。大国——系统大，牵一发动全身。若烹小鲜：少翻、少改、少折腾，火候到了，它自己熟。频繁政策翻饼、组织大改，就是不断翻锅——鱼碎，汤浊。改一次，停一阵，看熟没熟——比连改五版更像「道莅天下」。",
+      "image": "assets/DaoDeJing/plc_01_towering_walls.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s2",
+      "narration": "第二段：「以道莅天下，其鬼不神。」以道莅——用道坐镇，不是用恐吓坐镇。其鬼不神——邪门歪道、阴谋诡计，在道上不灵；不是鬼不存在，是鬼也伤不了正。靠恐惧治理，鬼就神；靠道，鬼退。",
+      "image": "assets/DaoDeJing/plc_14_moongate_garden.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s3",
+      "narration": "第三段：「非其鬼不神，其神不伤人；非其神不伤人，圣人亦不伤人。」神不伤人——规律、权威、制度，若正，就不以伤人为代价；圣人不伤人——上面先不伤人，下面才不必互害。伤人的系统，必逼出鬼。KPI 羞辱、公开排名、甩锅文化——都是「神伤人」的现代版，下面只好用鬼来对扛。",
+      "image": "assets/DaoDeJing/ep02_49_bowing_official_shadow.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s4",
+      "narration": "第四段：「夫两不相伤，故德交归焉。」两——上与管理、民与民、人与系统；不相伤——不互割、不互榨、不互 scare。德交归——德在交汇处回流，不是单边灌输，是双向滋养。烹小鲜的终极：锅不烧穿，鱼不翻烂，汤自清。",
+      "image": "assets/DaoDeJing/wat_04_river_convergence.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "s5",
+      "narration": "第五段：（全章收束）把五十九的啬，与六十的烹，合看：啬是少耗，烹是少动；深根是慢，不翻是稳。大国若小鲜——规模越大，动作应越小、越准、越可预期。这是老子给治理者的最后温柔：别用力过猛，你护的是活物。对个人：大目标也要小火候——每日微调，胜过年度推倒重来。",
+      "image": "assets/DaoDeJing/plc_08_meticulous_governance.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.62
+    },
+    {
+      "id": "open-ext1",
+      "narration": "中医「治未病」，少治而养，与烹小鲜同脉。西方「最小有效剂量」，医学与政策都怕过度干预。日本「改善」哲学——小步微调，不大翻锅，与以道莅、少翻动同向。",
+      "image": "assets/DaoDeJing/plc_04_midnight_courtyard.jpg",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-ext2",
+      "narration": "回到今天。大公司一年三次组织架构调整——烹小鲜变炸鱼。管理靠恐惧 KPI，鬼就神：内斗、甩锅、造假。两不相伤：取消羞辱式复盘，取消公开处刑式排名——德才交得回来。个人：别每天翻自己的「人生锅」——方向月月改，根永远长不深。组织改结构，像烹小鲜：一次只动一处，观察再动下一处。",
+      "image": "assets/DaoDeJing/plc_12_discarded_tablets.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "s-ext2",
+      "narration": "个人：你的「大国」——事业、家庭——本周少翻一次锅：不改名、不推翻、不全面重启。烹小鲜：一件事用最小改动推进，不另起炉灶。两不相伤：一句硬话忍住，看关系是否更稳。德交归：帮人不伤人，不求控制，求共生。烹小鲜的火候，也是关系的火候：少翻旧账，多留余温。",
+      "image": "assets/DaoDeJing/Pure Courtyard - Ch01.png",
+      "motion": "pan_right",
+      "pause_after_sec": 0.72
+    },
+    {
+      "id": "open-close",
+      "narration": "四条认知补丁：第一，治大国若烹小鲜：少翻，少改。第二，以道莅：鬼不神，惧不治国。第三，神与圣人不伤人：上面先止伤。第四，两不相伤，德交归：双向滋养。烹小鲜——最大的力，是不乱用力。下一章，「为道为天下」——侯王守之，万物自宾。八十一讲已进第六十章——治国三喻：啬、烹、守，一脉相承。",
+      "image": "assets/DaoDeJing/plc_15_empty_throne_dust.jpg",
+      "motion": "pan_left",
+      "pause_after_sec": 0.78
+    }
+  ]
+}
